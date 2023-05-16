@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chad Thompson-Smith</h1>
-<h3 align="center">A passionate full-stack junior developer from Erie, PA.</h3>
+<h3 align="center">A passionate junior software developer from Erie, PA.</h3>
 
-- 🔭 I’m currently working on [A Real Estate Property Tracker/Analyzer](https://github.com/tsmith4014/Real_Estate_Tracker)
+- 🔭 I’m currently working on [A Real Estate Property Tracker/Analyzer hybrid Fitness mobile app](https://github.com/tsmith4014/Real_Estate_Tracker)
 
-- 🌱 I’m currently learning **React, Django, and Flask**
+- 🌱 I’m currently learning **workplace automation using ChatGPT-4, and numerous Python libaries like Selenium,  **
 
 - 👯 I’m looking to collaborate on **Anything from front/back end to data science projects.**
 
-- 💬 Ask me about **Data :)**
+- 💬 Ask me about **ChatGPT, Data manipulation, and Automation**
 
 - 📫 How to reach me **chjthomps@gmail.com**
 
