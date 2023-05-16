@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A Real Estate Property Tracker/Analyzer hybrid Fitness mobile app](https://github.com/tsmith4014/Real_Estate_Tracker)
 
-- 🌱 I’m currently learning **Workplace automation using ChatGPT-4, along with numerous Python libaries like Selenium, pandas, schedule, os, time, and Chrome WebDriver  **
+- 🌱 I’m currently learning **Workplace automation using ChatGPT-4, along with numerous Python libaries like Selenium, pandas, schedule, os, time, and Chrome WebDriver.**
 
 - 👯 I’m looking to collaborate on **Anything from front/back end to data science projects.**
 
