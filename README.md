@@ -10,7 +10,7 @@
 
 📫 How to reach me: chjthomps@gmail.com
 
-⚡ Fun fact: A hotdog is a sandwich
+⚡ AI Joke of the Day: Why did the tomato turn red? Because it saw the salad dressing :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
