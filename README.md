@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on workplace automation, front & backend web and mobile dev, and data science projects.
 
-💬 Ask me about ChatGPT, Data manipulation, and Automation
+💬 Ask me about Statistics, Software Dev, ChatGPT, Data manipulation, and Work Place Automation.
 
 📫 How to reach me: chjthomps@gmail.com
 
