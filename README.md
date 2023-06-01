@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chad Thompson-Smith</h1>
-<h3 align="center">A passionate Software Engineer, Conversational AI Designer, Automation Specialist, Statistical Analyst & Consultant, and Military Veteran from Erie, PA.</h3>
+<h3 align="center">A passionate Software Developer, Conversational AI Designer, Automation Specialist, Statistical Analyst & Consultant, and Military Veteran from Erie, PA.</h3>
 🔭 I’m currently working on A Real Estate Property Tracker/Analyzer hybrid Fitness mobile app, in addition to workplace automation witin the logisitcs sector as well as the education sector.
 
 🌱 I’m currently learning Workplace automation using ChatGPT-4 and Python libraries like Selenium, pandas, schedule, os, time, and Chrome WebDriver.
