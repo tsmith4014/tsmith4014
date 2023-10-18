@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Chad Thompson-Smith</h1>
-<h3 align="center">A passionate Software Developer, Conversational AI Designer, Automation Specialist, Statistical Analyst & Consultant, and Military Veteran from Erie, PA.</h3>
-🔭 I’m currently working on A Real Estate Property Tracker/Analyzer hybrid Fitness mobile app, in addition to workplace automation witin the logisitcs sector as well as the education sector.
+<h3 align="center">A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.</h3>
 
-🌱 I’m currently learning Workplace automation using ChatGPT-4 and Python libraries like Selenium, pandas, schedule, os, time, and Chrome WebDriver.
+🔭 (DevOps) I’m currently working on AWS Network Architecture Design, building VPCs with public and private EC2 instances, and implementing AWS best practices. [AWS Network Diagram](https://tsmith4014.github.io/I-Animated-AWS-Network-diagram/).  
+(Software Dev) A Real Estate Property Tracker/Analyzer hybrid Fitness mobile app, in addition to workplace automation within the logistics and education sectors.
 
-👯 I’m looking to collaborate on workplace automation, front & backend web and mobile dev, and data science projects.
+🌱 I’m currently diving deep into AWS architecture, focusing on building secure and scalable VPCs. I'm hosting WordPress on public EC2 instances and databases on private instances, adhering to AWS best practices.
 
-💬 Ask me about Statistics, Software Dev, ChatGPT, Data manipulation, and Work Place Automation.
+👯 I’m looking to collaborate on workplace automation, front & backend web and mobile dev, data science projects, and AWS architecture design.
+
+💬 Ask me about AWS, DevOps, Statistics, Software Dev, ChatGPT, Data manipulation, and Workplace Automation.
 
 📫 How to reach me: chjthomps@gmail.com
 
 ⚡ AI Joke of the Day: Why did the tomato turn red? Because it saw the salad dressing :)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
