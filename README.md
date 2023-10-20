@@ -19,7 +19,7 @@ I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at 
 
 > **Attribution**: Jokes are fetched from [JokeAPI](https://jokeapi.dev/).
 
-⚡ **AI Joke of the Day: 🤖 [Your joke will be inserted here by the GitHub Action]**
+⚡ AI Joke of the Day: 🤖 [Your joke will be inserted here by the GitHub Action]**
 
 ---
 
