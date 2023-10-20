@@ -9,14 +9,15 @@ my_secret_key = os.environ['MY_SECRET_KEY']
 response = requests.get("https://v2.jokeapi.dev/joke/Programming?format=json")
 joke_data = response.json()
 
-print("Debug: Received joke data:", joke_data)  # Debugging line
+# Format the joke based on its type
+if joke_data['type'] == 'single':
+    joke = joke_data['joke']
+else:  # Assuming the only other type is 'twopart'
+    joke = f"{joke_data['setup']} {joke_data['delivery']}"
 
-# Check if 'setup' and 'delivery' keys exist in the response
-if 'setup' in joke_data and 'delivery' in joke_data:
-    joke = joke_data['setup'] + " " + joke_data['delivery']
-else:
-    print("Debug: 'setup' and/or 'delivery' keys not found. Using a default joke.")  # Debugging line
-    joke = "Why do programmers prefer dark mode? Because light attracts bugs."
+print(f"Debug: Received joke data: {joke_data}")
+print(f"Formatted joke: {joke}")
+
 
 # Fetch the current README.md file from your GitHub repository
 g = Github(my_secret_key)
