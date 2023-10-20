@@ -19,6 +19,8 @@ jobs:
         python-version: '3.x'
     - name: Debugging step (List directory)
       run: ls -al
+    - name: Debugging step (Check secret length)
+      run: echo "Length of MY_SECRET_KEY is ${#MY_SECRET_KEY}"
     - name: Install dependencies
       run: pip install -r requirements.txt
     - name: Run Python script
