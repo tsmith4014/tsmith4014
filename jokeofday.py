@@ -11,7 +11,7 @@ joke_data = response.json()
 joke = joke_data['setup'] + " " + joke_data['delivery']
 
 # Fetch the current README.md file from your GitHub repository
-g = Github("my_secret_key")
+g = Github(my_secret_key)
 repo = g.get_repo("tsmith4014/tsmith4014")
 contents = repo.get_contents("README.md")
 readme_data = base64.b64decode(contents.content).decode("utf-8")
