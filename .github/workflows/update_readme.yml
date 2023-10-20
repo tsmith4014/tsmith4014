@@ -1,0 +1,22 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    env:
+      MY_SECRET_KEY: ${{ secrets.MY_SECRET_KEY }}
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+    - name: Run Python script
+      run: python ./update_readme.py
