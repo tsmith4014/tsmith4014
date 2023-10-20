@@ -7,20 +7,61 @@
 - 💻 **Software Dev**: Real Estate Property Tracker/Analyzer hybrid Fitness mobile app, in addition to workplace automation within the logistics and education sectors.  
 - 📊 **Data Science**: Building a predictive model for NFL player and team metrics, focusing on injuries, points scored, and other key performance indicators. Utilizing machine learning algorithms to predict player injuries and performance for medical evaluations and sports gambling, including fantasy sports outcomes.
 
-🌱 I’m currently diving deep into AWS architecture, focusing on building secure and scalable VPCs. Hosting WordPress on public EC2 instances and databases on private instances, adhering to AWS best practices.
+## 🛠️ DevOps Practices in Action
 
-👯 I’m looking to collaborate on workplace automation, front & backend web and mobile dev, data science projects, and AWS architecture design. Specializing in AWS services like EC2, RDS, VPC, and Lambda for serverless architecture, CI/CD pipelines with Jenkins or AWS CodePipeline, and container orchestration with Docker and Kubernetes.
+I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at midnight, a GitHub Action runs a Python script that fetches a new programming joke from the [JokeAPI](https://jokeapi.dev/). It then updates this README.md with the new joke, providing a fresh laugh every day! This is a simple but real-world example of how automation can work in a DevOps CI/CD pipeline.
 
-💬 Ask me about AWS, DevOps, Statistics, Software Dev, ChatGPT, Data manipulation, and Workplace Automation.
+> **Automation Configuration**: The entire process is automated using a `.yml` configuration file that resides in the `.github/workflows` directory of this repository. This YAML file defines the GitHub Action, specifying when it should run, what script it should execute, and other settings to ensure smooth operation.
 
-📫 How to reach me: 📧 chjthomps@gmail.com
+> **Use of Secrets and Environment Variables**: To keep sensitive information secure, I use GitHub Secrets to store API keys and other confidential data. These secrets are then mapped to environment variables within the `.yml` file, ensuring they are securely passed to the running script without being exposed.
 
-⚡ AI Joke of the Day: 🤖 Why did the Python programmer not respond to the foreign mails he got? Because his interpreter was busy collecting garbage.
+> **GitHub Actions**: The GitHub Action is configured to use a specific runner environment, install necessary dependencies, and execute the Python script. It also sets up caching and error-handling mechanisms to optimize the workflow.
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/chad-thompson-smith/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+> **Attribution**: Jokes are fetched from [JokeAPI](https://jokeapi.dev/).
+
+⚡ **AI Joke of the Day: 🤖 [Your joke will be inserted here by the GitHub Action]**
+
+---
+
+🌱 I’m currently diving deep into:
+- **AWS Architecture**: 
+  - Building secure and scalable VPCs with multiple subnets.
+  - Implementing NAT Gateways to allow private servers internet access via a public server on the same VPC.
+  - Configuring Security Groups and NACLs for robust security measures.
+  - Utilizing AWS Config for compliance checks and resource tracking.
+- **Web Hosting**: Hosting WordPress on public EC2 instances with optional offsite private database Direct Connect functionality.
+- **Database Management**: Using private instances for databases, adhering to AWS best practices.
+
+
+👯 I’m looking to collaborate on:
+- Workplace automation
+- Front & backend web and mobile dev
+- Data science projects
+- AWS architecture design
+
+💬 Ask me about:
+- AWS
+- DevOps
+- Statistics
+- Software Dev
+- ChatGPT
+- Data manipulation
+- Workplace Automation
+
+## 🌟 Show Some Love 🌟
+
+If you've found value in my work or you're inspired by what you see, go ahead and give my profile a ⭐️! Your support encourages me to keep pushing the boundaries and contribute more to the tech community.
+
+👉 **Follow Me**: If you're into DevOps, AWS, Data Science, or Software Development, hit that follow button! I'm always working on exciting projects and sharing valuable insights. 🚀
+
+🔗 **Let's Connect**: Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/chad-thompson-smith/) or drop me an email at 📧 chjthomps@gmail.com. I'm open to collaborations, consultations, or even a friendly chat.
+
+👀 **Interested in My Repos?**: If you find my repositories useful, consider giving them a ⭐️. Your stars serve as a constant motivation for me to create more innovative projects.
+
+📢 **Spread the Word**: If you think others can benefit from my work, share it across your network. After all, the best things in life are meant to be shared! 🌍
+
+So go ahead, make my day with your ⭐️ and follows! 🥳
+
 <!-- <a href="https://medium.com/@chjthomps" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chjthomps" height="30" width="40" /></a> -->
 
 
