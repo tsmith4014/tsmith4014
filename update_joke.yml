@@ -1,0 +1,22 @@
+name: Update Joke of the Day
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # runs every 12 hours
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: pip install PyGithub
+    - name: Update Joke
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: python path/to/your/script.py
