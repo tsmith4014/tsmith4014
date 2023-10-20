@@ -11,6 +11,8 @@ jobs:
     env:
       MY_SECRET_KEY: ${{ secrets.MY_SECRET_KEY }}
     steps:
+    - name: Debugging step
+      run: echo "Starting debug"
     - name: Check out code
       uses: actions/checkout@v2
     - name: Set up Python
