@@ -15,7 +15,7 @@
 
 📫 How to reach me: 📧 chjthomps@gmail.com
 
-⚡ AI Joke of the Day: 🤖 Why did the tomato turn red? Because it saw the salad dressing :)
+⚡ AI Joke of the Day: 🤖 "We messed up the keming again guys."
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
