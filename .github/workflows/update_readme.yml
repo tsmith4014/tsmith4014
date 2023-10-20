@@ -20,4 +20,4 @@ jobs:
     - name: Debugging step (List directory)
       run: ls -al
     - name: Run Python script
-      run: python ./update_readme.py
+      run: python ./jokeofday.py
