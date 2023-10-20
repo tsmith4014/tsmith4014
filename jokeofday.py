@@ -25,8 +25,19 @@ repo = g.get_repo("tsmith4014/tsmith4014")
 contents = repo.get_contents("README.md")
 readme_data = base64.b64decode(contents.content).decode("utf-8")
 
+# ... (previous code remains the same)
+
 # Replace the joke in the README.md file
-new_readme_data = readme_data.replace("⚡ AI Joke of the Day: 🤖 YOUR_OLD_JOKE", f"⚡ AI Joke of the Day: 🤖 {joke}")
+readme_lines = readme_data.split('\n')
+for i, line in enumerate(readme_lines):
+    if line.startswith("⚡ AI Joke of the Day: 🤖"):
+        readme_lines[i] = f"⚡ AI Joke of the Day: 🤖 {joke}"
+        break
+else:
+    print("Joke string not found in README.md. No update performed.")
+
+new_readme_data = '\n'.join(readme_lines)
 
 # Update the README.md file in your GitHub repository
 repo.update_file(contents.path, "Updated Joke of the Day", new_readme_data, contents.sha)
+
