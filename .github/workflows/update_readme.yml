@@ -11,15 +11,13 @@ jobs:
     env:
       MY_SECRET_KEY: ${{ secrets.MY_SECRET_KEY }}
     steps:
-    - name: Debugging step
-      run: echo "Starting debug"
     - name: Check out code
       uses: actions/checkout@v2
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-    - name: Install dependencies
-      run: pip install -r requirements.txt
+    - name: Debugging step (List directory)
+      run: ls -al
     - name: Run Python script
       run: python ./update_readme.py
