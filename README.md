@@ -44,8 +44,8 @@ To keep sensitive information secure, I use GitHub Secrets to store API keys and
 The GitHub Action is configured to use a specific runner environment, install necessary dependencies, and execute the Python script. It also sets up caching and error-handling mechanisms to optimize the workflow.
 #### Attribution
 Jokes are fetched from [JokeAPI](https://jokeapi.dev/).
-### ⚡ AI Joke of the Day
-🤖 A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer. We don't worry about warnings; we only worry about errors."
+### ⚡ AI Joke of the Day 🤖
+A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer. We don't worry about warnings; we only worry about errors."
 
 ---
 
