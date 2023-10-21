@@ -16,18 +16,18 @@
   - Using AWS CloudWatch for monitoring and logging.
   - Adhering to AWS Well-Architected Framework best practices.
     
-- 💻 **Software Dev**: Real Estate Property Tracker/Analyzer hybrid Fitness mobile app
-  - Workplace automation within the logistics and education sectors.
+- 💻 **Software Dev**: Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
+  - Workplace automation within the logistics and education sectors. I love YAML!
     
 - 📊 **Data Science**: Building a predictive model for NFL player and team metrics
-  - Focusing on injuries, points scored, and other key performance indicators.
+  - Focused on modeling injuries with points scored, and other key performance, enviromental, and wildcard indicators.
   - Utilizing machine learning algorithms for predictive analytics.
 
 
 
 ### 🛠️ DevOps Practices in Action
 
-I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at midnight, a GitHub Action runs a Python script that fetches a new programming joke from the [JokeAPI](https://jokeapi.dev/). It then updates this `README.md` with the new joke, providing a fresh laugh every day!
+I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at midnight, a GitHub Action runs a Python script that fetches a new programming joke from tJokeAPI. It then updates this `README.md` with the new joke, providing a fresh laugh every day!
 
 #### Automation Configuration
 The entire process is automated using a `.yml` configuration file that resides in the `.github/workflows` directory of this repository. This YAML file defines the GitHub Action, specifying when it should run, what script it should execute, and other settings to ensure smooth operation.
