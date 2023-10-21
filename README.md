@@ -1,30 +1,54 @@
-<h1 align="center">Hi 👋, I'm Chad Thompson-Smith</h1>
-<h3 align="center">🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.</h3>
+<!-- <a href="https://medium.com/@chjthomps" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chjthomps" height="30" width="40" /></a> -->
 
-🔭 I’m currently working on:  
-- 🛠️ **DevOps**: AWS Network Architecture Design, focusing on building robust and secure VPCs with public and private subnets, NACLs, and Security Groups. Deploying EC2 instances across multiple Availability Zones for high availability and fault tolerance. Setting up NAT Gateways for outbound traffic from private instances. Implementing Route 53 for DNS management and using AWS CloudWatch for monitoring and logging. Adhering to AWS Well-Architected Framework best practices. [AWS Network Diagram 🎨 (Created by Me)](https://tsmith4014.github.io/I-Animated-AWS-Network-diagram/).
-  
-- 💻 **Software Dev**: Real Estate Property Tracker/Analyzer hybrid Fitness mobile app, in addition to workplace automation within the logistics and education sectors.  
-- 📊 **Data Science**: Building a predictive model for NFL player and team metrics, focusing on injuries, points scored, and other key performance indicators. Utilizing machine learning algorithms to predict player injuries and performance for medical evaluations and sports gambling, including fantasy sports outcomes.
 
-## 🛠️ DevOps Practices in Action
+# Hi 👋, I'm Chad Thompson-Smith
 
-I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at midnight, a GitHub Action runs a Python script that fetches a new programming joke from the [JokeAPI](https://jokeapi.dev/). It then updates this README.md with the new joke, providing a fresh laugh every day! This is a simple but real-world example of how automation can work in a DevOps CI/CD pipeline.
+### 🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.
 
-> **Automation Configuration**: The entire process is automated using a `.yml` configuration file that resides in the `.github/workflows` directory of this repository. This YAML file defines the GitHub Action, specifying when it should run, what script it should execute, and other settings to ensure smooth operation.
+## 🔭 I’m currently working on:  
 
-> **Use of Secrets and Environment Variables**: To keep sensitive information secure, I use GitHub Secrets to store API keys and other confidential data. These secrets are then mapped to environment variables within the `.yml` file, ensuring they are securely passed to the running script without being exposed.
+- 🛠️ **DevOps**: AWS Network Architecture Design
+  - [AWS Network Diagram 🎨 (Created by Me)](https://tsmith4014.github.io/I-Animated-AWS-Network-diagram/)
+  - Focusing on building robust and secure VPCs with public and private subnets, NACLs, and Security Groups.
+  - Deploying EC2 instances across multiple Availability Zones for high availability and fault tolerance.
+  - Setting up NAT Gateways for outbound traffic from private instances.
+  - Implementing Route 53 for DNS management.
+  - Using AWS CloudWatch for monitoring and logging.
+  - Adhering to AWS Well-Architected Framework best practices.
+- 💻 **Software Dev**: Real Estate Property Tracker/Analyzer hybrid Fitness mobile app
+  - Workplace automation within the logistics and education sectors.
+- 📊 **Data Science**: Building a predictive model for NFL player and team metrics
+  - Focusing on injuries, points scored, and other key performance indicators.
+  - Utilizing machine learning algorithms for predictive analytics.
 
-> **GitHub Actions**: The GitHub Action is configured to use a specific runner environment, install necessary dependencies, and execute the Python script. It also sets up caching and error-handling mechanisms to optimize the workflow.
+### 🛠️ DevOps Practices in Action
 
-> **Attribution**: Jokes are fetched from [JokeAPI](https://jokeapi.dev/).
+I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at midnight, a GitHub Action runs a Python script that fetches a new programming joke from the [JokeAPI](https://jokeapi.dev/). It then updates this `README.md` with the new joke, providing a fresh laugh every day!
 
-⚡ AI Joke of the Day: 🤖 If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+#### Automation Configuration
+The entire process is automated using a `.yml` configuration file that resides in the `.github/workflows` directory of this repository. This YAML file defines the GitHub Action, specifying when it should run, what script it should execute, and other settings to ensure smooth operation.
+
+#### Use of Secrets and Environment Variables
+To keep sensitive information secure, I use GitHub Secrets to store API keys and other confidential data. These secrets are then mapped to environment variables within the `.yml` file, ensuring they are securely passed to the running script without being exposed.
+
+#### GitHub Actions
+The GitHub Action is configured to use a specific runner environment, install necessary dependencies, and execute the Python script. It also sets up caching and error-handling mechanisms to optimize the workflow.
+
+#### Attribution
+Jokes are fetched from [JokeAPI](https://jokeapi.dev/).
+
+### ⚡ AI Joke of the Day
+🤖 A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer. We don't worry about warnings; we only worry about errors."
 
 ---
 
-🌱 I’m currently diving deep into:
-- **AWS Architecture**: 
+## 🎼 Balance in Code and Life 🍃
+
+Professionally, I am deeply involved in cloud architecture, software development, Statistics, API creation & database management. However, it's not just about balance in code; it's about balance in life! When I'm not engrossed in technology, you can find me at the VA practicing Chi Gong and Tai Chi for mental and physical harmony. The practice involves intricate movements with a traditional Chinese fan, adding an engaging dynamic to the practice while enhancing balance and focus. I also take this balance to the community by volunteering at my local Humane Society, helping our four-legged friends find forever homes 🐱🐶. 
+
+## 🌱 I’m currently diving deep into:
+
+- **AWS Architecture**:
   - Building secure and scalable VPCs with multiple subnets.
   - Implementing NAT Gateways to allow private servers internet access via a public server on the same VPC.
   - Configuring Security Groups and NACLs for robust security measures.
@@ -32,38 +56,42 @@ I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at 
 - **Web Hosting**: Hosting WordPress on public EC2 instances with optional offsite private database Direct Connect functionality.
 - **Database Management**: Using private instances for databases, adhering to AWS best practices.
 
+## 👯 I’m looking to collaborate, teach/learn, or just chat 💬 re:
 
-👯 I’m looking to collaborate on:
 - Workplace automation
-- Front & backend web and mobile dev
+- DevOps
+- Front & backend web and mobile development
 - Data science projects
 - AWS architecture design
-
-💬 Ask me about:
-- AWS
-- DevOps
 - Statistics
-- Software Dev
 - ChatGPT
 - Data manipulation
-- Workplace Automation
 
-## 🌟 Show Some Love 🌟
+## 🛠️ Projects
 
-If you've found value in my work or you're inspired by what you see, go ahead and give my profile a ⭐️! Your support encourages me to keep pushing the boundaries and contribute more to the tech community.
+- **ABHES Q&A Bot**
+  - Leveraging ChatGPT-4 and multiple ChatGPT 3.5-turbo instances, efficiently designed and generated a comprehensive Object/Dictionary lookup table from the ABHES annual regulatory report.
+    - Developed a cost-effective solution that processed a 225-page PDF URL endpoint in under 15 minutes at a cost of less than $3.50, creating over 800 unique questions and answers related to state regulatory agency (ABHES) standards.
+    - Automated the Q&A generation, bypassing the need for a legal expert in health education and accreditation, resulting in a cost savings of approximately $34,000 represented by 112 hours in expert legal consultancy fees.
+    - Utilized the generated lookup table to power an autonomous, overhead cost-free question-and-answer chatbot, streamlining access to essential regulatory information.
 
-👉 **Follow Me**: If you're into DevOps, AWS, Data Science, or Software Development, hit that follow button! I'm always working on exciting projects and sharing valuable insights. 🚀
+## 👨‍💻 Experience
 
-🔗 **Let's Connect**: Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/chad-thompson-smith/) or drop me an email at 📧 chjthomps@gmail.com. I'm open to collaborations, consultations, or even a friendly chat.
+- **Software Developer & DevOps Practitioner 2022 - 2023 | Statistical Analyst & Consultant 2005 – 2023**
+  - Utilized ChatGPT-4 and 3 ChatGPT 3.5-turbo instances to generate an Object/Dictionary lookup table from a 225-page ABHES report in under 15 minutes for less than $3.50, creating 800+ unique Q&As, saving $34,000 in legal consultancy fees, and powering a cost-free chatbot for easy access to regulatory information.
+  - Residential Sales Analysis: Python scripted automated retrieval of 20 years of Erie County property sales, seeding an SQL database with 20,000+ records for trend analysis, geolocation coordinate generation, and API creation.
 
-👀 **Interested in My Repos?**: If you find my repositories useful, consider giving them a ⭐️. Your stars serve as a constant motivation for me to create more innovative projects.
+- **Statistical Analyst & Consultant 2005-2023**
+  - Founder and Lead Analyst specializing in applied statistics, quantitative econometrics, and data-driven decision-making, with a focus on providing accurate and actionable insights.
+  - Leveraged R programming/libraries to analyze student/teacher data for a for-profit institution, identifying grade inflation through a curated algorithm, subsequently applied in multiple efficiency layoff rounds.
 
-📢 **Spread the Word**: If you think others can benefit from my work, share it across your network. After all, the best things in life are meant to be shared! 🌍
+## 🎓 Education
 
-So go ahead, make my day with your ⭐️ and follows! 🥳
-
-<!-- <a href="https://medium.com/@chjthomps" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chjthomps" height="30" width="40" /></a> -->
-
+- 🛠️ **Code Platoon – DevOps and Cloud Engineering Bootcamp, Chicago, IL, expected April 2024**
+- 💻 **Code Platoon - Full Stack Web Development Bootcamp, Chicago, IL, 2023**
+- 📊 **The Pennsylvania State University – Applied Statistics Graduate Certificate, State College, PA, 2015**
+- 📈 **University of California, San Diego – B.A. in Economics, San Diego, CA, 2011**
+- 📚 **San Diego Mesa College – A.A. in Business Education, State College, PA, 2008**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -96,44 +124,12 @@ So go ahead, make my day with your ⭐️ and follows! 🥳
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/></a>
  </p>
-<h3 align="left">🛠️ Projects:</h3>
-<ul>
-  <li>
-    <strong>ABHES Q&A Bot</strong> – Leveraging ChatGPT-4 and multiple ChatGPT 3.5-turbo instances, efficiently designed and generated a comprehensive Object/Dictionary lookup table from the ABHES annual regulatory report.
-    <ul>
-      <li>Developed a cost-effective solution that processed a 225-page PDF URL endpoint in under 15 minutes at a cost of less than $3.50, creating over 800 unique questions and answers related to state regulatory agency (ABHES) standards.</li>
-      <li>Automated the Q&A generation, bypassing the need for a legal expert in health education and accreditation, resulting in a cost savings of approximately $34,000 represented by 112 hours in expert legal consultancy fees.</li>
-      <li>Utilized the generated lookup table to power an autonomous, overhead cost-free question-and-answer chatbot, streamlining access to essential regulatory information.</li>
-    </ul>
-  </li>
-</ul>
 
-<h3 align="left">👨‍💻 Experience:</h3>
-<p>
-  <strong>Software Developer & DevOps Practitioner 2022 - 2023 | Statistical Analyst & Consultant 2005 – 2023</strong>
-  <br>
-  <ul>
-    <li>Utilized ChatGPT-4 and 3 ChatGPT 3.5-turbo instances to generate an Object/Dictionary lookup table from a 225-page ABHES report in under 15 minutes for less than $3.50, creating 800+ unique Q&As, saving $34,000 in legal consultancy fees, and powering a cost-free chatbot for easy access to regulatory information.</li>
-    <li>Residential Sales Analysis: Python scripted automated retrieval of 20 years of Erie County property sales, seeding an SQL database with 20,000+ records for trend analysis, geolocation coordinate generation, and API creation.</li>
-  </ul>
-</p>
-<p>
-  <strong>Statistical Analyst & Consultant 2005-2023</strong>
-  <ul>
-    <li>Founder and Lead Analyst specializing in applied statistics, quantitative econometrics, and data-driven decision-making, with a focus on providing accurate and actionable insights.</li>
-    <li>Leveraged R programming/libraries to analyze student/teacher data for a for-profit institution, identifying grade inflation through a curated algorithm, subsequently applied in multiple efficiency layoff rounds.</li>
-  </ul>
-</p>
+## 🌟 Show Some Love 🌟
 
-<h3 align="left">🎓 Education:</h3>
-<p>
-  🛠️ <strong>Code Platoon – DevOps and Cloud Engineering Bootcamp, Chicago, IL, expected April 2024</strong>
-  <br>
-  💻 <strong>Code Platoon - Full Stack Web Development Bootcamp, Chicago, IL, 2023</strong>
-  <br>
-  📊 <strong>The Pennsylvania State University – Applied Statistics Graduate Certificate, State College, PA, 2015</strong>
-  <br>
-  📈 <strong>University of California, San Diego – B.A. in Economics, San Diego, CA, 2011</strong>
-  <br>
-  📚 <strong>San Diego Mesa College – A.A. in Business Education, State College, PA, 2008</strong>
-</p>
+If you find value in the work I'm doing or have learned something from one of my projects, consider giving it a ⭐ or forking it to contribute! 
+
+## 📫 How to reach me
+
+Feel free to reach out to me anytime via [LinkedIn](https://www.linkedin.com/in/tsmith4014/), [Twitter](https://twitter.com/tsmith4014), or email me at <tsmith4014@gmail.com>.
+
