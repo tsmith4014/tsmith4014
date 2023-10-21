@@ -36,7 +36,7 @@
 
 I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at midnight, a GitHub Action runs a Python script that fetches a new programming joke from JokeAPI. It then updates this `README.md` with the new joke, providing a fresh laugh every day!
 
-⚡ AI Joke of the Day: 🤖 Judge: "I sentence you to the maximum punishment..."
+⚡ AI Joke of the Day: 🤖 How did you make your friend rage? I implemented a greek question mark in his JavaScript code.
 Me (thinking): "Please be death, please be death..."
 Judge: "Learn Java!"
 Me: "Damn."
