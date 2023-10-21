@@ -25,7 +25,6 @@ repo = g.get_repo("tsmith4014/tsmith4014")
 contents = repo.get_contents("README.md")
 readme_data = base64.b64decode(contents.content).decode("utf-8")
 
-# ... (previous code remains the same)
 
 # Replace the joke in the README.md file
 readme_lines = readme_data.split('\n')
