@@ -36,6 +36,9 @@
 
 I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at midnight, a GitHub Action runs a Python script that fetches a new programming joke from JokeAPI. It then updates this `README.md` with the new joke, providing a fresh laugh every day!
 
+### ⚡ AI Joke of the Day 🤖
+A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer. We don't worry about warnings; we only worry about errors."
+
 #### Automation Configuration
 The entire process is automated using a `.yml` configuration file that resides in the `.github/workflows` directory of this repository. This YAML file defines the GitHub Action, specifying when it should run, what script it should execute, and other settings to ensure smooth operation.
 #### Use of Secrets and Environment Variables
@@ -44,8 +47,7 @@ To keep sensitive information secure, I use GitHub Secrets to store API keys and
 The GitHub Action is configured to use a specific runner environment, install necessary dependencies, and execute the Python script. It also sets up caching and error-handling mechanisms to optimize the workflow.
 #### Attribution
 Jokes are fetched from [JokeAPI](https://jokeapi.dev/).
-### ⚡ AI Joke of the Day 🤖
-A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer. We don't worry about warnings; we only worry about errors."
+
 
 ---
 
