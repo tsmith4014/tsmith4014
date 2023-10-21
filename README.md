@@ -7,21 +7,28 @@
 
 ## 🔭 I’m currently working on:  
 
-- 🛠️ **DevOps**: AWS Network Architecture Design
+- 🛠️ **DevOps**:
+  - AWS Network Architecture Design
+  - Cloud Engineering
   - [AWS Network Diagram 🎨 (Created by Me)](https://tsmith4014.github.io/I-Animated-AWS-Network-diagram/)
   - Focusing on building robust and secure VPCs with public and private subnets, NACLs, and Security Groups.
   - Deploying EC2 instances across multiple Availability Zones for high availability and fault tolerance.
   - Setting up NAT Gateways for outbound traffic from private instances.
   - Implementing Route 53 for DNS management.
-  - Using AWS CloudWatch for monitoring and logging.
+  - Using AWS CloudWatch for monitoring and logging. 
   - Adhering to AWS Well-Architected Framework best practices.
+
     
-- 💻 **Software Dev**: Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
+- 💻 **Software Dev**:
+  - Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
   - Workplace automation within the logistics and education sectors. I love YAML!
+
     
-- 📊 **Data Science**: Building a predictive model for NFL player and team metrics
-  - Focused on modeling injuries with points scored, and other key performance, enviromental, and wildcard indicators.
-  - Utilizing machine learning algorithms for predictive analytics.
+- 📊 **Data Science**:
+  - Building a predictive model for NFL player and team metrics
+    - Focused on modeling injuries with points scored, and other key performance, enviromental, and wildcard indicators.
+    - Utilizing machine learning algorithms for predictive analytics.
+
 
 
 
