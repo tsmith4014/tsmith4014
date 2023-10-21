@@ -40,7 +40,6 @@ I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at 
 Me (thinking): "Please be death, please be death..."
 Judge: "Learn Java!"
 Me: "Damn."
-A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer. We don't worry about warnings; we only worry about errors."
 
 #### Automation Configuration
 The entire process is automated using a `.yml` configuration file that resides in the `.github/workflows` directory of this repository. This YAML file defines the GitHub Action, specifying when it should run, what script it should execute, and other settings to ensure smooth operation.
