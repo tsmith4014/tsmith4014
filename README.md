@@ -32,9 +32,9 @@
 ---
 
 
-### 🛠️ DevOps Practices in Action
+🛠️ DevOps Practices in Action
 
-I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at midnight, a GitHub Action runs a Python script that fetches a new programming joke from JokeAPI. It then updates this `README.md` with the new joke, providing a fresh laugh every day!
+I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at midnight and noon EST, a GitHub Action triggers a YAML configuration file. This file sets up an Ubuntu environment, installs Python, resolves dependencies, and then runs a Python script that fetches a new programming joke from JokeAPI. It then updates this README.md with the new joke, providing a fresh laugh every day!
 
 ⚡ AI Joke of the Day: 🤖 Why is Linux safe? Hackers peak through Windows only. 🤖
 
