@@ -36,7 +36,7 @@
 
 I've implemented a CI/CD pipeline right here in my GitHub profile! Every day at midnight and noon EST, a GitHub Action triggers a YAML configuration file. This file sets up an Ubuntu environment, installs Python, resolves dependencies, and then runs a Python script that fetches a new programming joke from JokeAPI. It then updates this README.md with the new joke, providing a fresh laugh every day!
 **********
-⚡ AI Joke of the Day: 🤖 Algorithm: A word used by programmers when they don't want to explain how their code works. 🤖
+⚡ AI Joke of the Day: 🤖 What is the best prefix for global variables? // 🤖
 **********
 #### Automation Configuration
 The entire process is automated using a `.yml` configuration file that resides in the `.github/workflows` directory of this repository. This YAML file defines the GitHub Action, specifying when it should run, what script it should execute, and other settings to ensure smooth operation.
