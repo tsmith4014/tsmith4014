@@ -42,9 +42,11 @@ Jokes are fetched from [JokeAPI](https://jokeapi.dev/).
 
 ---
 
+
 ## 🎼 Balance in Code and Life 🍃
 
 Professionally, I am deeply involved in cloud architecture, software development, Statistics, API creation & database management. However, it's not just about balance in code; it's about balance in life! When I'm not engrossed in technology, you can find me at the VA practicing Chi Gong and Tai Chi for mental and physical harmony. The practice involves intricate movements with a traditional Chinese fan, adding an engaging dynamic to the practice while enhancing balance and focus. I also take this balance to the community by volunteering at my local Humane Society, helping our four-legged friends find forever homes 🐱🐶. 
+
 
 ## 🌱 I’m currently diving deep into:
 
@@ -55,6 +57,7 @@ Professionally, I am deeply involved in cloud architecture, software development
   - Utilizing AWS Config for compliance checks and resource tracking.
 - **Web Hosting**: Hosting WordPress on public EC2 instances with optional offsite private database Direct Connect functionality.
 - **Database Management**: Using private instances for databases, adhering to AWS best practices.
+
 
 ## 👯 I’m looking to collaborate, teach/learn, or just chat 💬 re:
 
@@ -67,6 +70,7 @@ Professionally, I am deeply involved in cloud architecture, software development
 - ChatGPT
 - Data manipulation
 
+
 ## 🛠️ Projects
 
 - **ABHES Q&A Bot**
@@ -74,6 +78,7 @@ Professionally, I am deeply involved in cloud architecture, software development
     - Developed a cost-effective solution that processed a 225-page PDF URL endpoint in under 15 minutes at a cost of less than $3.50, creating over 800 unique questions and answers related to state regulatory agency (ABHES) standards.
     - Automated the Q&A generation, bypassing the need for a legal expert in health education and accreditation, resulting in a cost savings of approximately $34,000 represented by 112 hours in expert legal consultancy fees.
     - Utilized the generated lookup table to power an autonomous, overhead cost-free question-and-answer chatbot, streamlining access to essential regulatory information.
+
 
 ## 👨‍💻 Experience
 
@@ -85,6 +90,7 @@ Professionally, I am deeply involved in cloud architecture, software development
   - Founder and Lead Analyst specializing in applied statistics, quantitative econometrics, and data-driven decision-making, with a focus on providing accurate and actionable insights.
   - Leveraged R programming/libraries to analyze student/teacher data for a for-profit institution, identifying grade inflation through a curated algorithm, subsequently applied in multiple efficiency layoff rounds.
 
+
 ## 🎓 Education
 
 - 🛠️ **Code Platoon – DevOps and Cloud Engineering Bootcamp, Chicago, IL, expected April 2024**
@@ -92,6 +98,7 @@ Professionally, I am deeply involved in cloud architecture, software development
 - 📊 **The Pennsylvania State University – Applied Statistics Graduate Certificate, State College, PA, 2015**
 - 📈 **University of California, San Diego – B.A. in Economics, San Diego, CA, 2011**
 - 📚 **San Diego Mesa College – A.A. in Business Education, State College, PA, 2008**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -125,11 +132,18 @@ Professionally, I am deeply involved in cloud architecture, software development
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/></a>
  </p>
 
+
 ## 🌟 Show Some Love 🌟
 
-If you find value in the work I'm doing or have learned something from one of my projects, consider giving it a ⭐ or forking it to contribute! 
+If you've found value in my work or you're inspired by what you see, go ahead and give my profile a ⭐️! Your support encourages me to keep pushing the boundaries and contribute more to the tech community.
 
-## 📫 How to reach me
+👉 **Follow Me**: If you're into DevOps, AWS, Data Science, or Software Development, hit that follow button! I'm always working on exciting projects and sharing valuable insights. 🚀
 
-Feel free to reach out to me anytime via [LinkedIn](https://www.linkedin.com/in/tsmith4014/), [Twitter](https://twitter.com/tsmith4014), or email me at <tsmith4014@gmail.com>.
+🔗 **Let's Connect**: Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/chad-thompson-smith/) or drop me an email at 📧 chjthomps@gmail.com. I'm open to collaborations, consultations, or even a friendly chat.
+
+👀 **Interested in My Repos?**: If you find my repositories useful, consider giving them a ⭐️. Your stars serve as a constant motivation for me to create more innovative projects.
+
+📢 **Spread the Word**: If you think others can benefit from my work, share it across your network. After all, the best things in life are meant to be shared! 🌍
+
+So go ahead, make my day with your ⭐️ and follows! 🥳
 
