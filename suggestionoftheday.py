@@ -4,8 +4,6 @@ import base64
 from github import Github
 import os
 
-load_dotenv()  
-
 my_secret_key = os.environ['MY_SECRET_KEY']
 print(f"Debug: MY_SECRET_KEY = {my_secret_key}")
 
