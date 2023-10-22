@@ -37,7 +37,11 @@
 I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile! Every day at 1AM and 1PM EST, GitHub Actions trigger a YAML configuration file. This file sets up an Ubuntu environment, installs Python, and resolves dependencies. It then runs two Python scripts: one fetches a new programming joke from JokeAPI and the other fetches a new activity suggestion from BoredAPI. Both updates are then reflected in this README.md, providing not only a fresh laugh but also a novel suggestion for something interesting to do every day. This showcases the power and flexibility of DevOps practices in real-time, making my profile more engaging and dynamic.
 
 **********
-⚡ AI Joke of the Day: 🤖 The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be. 🤖
+⚡ AI Joke of the Day: 🤖 Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you. 🤖
 **********
 ⚡ AI Suggestion of the Day: 🤖 🎵 Feel the rhythm | 💸 Break open your piggy bank | 🎉 Make a simple musical instrument 🤖
 **********
