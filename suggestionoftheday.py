@@ -2,6 +2,7 @@ import requests
 import base64
 from github import Github
 import os
+import random  # Import the random module
 
 my_secret_key = os.environ['MY_SECRET_KEY']
 print(f"Debug: MY_SECRET_KEY = {my_secret_key}")
@@ -18,25 +19,40 @@ def fetch_suggestion():
 
     suggestion_parts = []  # List to hold different parts of the suggestion
 
-    if activity_type == 'education':
-        suggestion_parts.append("🎓 Let's work on some brainpower")
-    if activity_type == 'recreational':
-        suggestion_parts.append("🏖️ Time to relax")
-    if activity_type == 'social':
-        suggestion_parts.append("👥 Be social")
-    if activity_type == 'charity':
-        suggestion_parts.append("❤️ Make the world a better place")
-    if activity_type == 'cooking':
-        suggestion_parts.append("👨‍🍳 Masterchef time")
-    if activity_type == 'music':
-        suggestion_parts.append("🎵 Feel the rhythm")
+    # Randomly pick a phrase based on activity_type
+    activity_type_phrases = {
+        'education': ["🎓 Let's work on some brainpower", "📚 Time to hit the books", "🤓 Geek out"],
+        'recreational': ["🏖️ Time to relax", "🎉 Let's have some fun", "🎮 Game on"],
+        'social': ["👥 Be social", "🗨️ Let's mingle", "🤝 Time to network"],
+        'charity': ["❤️ Make the world a better place", "🤲 Time to give back", "🌍 Be a hero"],
+        'cooking': ["👨‍🍳 Masterchef time", "🍳 Let's cook up a storm", "🍲 Soup's on"],
+        'music': ["🎵 Feel the rhythm", "🎶 Let's make some noise", "🎸 Rock on"]
+    }
 
-    if participants > 1:
-        suggestion_parts.append("👫 Grab a friend")
+    if activity_type in activity_type_phrases:
+        suggestion_parts.append(random.choice(activity_type_phrases[activity_type]))
 
-    if price >= 0.2:
+    # Randomly pick a phrase based on participants
+    if participants == 0:
+        suggestion_parts.append("🚶‍♂️ Solo activity")
+    elif participants == 1:
+        suggestion_parts.append("👤 Grab a friend")
+    elif participants == 2:
+        suggestion_parts.append("👫 Grab a couple friends")
+    else:
+        suggestion_parts.append("👨‍👩‍👦‍👦 Gather the squad")
+
+    # Randomly pick a phrase based on price
+    if price == 0:
+        suggestion_parts.append("💰 It's free!")
+    elif 0 < price < 0.2:
+        suggestion_parts.append("💵 Pocket change needed")
+    elif 0.2 <= price < 0.5:
         suggestion_parts.append("💸 Break open your piggy bank")
+    else:
+        suggestion_parts.append("💳 Time to splurge!")
 
+    # Randomly pick a phrase based on accessibility
     if accessibility <= 0.2:
         suggestion_parts.append("👌 Super easy to do")
 
@@ -72,7 +88,6 @@ if __name__ == "__main__":
 
 
 
-
 # import requests
 # import base64
 # from github import Github
@@ -80,7 +95,6 @@ if __name__ == "__main__":
 
 # my_secret_key = os.environ['MY_SECRET_KEY']
 # print(f"Debug: MY_SECRET_KEY = {my_secret_key}")
-
 
 # def fetch_suggestion():
 #     response = requests.get("https://www.boredapi.com/api/activity")
@@ -90,28 +104,46 @@ if __name__ == "__main__":
 #     activity_type = suggestion_data['type']
 #     participants = suggestion_data['participants']
 #     price = suggestion_data['price']
+#     accessibility = suggestion_data['accessibility']
 
-#     suggestion = activity  # Default to just the activity
+#     suggestion_parts = []  # List to hold different parts of the suggestion
 
 #     if activity_type == 'education':
-#         suggestion = f"Let's work on some brainpower and {activity}"
+#         suggestion_parts.append("🎓 Let's work on some brainpower")
+#     if activity_type == 'recreational':
+#         suggestion_parts.append("🏖️ Time to relax")
+#     if activity_type == 'social':
+#         suggestion_parts.append("👥 Be social")
+#     if activity_type == 'charity':
+#         suggestion_parts.append("❤️ Make the world a better place")
+#     if activity_type == 'cooking':
+#         suggestion_parts.append("👨‍🍳 Masterchef time")
+#     if activity_type == 'music':
+#         suggestion_parts.append("🎵 Feel the rhythm")
+
 #     if participants > 1:
-#         suggestion = f"Grab a friend and {activity}"
+#         suggestion_parts.append("👫 Grab a friend")
+
 #     if price >= 0.2:
-#         suggestion = f"Break open your piggy bank, {activity}"
+#         suggestion_parts.append("💸 Break open your piggy bank")
+
+#     if accessibility <= 0.2:
+#         suggestion_parts.append("👌 Super easy to do")
+
+#     suggestion_parts.append(f"🎉 {activity}")
+
+#     suggestion = ' | '.join(suggestion_parts)
 #     print(suggestion)
 #     return suggestion
 
 # if __name__ == "__main__":
 #     suggestion = fetch_suggestion()
 
-#     # Fetch the current README.md file from your GitHub repository
 #     g = Github(my_secret_key)
 #     repo = g.get_repo("tsmith4014/tsmith4014")
 #     contents = repo.get_contents("README.md")
 #     readme_data = base64.b64decode(contents.content).decode("utf-8")
 
-#     # Find and replace the suggestion in the README.md file
 #     readme_lines = readme_data.split('\n')
 #     for i, line in enumerate(readme_lines):
 #         if "⚡ AI Suggestion of the Day: 🤖" in line:
@@ -126,5 +158,4 @@ if __name__ == "__main__":
 
 #     new_readme_data = '\n'.join(readme_lines)
 
-#     # Update the README.md file in your GitHub repository
 #     repo.update_file(contents.path, "Updated Suggestion of the Day", new_readme_data, contents.sha)
