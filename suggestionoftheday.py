@@ -1,4 +1,3 @@
-from dotenv import load_dotenv
 import requests
 import base64
 from github import Github
