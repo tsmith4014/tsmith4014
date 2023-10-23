@@ -26,7 +26,7 @@
     
 - 📊 **Data Science**:
   - Building a predictive model for NFL player and team metrics
-    - Focused on modeling injuries with points scored, and other key performance, enviromental, and wildcard indicators.
+    - Focused on modeling injuries with points scored, and other key performance, environmental, and wildcard indicators.
     - Utilizing machine learning algorithms for predictive analytics.
 
 ---
@@ -58,7 +58,7 @@ Suggestions are fetched from [BoredAPI](https://www.boredapi.com/).
 
 ## 🎼 Balance in Code and Life 🍃
 
-Professionally, I am deeply involved in cloud architecture, software development, Statistics, API creation & database management. However, it's not just about balance in code; it's about balance in life! When I'm not engrossed in technology, you can find me at the VA practicing Chi Gong and Tai Chi for mental and physical harmony. The practice involves intricate movements with a traditional Chinese fan, adding an engaging dynamic to the practice while enhancing balance and focus. I also take this balance to the community by volunteering at my local Humane Society, helping our four-legged friends find forever homes 🐱🐶. 
+Professionally, I am deeply involved in cloud architecture, software development, Statistics, API creation & database management. However, it's not just about balance in code; it's about balance in life! When I'm not engrossed in technology, you can find me at the VA practicing Chi Gong and Tai Chi for mental and physical harmony. The practice involves intricate movements with a traditional Chinese fan, adding an engaging dynamic to the practice while enhancing balance and focus. I also take this balance to the community by volunteering at my local Humane Society, helping our four-legged friends find forever homes 🐱🐶. I also enjoy using my 🔭telescope🔭 to find celestial objects like the Saturn and its amazing rings or watching the tiny specks of Jupiters satellites catching the suns rays.
 
 
 
@@ -67,7 +67,7 @@ Professionally, I am deeply involved in cloud architecture, software development
 
 - **AWS Architecture**:
   - Building secure and scalable VPCs with multiple subnets.
-  - Implementing NAT Gateways to allow private servers internet access via a public server on the same VPC.
+  - Implementing NAT Gateways to allow private servers Internet access via a public server on the same VPC.
   - Configuring Security Groups and NACLs for robust security measures.
   - Utilizing AWS Config for compliance checks and resource tracking.
 - **Web Hosting**: Hosting WordPress on public EC2 instances with optional offsite private database Direct Connect functionality.
