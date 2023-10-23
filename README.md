@@ -5,7 +5,7 @@
 
 ### 🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.
 
-## 🔭 I’m currently working on:  
+## 👨‍💻 I’m currently working on 💻 :  
 
 - 🛠️ **DevOps**:
   - AWS Network Architecture Design
