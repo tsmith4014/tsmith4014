@@ -3,7 +3,7 @@ import base64
 from github import Github
 import os
 
-# Environment variable for GitHub secret key
+# Your GitHub Personal Access Token
 my_secret_key = os.environ['MY_SECRET_KEY']
 
 # Fetch a new joke from JokeAPI
