@@ -37,13 +37,7 @@
 I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile! Every day at 1AM and 1PM EST, GitHub Actions trigger a YAML configuration file. This file sets up an Ubuntu environment, installs Python, and resolves dependencies. It then runs two Python scripts: one fetches a new programming joke from JokeAPI and the other fetches a new activity suggestion from BoredAPI. Both updates are then reflected in this README.md, providing not only a fresh laugh but also a novel suggestion for something interesting to do every day. This showcases the power and flexibility of DevOps practices in real-time, making my profile more engaging and dynamic.
 
 **********
-⚡ AI Joke of the Day: 🤖 How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5. 🤖
-**********
-⚡ AI Suggestion of the Day: 🤖 ❤️ Make the world a better place | 👤 Grab a friend | 💵 Pocket change needed | 🎉 Volunteer at a local animal shelter 🤖
+⚡ AI Joke of the Day: 🤖 I'd tell you a joke about NAT but I would have to translate. 🤖
 **********
 #### Automation Configuration
 The entire process is automated using a `.yml` configuration file that resides in the `.github/workflows` directory of this repository. This YAML file defines the GitHub Action, specifying when it should run, what script it should execute, and other settings to ensure smooth operation.
