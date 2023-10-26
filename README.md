@@ -40,11 +40,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 ⚡ AI Joke of the Day: 🤖 A byte walks into a bar looking miserable.
 The bartender asks it: "What's wrong buddy?"
 "Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off." 🤖 How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5. 🤖
+"Ah that makes sense, I thought you looked a bit off." 🤖
 **********
 ⚡ AI Suggestion of the Day: 🤖 🎮 Game on | 👤 Grab a friend | 💰 It's free! | 👌 Super easy to do | 🎉 Take a hike at a local park 🤖
 **********
