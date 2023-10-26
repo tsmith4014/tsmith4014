@@ -41,12 +41,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 - Try it out in Internet Explorer
 - Did it work?
 - No?
-- It's HTML5. 🤖 "Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java." 🤖
+- It's HTML5. 🤖
 **********
 ⚡ AI Suggestion of the Day: 🤖 ❤️ Make the world a better place | 👤 Grab a friend | 💵 Pocket change needed | 🎉 Volunteer at a local animal shelter 🤖
 **********
