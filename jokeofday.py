@@ -27,9 +27,13 @@ contents = repo.get_contents("README.md")
 readme_data = base64.b64decode(contents.content).decode("utf-8")
 
 # Use regex to find and replace the joke in the README.md file
-pattern = r"(⚡ AI Joke of the Day: 🤖 ).*( 🤖)"
+pattern = r"(⚡ AI Joke of the Day: 🤖 ).*?( 🤖)"
 replacement = f"⚡ AI Joke of the Day: 🤖 {joke} 🤖"
-new_readme_data = re.sub(pattern, replacement, readme_data)
+new_readme_data = re.sub(pattern, replacement, readme_data, flags=re.DOTALL)
+
+# pattern = r"(⚡ AI Joke of the Day: 🤖 ).*( 🤖)"
+# replacement = f"⚡ AI Joke of the Day: 🤖 {joke} 🤖"
+# new_readme_data = re.sub(pattern, replacement, readme_data)
 
 print(f"New README data: {new_readme_data}")  # Debug print
 
@@ -38,6 +42,9 @@ update_response = repo.update_file(contents.path, "Updated Joke of the Day", new
 print(f"Update response: {update_response}")  # Debug print
 
 
+pattern = r"(⚡ AI Joke of the Day: 🤖 ).*?( 🤖)"
+replacement = f"⚡ AI Joke of the Day: 🤖 {joke} 🤖"
+new_readme_data = re.sub(pattern, replacement, readme_data, flags=re.DOTALL)
 
 
 
