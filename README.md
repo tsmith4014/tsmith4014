@@ -10,7 +10,7 @@
 - 🛠️ **DevOps**:
   - AWS Network Architecture Design
   - Cloud Engineering
-  - [AWS Network Diagram 🎨 (Created by Me)](https://tsmith4014.github.io/I-Animated-AWS-Network-diagram/)
+  - [AWS Network Diagram 🎨 (Created by Me)](https://tsmith4014.github.io/twoge_aws_deployment/)
   - Focusing on building robust and secure VPCs with public and private subnets, NACLs, and Security Groups.
   - Deploying EC2 instances across multiple Availability Zones for high availability and fault tolerance.
   - Setting up NAT Gateways for outbound traffic from private instances.
