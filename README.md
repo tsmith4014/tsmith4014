@@ -20,7 +20,7 @@
 
     
 - 💻 **Software Dev**:
-  - Designed and Built Responsive Web Designed based site for a gunsmithing business Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/).
+  - Designed and Built Responsive Web Designed based site for a gunsmithing business [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/).
   - Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
   - Workplace automation within the logistics and education sectors. I love YAML!
 
