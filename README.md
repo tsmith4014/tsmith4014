@@ -24,6 +24,7 @@
 - 💻 **Software Dev**:
   - SVG and Canvas animations for web design implementation, AWS and Oracle Network network design, and user engagement.
   - Designed and Built Responsive Web Designed based site for a gunsmithing business [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/).
+  ![Curtis Smith's Gunsmithing Service Website]([https://path_to_your_image.jpg](https://github.com/tsmith4014/curts_website/blob/main/about.png)) 
   - Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
   - Workplace automation within the logistics and education sectors. I love YAML!
 
