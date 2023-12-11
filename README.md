@@ -24,7 +24,7 @@
 - 💻 **Software Dev**:
   - SVG and Canvas animations for web design implementation, AWS and Oracle Network network design, and user engagement.
   - Designed and Built Responsive Web Designed based site for a gunsmithing business [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/).
-  - Check out these key visuals from the website:
+  - Check out these key visuals from the [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/):
     <div align="left">
       <img src="about500.png" width="150" />
       <img src="kitty500.png" width="150" />
