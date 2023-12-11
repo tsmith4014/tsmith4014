@@ -26,8 +26,8 @@
   - Designed and Built Responsive Web Designed based site for a gunsmithing business [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/).
     <p float="left">
       <img src="about500.png" width="300"/>
-      <img src="path_to_your_image2.jpg" width="300"/>
-      <img src="path_to_your_image3.jpg" width="300"/>
+      <img src="kitty500.png" width="300"/>
+      <img src="wolf.png" width="300"/>
     </p>
   - Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
   - Workplace automation within the logistics and education sectors. I love YAML!
