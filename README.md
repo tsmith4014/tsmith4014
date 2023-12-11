@@ -25,9 +25,9 @@
   - SVG and Canvas animations for web design implementation, AWS and Oracle Network network design, and user engagement.
   - Designed and Built Responsive Web Designed based site for a gunsmithing business [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/).
     <p float="left">
-      <img src="about500.png" width="300"/>
-      <img src="kitty500.png" width="300"/>
-      <img src="wolf.png" width="300"/>
+      <img src="about500.png" width="250"/>
+      <img src="kitty500.png" width="250"/>
+      <img src="wolf.png" width="250"/>
     </p>
   - Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
   - Workplace automation within the logistics and education sectors. I love YAML!
