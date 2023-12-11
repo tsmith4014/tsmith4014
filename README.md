@@ -8,6 +8,8 @@
 ## 👨‍💻 I’m currently working on 💻 :  
 
 - 🛠️ **DevOps**:
+  - Using Terraform to provision AWS and Oracle Cloud Infrastructure (OCI) resources.
+  - Ansible configuration of AWS and OCI resources.
   - AWS Network Architecture Design
   - Cloud Engineering
   - [Interactive AWS Network Diagram 🎨 (Created by Me)](https://tsmith4014.github.io/twoge_aws_deployment/) (Sound on - Click the "Add Stars" button and see what happens)
@@ -20,6 +22,7 @@
 
     
 - 💻 **Software Dev**:
+  - SVG and Canvas animations for web design implementation, AWS and Oracle Network network design, and user engagement.
   - Designed and Built Responsive Web Designed based site for a gunsmithing business [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/).
   - Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
   - Workplace automation within the logistics and education sectors. I love YAML!
@@ -67,6 +70,8 @@ Professionally, I am deeply involved in cloud architecture, software development
 ## 🌱 I’m currently diving deep into:
 
 - **AWS Architecture**:
+  - Using Terraform to provision AWS resources.
+  - Ansible configuration of AWS resources.
   - Building secure and scalable VPCs with multiple subnets.
   - Implementing NAT Gateways to allow private servers Internet access via a public server on the same VPC.
   - Configuring Security Groups and NACLs for robust security measures.
