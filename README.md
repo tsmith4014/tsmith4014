@@ -1,14 +1,7 @@
 # Hi 👋, I'm Chad Thompson-Smith
-<div align="center">
-  <img src="/static/mars600.png" width="200" height="200" />
-</div>
-
-
 ### 🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.
 
-<div align="center">
-  <img src="/static/marswar600.png" width="300" height="300"/>
-</div>
+---
 
 ## 👨‍💻 I’m currently working on 💻 :  
 
@@ -70,13 +63,17 @@ Suggestions are fetched from [BoredAPI](https://www.boredapi.com/).
 
 ---
 
-
+<div align="center">
+  <img src="/static/mars600.png" width="300" height="300" />
+</div>
 
 ## 🎼 Balance in Code and Life 🍃
 
 Professionally, I am deeply involved in cloud architecture, software development, Statistics, API creation & database management. However, it's not just about balance in code; it's about balance in life! When I'm not engrossed in technology, you can find me at the VA practicing Chi Gong and Tai Chi for mental and physical harmony. The practice involves intricate movements with a traditional Chinese fan, adding an engaging dynamic to the practice while enhancing balance and focus. I also take this balance to the community by volunteering at my local Humane Society, helping our four-legged friends find forever homes 🐱🐶. "I also enjoy using my 🔭telescope🔭 to find celestial objects like 🪐Saturn🪐 and its amazing rings, or watching the tiny specks of 🌕Jupiter's satellites🌕 catching the sun's rays. 🌌🌠"
 
-
+<div align="center">
+  <img src="/static/marswar600.png" width="300" height="300"/>
+</div>
 
 
 ## 🌱 I’m currently diving deep into:
