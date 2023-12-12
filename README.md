@@ -14,6 +14,7 @@
   - AWS Network Architecture Design
   - Cloud Engineering
   - [Interactive AWS Network Diagram 🎨 (Created by Me)](https://tsmith4014.github.io/twoge_aws_deployment/) (Sound on - Click the "Add Stars" button and see what happens)
+  - [Interactive AWS EC2-Backend/EC2-Database/S3 Diagram 🎨 (Created by Me)](https://tsmith4014.github.io/assessment_2/) (Sound on - Click on the screen for some mood music)
   - Focusing on building robust and secure VPCs with public and private subnets, NACLs, and Security Groups.
   - Deploying EC2 instances across multiple Availability Zones for high availability and fault tolerance.
   - Setting up NAT Gateways for outbound traffic from private instances.
