@@ -7,7 +7,7 @@
 ### 🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.
 
 <div align="center">
-  <img src="/static/marswar600.png" width="100" height="200"/>
+  <img src="/static/marswar600.png" width="300" height="300"/>
 </div>
 
 ## 👨‍💻 I’m currently working on 💻 :  
