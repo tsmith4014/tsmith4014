@@ -1,7 +1,8 @@
 # Hi 👋, I'm Chad Thompson-Smith
-
-<img src="/static/mars600.png" width="600" align="center"/>
-<img src="/static/marswar600.png" width="600" />
+<div align="center">
+  <img src="/static/mars600.png" width="600" />
+  <img src="/static/marswar600.png" width="600" />
+</div>
 
 
 ### 🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.
