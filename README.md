@@ -4,7 +4,7 @@
 
 ### <h3 align="center">🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.</h3>
 
----
+
 
 ## <h2 align="center">👨‍💻 I’m currently working on 💻 :</h2> 
 
@@ -26,6 +26,7 @@
   - SVG and Canvas animations for web design implementation, AWS and Oracle Network network design, and user engagement.
   - Designed and Built Responsive Web Designed based site for a gunsmithing business [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/).
   - Check out these key visuals from the [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/):
+    
     <div align="left">
       <img src="/static/about500.png" width="150" />
       <img src="/static/kitty500.png" width="150" />
@@ -35,7 +36,6 @@
   - Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
   - Workplace automation within the logistics and education sectors. I love YAML!
 
-    
 - 📊 **Data Science**:
   - Building a predictive model for NFL player and team metrics
     - Focused on modeling injuries with points scored, and other key performance, environmental, and wildcard indicators.
@@ -44,7 +44,7 @@
 ---
 
 
-## 🛠️ DevOps Practices in Action 🛠️ [![Update README](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml/badge.svg)](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml)
+## <h2 align="center">🛠️ DevOps Practices in Action 🛠️ [![Update README](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml/badge.svg)](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml)</h2>
 
 I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile! Every day at 1AM and 1PM EST, GitHub Actions trigger a YAML configuration file. This file sets up an Ubuntu environment, installs Python, and resolves dependencies. It then runs two Python scripts: one fetches a new programming joke from JokeAPI and the other fetches a new activity suggestion from BoredAPI. Both updates are then reflected in this README.md, providing not only a fresh laugh but also a novel suggestion for something interesting to do every day. This showcases the power and flexibility of DevOps practices in real-time, making my profile more engaging and dynamic.
 
@@ -60,9 +60,8 @@ To keep sensitive information secure, I use GitHub Secrets to store API keys and
 <h4 align="center">GitHub Actions</h4>
 The GitHub Action is configured to use a specific runner environment, install necessary dependencies, and execute the Python script. It also sets up caching and error-handling mechanisms to optimize the workflow.
 <h4 align="center">Attribution</h4>
-Jokes are fetched from [JokeAPI](https://jokeapi.dev/).
-
-Suggestions are fetched from [BoredAPI](https://www.boredapi.com/).
+<h4 align="center">Jokes are fetched from [JokeAPI](https://jokeapi.dev/).</h4>
+<h4 align="center">Suggestions are fetched from [BoredAPI](https://www.boredapi.com/).</h4>
 
 ---
 
