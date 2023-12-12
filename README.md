@@ -2,11 +2,11 @@
 
 
 
-### 🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.
+### <h3 align="center">🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.</h3>
 
 ---
 
-## 👨‍💻 I’m currently working on 💻 :  
+## <h2 align="center">👨‍💻 I’m currently working on 💻 :</h2> 
 
 - 🛠️ **DevOps**:
   - Using Terraform to provision AWS and Oracle Cloud Infrastructure (OCI) resources.
@@ -53,13 +53,13 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 **********
 ⚡ AI Suggestion of the Day: 🤖 🤝 Time to network | 👤 Grab a friend | 💵 Pocket change needed | 👌 Super easy to do | 🎉 Pull a harmless prank on one of your friends 🤖
 **********
-#### Automation Configuration
+<h4 align="center">Automation Configuration</h4>
 The entire process is automated using a `.yml` configuration file that resides in the `.github/workflows` directory of this repository. This YAML file defines the GitHub Action, specifying when it should run, what script it should execute, and other settings to ensure smooth operation.
-#### Use of Secrets and Environment Variables
+<h4 align="center">Use of Secrets and Environment Variables</h4>
 To keep sensitive information secure, I use GitHub Secrets to store API keys and other confidential data. These secrets are then mapped to environment variables within the `.yml` file, ensuring they are securely passed to the running script without being exposed.
-#### GitHub Actions
+<h4 align="center">GitHub Actions</h4>
 The GitHub Action is configured to use a specific runner environment, install necessary dependencies, and execute the Python script. It also sets up caching and error-handling mechanisms to optimize the workflow.
-#### Attribution
+<h4 align="center">Attribution</h4>
 Jokes are fetched from [JokeAPI](https://jokeapi.dev/).
 
 Suggestions are fetched from [BoredAPI](https://www.boredapi.com/).
@@ -70,7 +70,7 @@ Suggestions are fetched from [BoredAPI](https://www.boredapi.com/).
   <img src="/static/mars600.png" width="300" height="300" />
 </div>
 
-## 🎼 Balance in Code and Life 🍃
+## <h2 align="center">🎼 Balance in Code and Life 🍃</h2>
 
 Professionally, I am deeply involved in cloud architecture, software development, Statistics, API creation & database management. However, it's not just about balance in code; it's about balance in life! When I'm not engrossed in technology, you can find me at the VA practicing Chi Gong and Tai Chi for mental and physical harmony. The practice involves intricate movements with a traditional Chinese fan, adding an engaging dynamic to the practice while enhancing balance and focus. I also take this balance to the community by volunteering at my local Humane Society, helping our four-legged friends find forever homes 🐱🐶. "I also enjoy using my 🔭telescope🔭 to find celestial objects like 🪐Saturn🪐 and its amazing rings, or watching the tiny specks of 🌕Jupiter's satellites🌕 catching the sun's rays. 🌌🌠"
 
@@ -79,7 +79,7 @@ Professionally, I am deeply involved in cloud architecture, software development
 </div>
 
 
-## 🌱 I’m currently diving deep into:
+## <h2 align="center">🌱 I’m currently diving deep into:</h2>
 
 - **AWS Architecture**:
   - Using Terraform to provision AWS resources.
@@ -94,7 +94,8 @@ Professionally, I am deeply involved in cloud architecture, software development
 
 
 
-## 👯 I’m looking to collaborate, teach/learn, or just chat 💬 re:
+## <h2 align="center">👯 I’m looking to collaborate, teach/learn, or just chat 💬 re:</h2>
+
 
 - Workplace automation
 - DevOps
@@ -108,7 +109,7 @@ Professionally, I am deeply involved in cloud architecture, software development
 
 
 
-## 🛠️ Projects
+## <h2 align="center">🛠️ Projects</h2>
 
 - **ABHES Q&A Bot**
   - Leveraging ChatGPT-4 and multiple ChatGPT 3.5-turbo instances, efficiently designed and generated a comprehensive Object/Dictionary lookup table from the ABHES annual regulatory report.
@@ -119,7 +120,7 @@ Professionally, I am deeply involved in cloud architecture, software development
 
 
 
-## 👨‍💻 Experience
+## <h2 align="center">👨‍💻 Experience</h2>
 
 - **Software Developer & DevOps Practitioner 2022 - 2023 | Statistical Analyst & Consultant 2005 – 2023**
   - Utilized ChatGPT-4 and 3 ChatGPT 3.5-turbo instances to generate an Object/Dictionary lookup table from a 225-page ABHES report in under 15 minutes for less than $3.50, creating 800+ unique Q&As, saving $34,000 in legal consultancy fees, and powering a cost-free chatbot for easy access to regulatory information.
@@ -132,7 +133,7 @@ Professionally, I am deeply involved in cloud architecture, software development
 
 
 
-## 🎓 Education
+## <h2 align="center">🎓 Education</h2>
 
 - 🛠️ **Code Platoon – DevOps and Cloud Engineering Bootcamp, Chicago, IL, expected April 2024**
 - 💻 **Code Platoon - Full Stack Web Development Bootcamp, Chicago, IL, 2023**
@@ -143,8 +144,8 @@ Professionally, I am deeply involved in cloud architecture, software development
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -178,7 +179,7 @@ Professionally, I am deeply involved in cloud architecture, software development
 
 
 
-## 🌟 Show Some Love 🌟
+## <h2 align="center">🌟 Show Some Love 🌟</h2>
 
 If you've found value in my work or you're inspired by what you see, go ahead and give my profile a ⭐️! Your support encourages me to keep pushing the boundaries and contribute more to the tech community.
 
