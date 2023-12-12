@@ -1,8 +1,7 @@
 <!-- <a href="https://medium.com/@chjthomps" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chjthomps" height="30" width="40" /></a> -->
-
-
+<img src="mars.png" width="150" />
 # Hi 👋, I'm Chad Thompson-Smith
-
+<img src="marswar.png" width="150" />
 ### 🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.
 
 ## 👨‍💻 I’m currently working on 💻 :  
