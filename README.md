@@ -1,14 +1,11 @@
 # <h1 align="center">Hi 👋, I'm Chad Thompson-Smith 👋</h1>
 
-
-
 ### <h3 align="center">🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA. 🎖️</h3>
 
-
-
-## <h2 align="center">👨‍💻 I’m currently working on 💻 :</h2> 
+## <h2 align="center">👨‍💻 I’m currently working on 💻 :</h2>
 
 - 🛠️ **DevOps**:
+
   - Using Terraform to provision AWS and Oracle Cloud Infrastructure (OCI) resources.
   - Ansible configuration of AWS and OCI resources.
   - AWS Network Architecture Design
@@ -19,15 +16,15 @@
   - Deploying EC2 instances across multiple Availability Zones for high availability and fault tolerance.
   - Setting up NAT Gateways for outbound traffic from private instances.
   - Implementing Route 53 for DNS management.
-  - Using AWS CloudWatch for monitoring and logging. 
+  - Using AWS CloudWatch for monitoring and logging.
   - Adhering to AWS Well-Architected Framework best practices.
 
-    
 - 💻 **Software Dev**:
+
   - SVG and Canvas animations for web design implementation, AWS and Oracle Network network design, and user engagement.
   - Designed and Built Responsive Web Designed based site for a gunsmithing business [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/).
   - Check out these key visuals from the [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/):
-    
+
     <div align="left">
       <img src="/static/about500.png" width="150" />
       <img src="/static/kitty500.png" width="150" />
@@ -44,17 +41,21 @@
 
 ---
 
-
 ## <h2 align="center">🛠️ DevOps Practices in Action 🛠️ [![Update README](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml/badge.svg)](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml)</h2>
 
 I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile! Every day at 1AM and 1PM EST, GitHub Actions trigger a YAML configuration file. This file sets up an Ubuntu environment, installs Python, and resolves dependencies. It then runs two Python scripts: one fetches a new programming joke from JokeAPI and the other fetches a new activity suggestion from BoredAPI. Both updates are then reflected in this README.md, providing not only a fresh laugh but also a novel suggestion for something interesting to do every day. This showcases the power and flexibility of DevOps practices in real-time, making my profile more engaging and dynamic.
 
-**********
+---
+
 ⚡ AI Joke of the Day: 🤖 Have a great weekend!
 I hope your code behaves the same on Monday as it did on Friday. 🤖
-**********
+
+---
+
 ⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💰 It's free! | 🎉 Look at your finances and find one way to save money 🤖
-**********
+
+---
+
 <h4 align="center">Automation Configuration</h4>
 The entire process is automated using a `.yml` configuration file that resides in the `.github/workflows` directory of this repository. This YAML file defines the GitHub Action, specifying when it should run, what script it should execute, and other settings to ensure smooth operation.
 <h4 align="center">Use of Secrets and Environment Variables</h4>
@@ -79,7 +80,6 @@ Professionally, I am deeply involved in cloud architecture, software development
   <img src="/static/marswar600.png" width="300" height="300"/>
 </div>
 
-
 ## <h2 align="center">🌱 I’m currently diving deep into:</h2>
 
 - **AWS Architecture**:
@@ -92,11 +92,11 @@ Professionally, I am deeply involved in cloud architecture, software development
 - **Web Hosting**: Hosting WordPress on public EC2 instances with optional offsite private database Direct Connect functionality.
 - **Database Management**: Using private instances for databases, adhering to AWS best practices.
 
-
-
+<div align="center">
+  <img src="/static/vegabeachedit.png" width="300" height="300"/>
+</div>
 
 ## <h2 align="center">👯 I’m looking to collaborate, teach/learn, or just chat 💬 re:</h2>
-
 
 - Workplace automation
 - DevOps
@@ -107,9 +107,6 @@ Professionally, I am deeply involved in cloud architecture, software development
 - ChatGPT
 - Data manipulation
 
-
-
-
 ## <h2 align="center">🛠️ Projects</h2>
 
 - **ABHES Q&A Bot**
@@ -118,21 +115,16 @@ Professionally, I am deeply involved in cloud architecture, software development
     - Automated the Q&A generation, bypassing the need for a legal expert in health education and accreditation, resulting in a cost savings of approximately $34,000 represented by 112 hours in expert legal consultancy fees.
     - Utilized the generated lookup table to power an autonomous, overhead cost-free question-and-answer chatbot, streamlining access to essential regulatory information.
 
-
-
-
 ## <h2 align="center">👨‍💻 Experience</h2>
 
 - **Software Developer & DevOps Practitioner 2022 - 2023 | Statistical Analyst & Consultant 2005 – 2023**
+
   - Utilized ChatGPT-4 and 3 ChatGPT 3.5-turbo instances to generate an Object/Dictionary lookup table from a 225-page ABHES report in under 15 minutes for less than $3.50, creating 800+ unique Q&As, saving $34,000 in legal consultancy fees, and powering a cost-free chatbot for easy access to regulatory information.
   - Residential Sales Analysis: Python scripted automated retrieval of 20 years of Erie County property sales, seeding an SQL database with 20,000+ records for trend analysis, geolocation coordinate generation, and API creation.
 
 - **Statistical Analyst & Consultant 2005-2023**
   - Founder and Lead Analyst specializing in applied statistics, quantitative econometrics, and data-driven decision-making, with a focus on providing accurate and actionable insights.
   - Leveraged R programming/libraries to analyze student/teacher data for a for-profit institution, identifying grade inflation through a curated algorithm, subsequently applied in multiple efficiency layoff rounds.
-
-
-
 
 ## <h2 align="center">🎓 Education</h2>
 
@@ -141,9 +133,6 @@ Professionally, I am deeply involved in cloud architecture, software development
 - 📊 **The Pennsylvania State University – Applied Statistics Graduate Certificate, State College, PA, 2015**
 - 📈 **University of California, San Diego – B.A. in Economics, San Diego, CA, 2011**
 - 📚 **San Diego Mesa College – A.A. in Business Education, State College, PA, 2008**
-
-
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -176,9 +165,6 @@ Professionally, I am deeply involved in cloud architecture, software development
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/></a>
  </p>
-
-
-
 
 ## <h2 align="center">🌟 Show Some Love 🌟</h2>
 
