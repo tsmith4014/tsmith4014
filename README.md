@@ -1,4 +1,5 @@
 # Hi 👋, I'm Chad Thompson-Smith
+<p style="text-align: center;"> Hi 👋, I'm Chad Thompson-Smith </p>
 ### 🎖️ A Military Veteran and passionate Software Developer & DevOps Practitioner, Automation Specialist, and Statistical Analyst & Consultant, from Erie, PA.
 
 ---
