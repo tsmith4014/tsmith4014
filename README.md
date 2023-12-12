@@ -1,8 +1,6 @@
-<!-- <a href="https://medium.com/@chjthomps" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chjthomps" height="30" width="40" /></a> -->
-
 # Hi 👋, I'm Chad Thompson-Smith
 
-<img src="/static/mars600.png" width="600" />
+<img src="/static/mars600.png" width="600" align="center"/>
 <img src="/static/marswar600.png" width="600" />
 
 
