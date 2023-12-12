@@ -25,9 +25,9 @@
   - Designed and Built Responsive Web Designed based site for a gunsmithing business [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/).
   - Check out these key visuals from the [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/):
     <div align="left">
-      <img src="about500.png" width="150" />
-      <img src="kitty500.png" width="150" />
-      <img src="wolf.png" width="150" />
+      <img src="/static/about500.png" width="150" />
+      <img src="/static/kitty500.png" width="150" />
+      <img src="/static/wolf.png" width="150" />
     </div>
 
   - Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
