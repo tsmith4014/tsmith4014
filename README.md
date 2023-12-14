@@ -26,10 +26,20 @@
   - Check out these key visuals from the [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/):
 
     <div align="left">
-      <img src="/static/about500.png" width="150" />
-      <img src="/static/kitty500.png" width="150" />
-      <img src="/static/wolf.png" width="150" />
+      <img src="/static/F150.png" width="150" />
+      <img src="/static/smithauto.png" width="150" />
+      <img src="/static/3panelsharp.png" width="150" />
     </div>
+
+  - Designed and Built Responsive Web Design based site for a rural service station [Smith Automotive](https://tsmith4014.github.io/Smith-Automotive/).
+  - Check out these key visuals from the [Smith Automotive](https://tsmith4014.github.io/Smith-Automotive/):
+  
+    <div align="left">
+      <img src="/static/smith_front.png" width="150" />
+      <img src="/static/smith_inside.png" width="150" />
+      <img src="/static/smith_service.png" width="150" />
+    </div>
+
 
   - Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
   - Workplace automation within the logistics and education sectors. I love YAML!
