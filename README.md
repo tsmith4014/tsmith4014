@@ -36,8 +36,8 @@
   
     <div align="left">
       <img src="/static/F150.png" width="150" />
-      <img src="/static/smithauto.png" width="150" />
       <img src="/static/3panelsharp.png" width="150" />
+      <img src="/static/contact.png" width="150" />
     </div>
 
 
