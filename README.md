@@ -26,8 +26,8 @@
   - Check out these key visuals from the [Curtis Smith's Gunsmithing Service](https://tsmith4014.github.io/curts_website/):
 
     <div align="left">
-      <img src="/static/about.png" width="150" />
-      <img src="/static/pussycat.png" width="150" />
+      <img src="/static/about500.png" width="150" />
+      <img src="/static/kitty500.png" width="150" />
       <img src="/static/wolf.png" width="150" />
     </div>
 
