@@ -64,7 +64,7 @@ The bartender asks, "Can I get you anything?"
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🎮 Game on | 👤 Grab a friend | 💰 It's free! | 👌 Super easy to do | 🎉 Learn and play a new card game 🤖
+⚡ AI Suggestion of the Day: 🤖 🎮 Game on | 👤 Grab a friend | 💵 Pocket change needed | 🎉 Learn how to iceskate or rollerskate 🤖
 
 ---
 
