@@ -64,7 +64,7 @@ The bartender asks, "Can I get you anything?"
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🍳 Let's cook up a storm | 👨‍👩‍👦‍👦 Gather the squad | 💸 Break open your piggy bank | 🎉 Bake a pie with some friends 🤖
+⚡ AI Suggestion of the Day: 🤖 🎉 Let's have some fun | 👤 Grab a friend | 💸 Break open your piggy bank | 👌 Super easy to do | 🎉 Patronize a local independent restaurant 🤖
 
 ---
 
