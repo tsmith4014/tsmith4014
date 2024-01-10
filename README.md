@@ -62,7 +62,7 @@ It approaches, and asks "may I join you?" 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🤓 Geek out | 👤 Grab a friend | 💰 It's free! | 👌 Super easy to do | 🎉 Study a foreign language 🤖
+⚡ AI Suggestion of the Day: 🤖 🎮 Game on | 👤 Grab a friend | 💰 It's free! | 👌 Super easy to do | 🎉 Play a video game 🤖
 
 ---
 
