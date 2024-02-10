@@ -57,7 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the programmer quit his job? Because he didn't get arrays. 🤖
+⚡ AI Joke of the Day: 🤖 Programming is like sex. Make one mistake and you end up supporting it for the rest of your life. 🤖
 
 ---
 
