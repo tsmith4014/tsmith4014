@@ -57,7 +57,12 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 // This line doesn't actually do anything, but the code stops working when I delete it. 🤖
+⚡ AI Joke of the Day: 🤖 "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java." 🤖
 
 ---
 
