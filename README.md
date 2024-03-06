@@ -137,8 +137,8 @@ Professionally, I am deeply involved in cloud architecture, software development
 
 ## <h2 align="center">🎓 Education</h2>
 
-- 🛠️ **Code Platoon – DevOps and Cloud Engineering Bootcamp, Chicago, IL, expected April 2024**
-- 💻 **Code Platoon - Full Stack Web Development Bootcamp, Chicago, IL, 2023**
+- 🛠️ **Code Platoon – DevOps and Cloud Engineering Bootcamp, Chicago, IL, 2024**
+- 💻 **Code Platoon - Full Stack Software Engineering Bootcamp, Chicago, IL, 2023**
 - 📊 **The Pennsylvania State University – Applied Statistics Graduate Certificate, State College, PA, 2015**
 - 📈 **University of California, San Diego – B.A. in Economics, San Diego, CA, 2011**
 - 📚 **San Diego Mesa College – A.A. in Business Education, State College, PA, 2008**
