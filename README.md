@@ -57,7 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the JavaScript heap close shop? It ran out of memory. 🤖
+⚡ AI Joke of the Day: 🤖 Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender. 🤖
 
 ---
 
