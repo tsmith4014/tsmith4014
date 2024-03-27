@@ -62,7 +62,7 @@ It approaches, and asks "may I join you?" 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🤝 Time to network | 👨‍👩‍👦‍👦 Gather the squad | 💰 It's free! | 🎉 Play basketball with a group of friends 🤖
+⚡ AI Suggestion of the Day: 🤖 🤝 Time to network | 👤 Grab a friend | 💰 It's free! | 🎉 Start a family tree 🤖
 
 ---
 
