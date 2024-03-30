@@ -57,11 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5. 🤖
+⚡ AI Joke of the Day: 🤖 I've got a really good UDP joke to tell you but I don’t know if you'll get it. 🤖
 
 ---
 
