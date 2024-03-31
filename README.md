@@ -64,7 +64,7 @@ Me: "Damn." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 👥 Be social | 👨‍👩‍👦‍👦 Gather the squad | 💰 It's free! | 🎉 Play a volleyball match with some friends 🤖
+⚡ AI Suggestion of the Day: 🤖 👥 Be social | 👨‍👩‍👦‍👦 Gather the squad | 💳 Time to splurge! | 🎉 Go to a concert with some friends 🤖
 
 ---
 
