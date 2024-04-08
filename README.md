@@ -65,7 +65,7 @@ Knock knock. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💰 It's free! | 👌 Super easy to do | 🎉 Take your dog on a walk 🤖
+⚡ AI Suggestion of the Day: 🤖 🎓 Let's work on some brainpower | 👤 Grab a friend | 💰 It's free! | 👌 Super easy to do | 🎉 Watch a Khan Academy lecture on a subject of your choosing 🤖
 
 ---
 
