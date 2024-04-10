@@ -62,7 +62,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💳 Time to splurge! | 🎉 Prepare a 72-hour kit 🤖
+⚡ AI Suggestion of the Day: 🤖 🤝 Time to network | 👨‍👩‍👦‍👦 Gather the squad | 💸 Break open your piggy bank | 👌 Super easy to do | 🎉 Go to a music festival with some friends 🤖
 
 ---
 
