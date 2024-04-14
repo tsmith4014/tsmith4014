@@ -64,7 +64,7 @@ Me: "Damn." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 👥 Be social | 👤 Grab a friend | 💵 Pocket change needed | 🎉 Explore the nightlife of your city 🤖
+⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💸 Break open your piggy bank | 🎉 Go to a nail salon 🤖
 
 ---
 
