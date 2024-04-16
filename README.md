@@ -64,7 +64,7 @@ The bartender asks, "Can I get you anything?"
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🤝 Time to network | 👤 Grab a friend | 💰 It's free! | 🎉 Start a family tree 🤖
+⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💸 Break open your piggy bank | 🎉 Learn woodworking 🤖
 
 ---
 
