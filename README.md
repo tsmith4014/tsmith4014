@@ -57,7 +57,8 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender. 🤖
+⚡ AI Joke of the Day: 🤖 A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't. 🤖
 
 ---
 
