@@ -57,7 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 How do you generate a random string? Put a Windows user in front of Vim and tell them to exit. 🤖
+⚡ AI Joke of the Day: 🤖 Programming is like sex. Make one mistake and you end up supporting it for the rest of your life. 🤖
 
 ---
 
