@@ -65,7 +65,7 @@ Knock knock. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🎉 Let's have some fun | 👤 Grab a friend | 💰 It's free! | 👌 Super easy to do | 🎉 Solve a Rubik's cube 🤖
+⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💰 It's free! | 🎉 Improve your touch typing 🤖
 
 ---
 
