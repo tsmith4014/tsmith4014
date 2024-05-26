@@ -57,7 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 why do python programmers wear glasses? Because they can't C. 🤖
+⚡ AI Joke of the Day: 🤖 Why do programmers prefer using the dark mode? Because light attracts bugs. 🤖
 
 ---
 
