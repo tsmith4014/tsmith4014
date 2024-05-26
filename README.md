@@ -57,7 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What's the object-oriented way to become wealthy? Inheritance. 🤖
+⚡ AI Joke of the Day: 🤖 why do python programmers wear glasses? Because they can't C. 🤖
 
 ---
 
