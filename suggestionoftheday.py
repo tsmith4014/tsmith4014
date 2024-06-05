@@ -5,9 +5,10 @@ import os
 import random  # Import the random module
 
 my_secret_key = os.environ['MY_SECRET_KEY']
-
+ 
 def fetch_suggestion():
-    response = requests.get("https://www.boredapi.com/api/activity")
+    # response = requests.get("https://www.boredapi.com/api/activity")
+    response = requests.get("https://bored-api.appbrewery.com/random")
     suggestion_data = response.json()
     print(suggestion_data)
 
