@@ -16,7 +16,7 @@ def fetch_suggestion():
     activity_type = suggestion_data['type']
     participants = suggestion_data['participants']
     price = suggestion_data['price']
-    accessibility = suggestion_data['accessibility']
+    # accessibility = suggestion_data['accessibility']
 
     suggestion_parts = []  # List to hold different parts of the suggestion
 
@@ -54,8 +54,8 @@ def fetch_suggestion():
         suggestion_parts.append("💳 Time to splurge!")
 
     # Randomly pick a phrase based on accessibility
-    if accessibility <= 0.2:
-        suggestion_parts.append("👌 Super easy to do")
+    # if accessibility <= 0.2:
+    #     suggestion_parts.append("👌 Super easy to do")
 
     suggestion_parts.append(f"🎉 {activity}")
 
