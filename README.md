@@ -65,7 +65,7 @@ But I'd use RGB for you. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🤝 Time to network | 👤 Grab a friend | 💰 It's free! | 🎉 Do something nice for someone you care about 🤖
+⚡ AI Suggestion of the Day: 🤖 🎉 Let's have some fun | 👤 Grab a friend | 💰 It's free! | 🎉 Make your own LEGO creation 🤖
 
 ---
 
