@@ -1,46 +1,11 @@
-# name: Update Readme
-
-# on:
-#   push:
-#     branches:
-#       - main
-#   workflow_dispatch:
-
-# jobs:
-#   run-suggestion-script:
-#     runs-on: ubuntu-latest
-
-#     steps:
-#     - name: Checkout repository
-#       uses: actions/checkout@v3
-
-#     - name: Set up Python 3.x
-#       uses: actions/setup-python@v4
-#       with:
-#         python-version: '3.x'
-
-#     - name: Install dependencies
-#       run: |
-#         python -m pip install --upgrade pip
-#         pip install -r requirements.txt
-
-#     - name: Run Suggestion of the Day script
-#       run: python ./suggestionoftheday.py
-
-#     - name: Check logs for debugging
-#       run: |
-#         tail -n 50 ./suggestionoftheday.log || echo "No logs available"
-
-#     - name: Post failure message if script fails
-#       if: failure()
-#       run: |
-#         echo "Script failed. Please check the logs for details."
-
 name: Update README
 
 on:
   schedule:
-    - cron: "0 17,5 * * *" # Runs every day at noon and midnight EST
+    - cron: "0 17 * * *"  # 12:00 PM EST (17:00 UTC)
+    - cron: "0 5 * * *"   # 12:00 AM EST (5:00 UTC)
+  # schedule:
+  #   - cron: "0 17,5 * * *" # Runs every day at noon and midnight EST this works the same as above but is not as clear
   workflow_dispatch:
 
 jobs:
