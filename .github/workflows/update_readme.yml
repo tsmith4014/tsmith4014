@@ -1,4 +1,4 @@
-name: Run Suggestion Script
+name: Update Readme
 
 on:
   push:
