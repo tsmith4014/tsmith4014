@@ -30,7 +30,7 @@ jobs:
         run: env
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Run Python script
+      - name: Run AI joke of the Day Python script
         run: python ./jokeofday.py
       - name: Run AI Suggestion of the Day Python script
         run: python ./suggestionoftheday.py
