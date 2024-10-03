@@ -8,7 +8,7 @@ my_secret_key = os.environ['MY_SECRET_KEY']
  
 def fetch_suggestion():
     # response = requests.get("https://www.boredapi.com/api/activity")
-    response = requests.get("https://bored-api.appbrewery.com/random?format=json")
+    response = requests.get("https://bored-api.appbrewery.com/random?format=json") #this needs to be in ?format=json,prior this was left off and was breaking 
     print(response)
     suggestion_data = response.json()
     print(suggestion_data)
