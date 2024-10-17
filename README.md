@@ -57,7 +57,11 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 UDP is better in the COVID era since it avoids unnecessary handshakes. 🤖
+⚡ AI Joke of the Day: 🤖 How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5. 🤖
 
 ---
 
