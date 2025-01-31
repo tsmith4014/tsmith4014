@@ -57,7 +57,11 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 ASCII silly question, get a silly ANSI. 🤖
+⚡ AI Joke of the Day: 🤖 Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock. 🤖
 
 ---
 
