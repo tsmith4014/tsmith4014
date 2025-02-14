@@ -63,7 +63,7 @@ The guy says "In that case, better make it a double." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 👨‍🍳 Masterchef time | 👫 Grab a couple friends | 💸 Break open your piggy bank | 🎉 Cook something together with someone 🤖
+⚡ AI Suggestion of the Day: 🤖 🎮 Game on | 👤 Grab a friend | 💰 It's free! | 🎉 Solve a Rubik's cube 🤖
 
 ---
 
