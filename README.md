@@ -57,7 +57,11 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Your mama's so FAT she can't save files bigger than 4GB. 🤖
+⚡ AI Joke of the Day: 🤖 How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5. 🤖
 
 ---
 
