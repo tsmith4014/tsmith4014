@@ -57,7 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 How many programmers does it take to screw in a light bulb? None. It's a hardware problem. 🤖
+⚡ AI Joke of the Day: 🤖 UDP is better in the COVID era since it avoids unnecessary handshakes. 🤖
 
 ---
 
