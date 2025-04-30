@@ -65,7 +65,7 @@ But I'd use RGB for you. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🍳 Let's cook up a storm | 👤 Grab a friend | 💸 Break open your piggy bank | 🎉 Bake something you've never tried before 🤖
+⚡ AI Suggestion of the Day: 🤖 👥 Be social | 👨‍👩‍👦‍👦 Gather the squad | 💵 Pocket change needed | 🎉 Have a paper airplane contest with some friends 🤖
 
 ---
 
