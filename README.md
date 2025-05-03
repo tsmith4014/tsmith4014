@@ -57,7 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the Python data scientist get arrested at customs? She was caught trying to import pandas! 🤖
+⚡ AI Joke of the Day: 🤖 Two SQL tables sit at the bar. A query approaches and asks "Can I join you?" 🤖
 
 ---
 
