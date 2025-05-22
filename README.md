@@ -64,7 +64,7 @@ The bartender asks, "Can I get you anything?"
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💰 It's free! | 🎉 Improve your touch typing 🤖
+⚡ AI Suggestion of the Day: 🤖 🎵 Feel the rhythm | 👨‍👩‍👦‍👦 Gather the squad | 💵 Pocket change needed | 🎉 Have a jam session with your friends 🤖
 
 ---
 
