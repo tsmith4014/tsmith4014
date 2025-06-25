@@ -65,7 +65,7 @@ Knock knock. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🗨️ Let's mingle | 👨‍👩‍👦‍👦 Gather the squad | 💸 Break open your piggy bank | 🎉 Go to a music festival with some friends 🤖
+⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💰 It's free! | 🎉 Go for a walk 🤖
 
 ---
 
