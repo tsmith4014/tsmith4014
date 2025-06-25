@@ -57,7 +57,11 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 I have a joke about Stack Overflow, but you would say it's a duplicate. 🤖
+⚡ AI Joke of the Day: 🤖 Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock. 🤖
 
 ---
 
