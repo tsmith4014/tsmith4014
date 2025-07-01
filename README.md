@@ -65,7 +65,7 @@ But I'd use RGB for you. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💰 It's free! | 🎉 Look at pictures and videos of cute animals 🤖
+⚡ AI Suggestion of the Day: 🤖 🎓 Let's work on some brainpower | 👤 Grab a friend | 💰 It's free! | 🎉 Watch a Khan Academy lecture on a subject of your choosing 🤖
 
 ---
 
