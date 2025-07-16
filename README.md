@@ -57,7 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What are bits? Tiny things left when you drop your computer down the stairs. 🤖
+⚡ AI Joke of the Day: 🤖 Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. 🤖
 
 ---
 
