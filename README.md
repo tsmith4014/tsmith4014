@@ -57,7 +57,11 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the web developer walk out of a resturant in disgust? The seating was laid out in tables. 🤖
+⚡ AI Joke of the Day: 🤖 Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you. 🤖
 
 ---
 
