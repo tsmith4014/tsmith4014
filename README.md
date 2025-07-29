@@ -64,7 +64,7 @@ He never returned. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 👥 Be social | 👨‍👩‍👦‍👦 Gather the squad | 💳 Time to splurge! | 🎉 Go to an escape room 🤖
+⚡ AI Suggestion of the Day: 🤖 📚 Time to hit the books | 👤 Grab a friend | 💰 It's free! | 🎉 Watch a Khan Academy lecture on a subject of your choosing 🤖
 
 ---
 
