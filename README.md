@@ -65,7 +65,7 @@ Knock knock. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💵 Pocket change needed | 🎉 Listen to a new podcast 🤖
+⚡ AI Suggestion of the Day: 🤖 🤝 Time to network | 👫 Grab a couple friends | 💵 Pocket change needed | 🎉 Text a friend you haven't talked to in a long time 🤖
 
 ---
 
