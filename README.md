@@ -57,7 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Algorithm: A word used by programmers when they don't want to explain how their code works. 🤖
+⚡ AI Joke of the Day: 🤖 How can you tell an extroverted programmer? He looks at YOUR shoes when he's talking. 🤖
 
 ---
 
