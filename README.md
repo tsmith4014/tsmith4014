@@ -62,7 +62,7 @@ It approaches, and asks "may I join you?" 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🗨️ Let's mingle | 👫 Grab a couple friends | 💰 It's free! | 🎉 Compliment someone 🤖
+⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💵 Pocket change needed | 🎉 Take a bubble bath 🤖
 
 ---
 
