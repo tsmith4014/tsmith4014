@@ -65,7 +65,7 @@ Knock knock. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🗨️ Let's mingle | 👨‍👩‍👦‍👦 Gather the squad | 💳 Time to splurge! | 🎉 Go to an escape room 🤖
+⚡ AI Suggestion of the Day: 🤖 🗨️ Let's mingle | 👫 Grab a couple friends | 💰 It's free! | 🎉 Compliment someone 🤖
 
 ---
 
