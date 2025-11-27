@@ -65,7 +65,7 @@ The IT engineer says "Hey guys, I have an idea: How about we all get out of the 
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🎓 Let's work on some brainpower | 👤 Grab a friend | 💰 It's free! | 🎉 Study a foreign language 🤖
+⚡ AI Suggestion of the Day: 🤖 🎸 Rock on | 👤 Grab a friend | 💰 It's free! | 🎉 Write a song 🤖
 
 ---
 
