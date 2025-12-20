@@ -65,7 +65,7 @@ Knock knock. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🎶 Let's make some noise | 👤 Grab a friend | 💳 Time to splurge! | 🎉 Learn to play a new instrument 🤖
+⚡ AI Suggestion of the Day: 🤖 🎮 Game on | 👤 Grab a friend | 💰 It's free! | 🎉 Do yoga 🤖
 
 ---
 
