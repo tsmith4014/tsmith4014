@@ -65,7 +65,7 @@ Knock knock. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🍳 Let's cook up a storm | 👤 Grab a friend | 💸 Break open your piggy bank | 🎉 Bake something you've never tried before 🤖
+⚡ AI Suggestion of the Day: 🤖 👥 Be social | 👨‍👩‍👦‍👦 Gather the squad | 💸 Break open your piggy bank | 🎉 Go see a movie in theaters with a few friends 🤖
 
 ---
 
