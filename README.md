@@ -65,7 +65,7 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 📚 Time to hit the books | 👤 Grab a friend | 💰 It's free! | 🎉 Memorize a favorite quote or poem 🤖
+⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💰 It's free! | 🎉 Meditate for five minutes 🤖
 
 ---
 
