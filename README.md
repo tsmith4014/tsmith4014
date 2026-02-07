@@ -57,7 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. 🤖
+⚡ AI Joke of the Day: 🤖 How do you generate a random string? Put a Windows user in front of Vim and tell them to exit. 🤖
 
 ---
 
