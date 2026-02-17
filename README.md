@@ -64,7 +64,7 @@ The bartender asks it: "What's wrong buddy?"
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🎮 Game on | 👤 Grab a friend | 💰 It's free! | 🎉 Write a poem 🤖
+⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💰 It's free! | 🎉 Organize your pantry 🤖
 
 ---
 
