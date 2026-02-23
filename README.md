@@ -65,7 +65,7 @@ But I'd use RGB for you. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 🗨️ Let's mingle | 👫 Grab a couple friends | 💵 Pocket change needed | 🎉 Play a game of tennis with a friend 🤖
+⚡ AI Suggestion of the Day: 🤖 🎓 Let's work on some brainpower | 👤 Grab a friend | 💰 It's free! | 🎉 Learn the periodic table 🤖
 
 ---
 
