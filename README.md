@@ -57,10 +57,8 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn." 🤖
+⚡ AI Joke of the Day: 🤖 A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?" 🤖
 
 ---
 
