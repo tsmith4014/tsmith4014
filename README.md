@@ -57,12 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 "Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java." 🤖
+⚡ AI Joke of the Day: 🤖 I've got a really good UDP joke to tell you but I don’t know if you'll get it. 🤖
 
 ---
 
