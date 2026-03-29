@@ -65,7 +65,7 @@ Knock knock. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💰 It's free! | 🎉 Go for a walk 🤖
+⚡ AI Suggestion of the Day: 🤖 👤 Grab a friend | 💰 It's free! | 🎉 Start a daily journal 🤖
 
 ---
 
