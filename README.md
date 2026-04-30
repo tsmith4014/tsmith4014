@@ -57,7 +57,7 @@ I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile!
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What is the most used language in programming? Profanity. 🤖
+⚡ AI Joke of the Day: 🤖 Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. 🤖
 
 ---
 
