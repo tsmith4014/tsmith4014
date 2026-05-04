@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Your momma is so fat, you need to switch to NTFS to store a picture of her. 🤖
+⚡ AI Joke of the Day: 🤖 What do you get if you lock a monkey in a room with a typewriter for 8 hours? A regular expression. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn how to beatbox | recreational | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Explore the nightlife of your city | social | solo | low cost 🤖
 
 ---
 
