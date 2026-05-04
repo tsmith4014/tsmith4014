@@ -1,44 +1,48 @@
-<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="360" rx="28" fill="#0B1220"/>
-  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
-  <circle cx="1090" cy="66" r="150" fill="url(#glow1)" opacity="0.42"/>
-  <circle cx="172" cy="314" r="184" fill="url(#glow2)" opacity="0.28"/>
-  <path d="M0 272C95 226 176 212 252 224C328 236 393 282 474 289C559 297 623 251 703 223C801 188 882 194 966 217C1040 237 1134 282 1280 267V360H0V272Z" fill="url(#terrain)" opacity="0.92"/>
-  <path d="M0 297C80 270 153 255 227 261C314 268 405 314 502 312C585 311 668 275 744 253C852 223 966 225 1077 252C1153 270 1219 291 1280 295V360H0V297Z" fill="#0D1A2A" opacity="0.96"/>
-  <g opacity="0.85">
-    <path d="M792 97H1030" stroke="#67E8F9" stroke-width="2" stroke-linecap="round"/>
-    <path d="M792 125H1094" stroke="#67E8F9" stroke-width="2" stroke-linecap="round" opacity="0.65"/>
-    <path d="M792 153H980" stroke="#67E8F9" stroke-width="2" stroke-linecap="round" opacity="0.42"/>
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="320" rx="28" fill="#0B1220"/>
+  <rect width="1280" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="1080" cy="72" r="148" fill="url(#glow1)" opacity="0.42"/>
+  <circle cx="194" cy="286" r="178" fill="url(#glow2)" opacity="0.24"/>
+  <path d="M0 232C89 188 173 175 247 184C338 196 403 245 489 250C580 256 655 208 740 181C837 150 924 159 1007 186C1093 214 1176 254 1280 240V320H0V232Z" fill="url(#terrain)" opacity="0.92"/>
+  <path d="M0 259C88 234 164 222 244 227C344 233 431 278 529 276C618 274 697 236 780 213C879 186 985 191 1087 221C1157 242 1219 256 1280 260V320H0V259Z" fill="#0D1A2A" opacity="0.96"/>
+  <g opacity="0.9">
+    <path d="M128 108H424" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
+    <path d="M128 146H505" stroke="#67E8F9" stroke-width="3" stroke-linecap="round" opacity="0.72"/>
+    <path d="M128 184H378" stroke="#67E8F9" stroke-width="3" stroke-linecap="round" opacity="0.45"/>
+    <circle cx="204" cy="108" r="7" fill="#67E8F9"/>
+    <circle cx="278" cy="108" r="7" fill="#67E8F9"/>
+    <circle cx="351" cy="108" r="7" fill="#67E8F9"/>
+    <circle cx="236" cy="146" r="7" fill="#F59E0B"/>
+    <circle cx="318" cy="146" r="7" fill="#F59E0B"/>
+    <circle cx="401" cy="146" r="7" fill="#F59E0B"/>
   </g>
-  <g opacity="0.75">
-    <circle cx="821" cy="96" r="5" fill="#67E8F9"/>
-    <circle cx="915" cy="96" r="5" fill="#67E8F9"/>
-    <circle cx="1002" cy="96" r="5" fill="#67E8F9"/>
-    <circle cx="860" cy="124" r="5" fill="#F59E0B"/>
-    <circle cx="955" cy="124" r="5" fill="#F59E0B"/>
-    <circle cx="1048" cy="124" r="5" fill="#F59E0B"/>
+  <g opacity="0.82">
+    <path d="M824 98H1116" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
+    <path d="M824 136H1172" stroke="#67E8F9" stroke-width="3" stroke-linecap="round" opacity="0.72"/>
+    <path d="M824 174H1012" stroke="#67E8F9" stroke-width="3" stroke-linecap="round" opacity="0.45"/>
+    <circle cx="892" cy="98" r="7" fill="#67E8F9"/>
+    <circle cx="985" cy="98" r="7" fill="#67E8F9"/>
+    <circle cx="1076" cy="98" r="7" fill="#67E8F9"/>
+    <circle cx="930" cy="136" r="7" fill="#F59E0B"/>
+    <circle cx="1022" cy="136" r="7" fill="#F59E0B"/>
+    <circle cx="1118" cy="136" r="7" fill="#F59E0B"/>
   </g>
-  <rect x="84" y="78" width="560" height="186" rx="18" fill="#08111D" fill-opacity="0.7" stroke="#223246"/>
-  <text x="112" y="132" fill="#E5EEF9" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Chad Thompson-Smith</text>
-  <text x="112" y="176" fill="#8FB4D9" font-family="Segoe UI, Arial, sans-serif" font-size="20">Systems engineering, AI automation, and software delivery</text>
-  <text x="112" y="214" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Chicago + Erie</text>
-  <text x="112" y="242" fill="#8FB4D9" font-family="Segoe UI, Arial, sans-serif" font-size="17">trading systems • freelance engineering • applied AI</text>
   <defs>
-    <linearGradient id="bg" x1="77" y1="36" x2="1139" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A"/>
-      <stop offset="0.52" stop-color="#132238"/>
-      <stop offset="1" stop-color="#1A2540"/>
+    <linearGradient id="bg" x1="92" y1="28" x2="1150" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10192D"/>
+      <stop offset="0.55" stop-color="#16253B"/>
+      <stop offset="1" stop-color="#1D2945"/>
     </linearGradient>
-    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1090 66) rotate(90) scale(150)">
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 72) rotate(90) scale(148)">
       <stop stop-color="#67E8F9"/>
       <stop offset="1" stop-color="#67E8F9" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(172 314) rotate(90) scale(184)">
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(194 286) rotate(90) scale(178)">
       <stop stop-color="#F59E0B"/>
       <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="terrain" x1="640" y1="215" x2="640" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#16304A"/>
+    <linearGradient id="terrain" x1="640" y1="173" x2="640" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173552"/>
       <stop offset="1" stop-color="#0A1421"/>
     </linearGradient>
   </defs>
