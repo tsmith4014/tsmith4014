@@ -53,7 +53,7 @@
 
 ## <h2 align="center">🛠️ DevOps Practices in Action 🛠️ [![Update README](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml/badge.svg)](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml)</h2>
 
-I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile! Every day at 1AM and 1PM EST, GitHub Actions trigger a YAML configuration file. This file sets up an Ubuntu environment, installs Python, and resolves dependencies. It then runs two Python scripts: one fetches a new programming joke from JokeAPI and the other fetches a new activity suggestion from BoredAPI. Both updates are then reflected in this README.md, providing not only a fresh laugh but also a novel suggestion for something interesting to do every day. This showcases the power and flexibility of DevOps practices in real-time, making my profile more engaging and dynamic.
+I've implemented a multi-faceted CI/CD pipeline right here in my GitHub profile! Twice daily (UTC cron, roughly US Eastern lunchtime and midnight depending on daylight saving), GitHub Actions run a workflow that checks out this repo, installs Python, and runs two scripts: one pulls a filtered programming joke from [JokeAPI](https://jokeapi.dev/) and the other pulls an activity from the [Bored API](https://www.boredapi.com/) shape of data, with a mirror fallback if the primary host is unreachable. Both scripts update this `README.md` via the GitHub API so the profile stays fresh without manual edits.
 
 ---
 
@@ -70,10 +70,10 @@ The entire process is automated using a `.yml` configuration file that resides i
 <h4 align="center">Use of Secrets and Environment Variables</h4>
 To keep sensitive information secure, I use GitHub Secrets to store API keys and other confidential data. These secrets are then mapped to environment variables within the `.yml` file, ensuring they are securely passed to the running script without being exposed.
 <h4 align="center">GitHub Actions</h4>
-The GitHub Action is configured to use a specific runner environment, install necessary dependencies, and execute the Python script. It also sets up caching and error-handling mechanisms to optimize the workflow.
+The GitHub Action uses an Ubuntu runner, caches pip dependencies, and runs the Python scripts in sequence so each commit sees the latest README.
 <h4 align="center">Attribution</h4>
 <h4 align="center">Jokes are fetched from [JokeAPI](https://jokeapi.dev/).</h4>
-<h4 align="center">Suggestions are fetched from [BoredAPI](https://www.boredapi.com/).</h4>
+<h4 align="center">Suggestions use the Bored API JSON format ([boredapi.com](https://www.boredapi.com/)), with a compatible mirror as fallback when needed.</h4>
 
 ---
 
@@ -141,7 +141,7 @@ Professionally, I am deeply involved in cloud architecture, software development
 - 💻 **Code Platoon - Full Stack Software Engineering Bootcamp, Chicago, IL, 2023**
 - 📊 **The Pennsylvania State University – Applied Statistics Graduate Certificate, State College, PA, 2015**
 - 📈 **University of California, San Diego – B.A. in Economics, San Diego, CA, 2011**
-- 📚 **San Diego Mesa College – A.A. in Business Education, State College, PA, 2008**
+- 📚 **San Diego Mesa College – A.A. in Business Education, San Diego, CA, 2008**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">

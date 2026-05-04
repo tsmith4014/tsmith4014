@@ -2,10 +2,9 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 17 * * *"  # 12:00 PM EST (17:00 UTC)
-    - cron: "0 5 * * *"   # 12:00 AM EST (5:00 UTC)
-  # schedule:
-  #   - cron: "0 17,5 * * *" # Runs every day at noon and midnight EST this works the same as above but is not as clear
+    # Twice daily UTC; aligns roughly with US Eastern lunch and midnight (varies with DST).
+    - cron: "0 17 * * *"
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,19 +14,12 @@ jobs:
       MY_SECRET_KEY: ${{ secrets.MY_SECRET_KEY }}
     steps:
       - name: Check out code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
-      - name: Debugging step (List directory)
-        run: ls -al
-      - name: Debugging step (Check secret length)
-        run: echo "Length of MY_SECRET_KEY is ${#MY_SECRET_KEY}"
-      - name: Debugging step (Check Python version)
-        run: python --version
-      - name: Debugging step (Check environment variables)
-        run: env
+          python-version: "3.12"
+          cache: "pip"
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Run AI joke of the Day Python script

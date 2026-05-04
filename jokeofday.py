@@ -1,181 +1,72 @@
-import requests
 import base64
-from github import Github
 import os
 import re
 
-# Your GitHub Personal Access Token
-my_secret_key = os.environ['MY_SECRET_KEY']
+import requests
+from github import Github
 
-# Function to fetch a clean joke
+JOKE_API = "https://v2.jokeapi.dev/joke/Programming?format=json"
+JOKE_PATTERN = re.compile(
+    r"(⚡ AI Joke of the Day: 🤖 ).*?( 🤖)", re.DOTALL,
+)
+MAX_JOKE_ATTEMPTS = 40
+REQUEST_TIMEOUT = 15
+
+
 def fetch_clean_joke():
-    while True:
-        response = requests.get("https://v2.jokeapi.dev/joke/Programming?format=json")
+    for _ in range(MAX_JOKE_ATTEMPTS):
+        response = requests.get(JOKE_API, timeout=REQUEST_TIMEOUT)
+        response.raise_for_status()
         joke_data = response.json()
-        print(f"Debug: Received joke data: {joke_data}")  # Debug print
 
-        # Check for clean joke based on flags
-        if not joke_data['error'] and not joke_data['flags']['nsfw'] and not joke_data['flags']['religious'] and \
-           not joke_data['flags']['political'] and not joke_data['flags']['racist'] and not joke_data['flags']['sexist'] and not joke_data['flags']['explicit']:
-            if joke_data['type'] == 'single':
-                return joke_data['joke']
-            else:
-                return f"{joke_data['setup']} {joke_data['delivery']}"
-        else:
-            print("Debug: Joke was dirty, fetching a new one...")  # Debug print
+        if joke_data.get("error"):
+            continue
 
-# Fetch a clean joke
-joke = fetch_clean_joke()
-print(f"Formatted joke: {joke}")  # Debug print
+        flags = joke_data.get("flags") or {}
+        if any(
+            flags.get(k)
+            for k in (
+                "nsfw", "religious", "political", "racist", "sexist", "explicit",
+            )
+        ):
+            continue
 
-# Fetch the current README.md file from your GitHub repository
-g = Github(my_secret_key)
-repo = g.get_repo("tsmith4014/tsmith4014")
-contents = repo.get_contents("README.md")
-readme_data = base64.b64decode(contents.content).decode("utf-8")
+        if joke_data.get("type") == "single":
+            return joke_data["joke"].strip()
+        return f"{joke_data['setup'].strip()} {joke_data['delivery'].strip()}"
 
-# Use regex to find and replace the joke in the README.md file
-pattern = r"(⚡ AI Joke of the Day: 🤖 ).*?( 🤖)"
-replacement = f"⚡ AI Joke of the Day: 🤖 {joke} 🤖"
-new_readme_data = re.sub(pattern, replacement, readme_data, flags=re.DOTALL)
-
-print(f"New README data: {new_readme_data}")  # Debug print
-
-# Update the README.md file in your GitHub repository
-update_response = repo.update_file(contents.path, "Updated Joke of the Day", new_readme_data, contents.sha)
-print(f"Update response: {update_response}")  # Debug print
+    raise RuntimeError(
+        f"Could not obtain a clean programming joke after {MAX_JOKE_ATTEMPTS} tries",
+    )
 
 
+def replace_joke_in_readme(readme_data: str, joke: str) -> str:
+    new_readme, count = JOKE_PATTERN.subn(
+        lambda m: f"{m.group(1)}{joke}{m.group(2)}",
+        readme_data,
+        count=1,
+    )
+    if count != 1:
+        raise RuntimeError("Joke marker not found or not unique in README.md")
+    return new_readme
 
 
+def main():
+    my_secret_key = os.environ["MY_SECRET_KEY"]
+    joke = fetch_clean_joke()
+
+    g = Github(my_secret_key)
+    repo = g.get_repo("tsmith4014/tsmith4014")
+    contents = repo.get_contents("README.md")
+    readme_data = base64.b64decode(contents.content).decode("utf-8")
+    new_readme_data = replace_joke_in_readme(readme_data, joke)
+    repo.update_file(
+        contents.path,
+        "Updated Joke of the Day",
+        new_readme_data,
+        contents.sha,
+    )
 
 
-
-# import requests
-# import base64
-# from github import Github
-# import os
-# import re
-
-# # Your GitHub Personal Access Token
-# my_secret_key = os.environ['MY_SECRET_KEY']
-
-# # Fetch a new joke from JokeAPI
-# response = requests.get("https://v2.jokeapi.dev/joke/Programming?format=json")
-# joke_data = response.json()
-# print(f"Debug: Received joke data: {joke_data}")  # Debug print
-
-# # Format the joke based on its type
-# if joke_data['type'] == 'single':
-#     joke = joke_data['joke']
-# else:
-#     joke = f"{joke_data['setup']} {joke_data['delivery']}"
-
-# print(f"Formatted joke: {joke}")  # Debug print
-
-# # Fetch the current README.md file from your GitHub repository
-# g = Github(my_secret_key)
-# repo = g.get_repo("tsmith4014/tsmith4014")
-# contents = repo.get_contents("README.md")
-# readme_data = base64.b64decode(contents.content).decode("utf-8")
-
-# # Use regex to find and replace the joke in the README.md file
-# pattern = r"(⚡ AI Joke of the Day: 🤖 ).*?( 🤖)"
-# replacement = f"⚡ AI Joke of the Day: 🤖 {joke} 🤖"
-# new_readme_data = re.sub(pattern, replacement, readme_data, flags=re.DOTALL)
-
-# # pattern = r"(⚡ AI Joke of the Day: 🤖 ).*( 🤖)"
-# # replacement = f"⚡ AI Joke of the Day: 🤖 {joke} 🤖"
-# # new_readme_data = re.sub(pattern, replacement, readme_data)
-
-# print(f"New README data: {new_readme_data}")  # Debug print
-
-# # Update the README.md file in your GitHub repository
-# update_response = repo.update_file(contents.path, "Updated Joke of the Day", new_readme_data, contents.sha)
-# print(f"Update response: {update_response}")  # Debug print
-
-
-# pattern = r"(⚡ AI Joke of the Day: 🤖 ).*?( 🤖)"
-# replacement = f"⚡ AI Joke of the Day: 🤖 {joke} 🤖"
-# new_readme_data = re.sub(pattern, replacement, readme_data, flags=re.DOTALL)
-
-
-
-# import requests
-# import base64
-# from github import Github
-# import os
-# import re
-
-# # Your GitHub Personal Access Token
-# my_secret_key = os.environ['MY_SECRET_KEY']
-
-# # Fetch a new joke from JokeAPI
-# response = requests.get("https://v2.jokeapi.dev/joke/Programming?format=json")
-# joke_data = response.json()
-
-# # Format the joke based on its type
-# if joke_data['type'] == 'single':
-#     joke = joke_data['joke']
-# else:
-#     joke = f"{joke_data['setup']} {joke_data['delivery']}"
-
-# # Fetch the current README.md file from your GitHub repository
-# g = Github(my_secret_key)
-# repo = g.get_repo("tsmith4014/tsmith4014")
-# contents = repo.get_contents("README.md")
-# readme_data = base64.b64decode(contents.content).decode("utf-8")
-
-# # Use regex to find and replace the joke in the README.md file
-# pattern = r"(⚡ AI Joke of the Day: 🤖 ).*( 🤖)"
-# replacement = f"⚡ AI Joke of the Day: 🤖 {joke} 🤖"
-# new_readme_data = re.sub(pattern, replacement, readme_data)
-
-# # Update the README.md file in your GitHub repository
-# repo.update_file(contents.path, "Updated Joke of the Day", new_readme_data, contents.sha)
-
-
-# import requests
-# import base64
-# from github import Github
-# import os
-
-# my_secret_key = os.environ['MY_SECRET_KEY']
-
-# # Fetch a new joke from JokeAPI
-# response = requests.get("https://v2.jokeapi.dev/joke/Programming?format=json")
-# joke_data = response.json()
-
-# # Format the joke based on its type
-# if joke_data['type'] == 'single':
-#     joke = joke_data['joke']
-# else:  # Assuming the only other type is 'twopart'
-#     joke = f"{joke_data['setup']} {joke_data['delivery']}"
-
-# print(f"Debug: Received joke data: {joke_data}")
-# print(f"Formatted joke: {joke}")
-
-# # Fetch the current README.md file from your GitHub repository
-# g = Github(my_secret_key)
-# repo = g.get_repo("tsmith4014/tsmith4014")
-# contents = repo.get_contents("README.md")
-# readme_data = base64.b64decode(contents.content).decode("utf-8")
-
-# # Find and replace the joke in the README.md file
-# readme_lines = readme_data.split('\n')
-# for i, line in enumerate(readme_lines):
-#     if "⚡ AI Joke of the Day: 🤖" in line:
-#         start = line.find("🤖") + len("🤖")  # Find the first 🤖 and move past it
-#         end = line.rfind("🤖")  # Find the last 🤖
-#         if start != -1 and end != -1 and start != end:
-#             new_line = line[:start] + " " + joke + " " + line[end:]
-#             readme_lines[i] = new_line
-#             break
-# else:
-#     print("Joke string not found in README.md. No update performed.")
-
-
-# new_readme_data = '\n'.join(readme_lines)
-
-# # Update the README.md file in your GitHub repository
-# repo.update_file(contents.path, "Updated Joke of the Day", new_readme_data, contents.sha)
+if __name__ == "__main__":
+    main()
