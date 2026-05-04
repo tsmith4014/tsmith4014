@@ -18,11 +18,11 @@
     <circle cx="955" cy="124" r="5" fill="#F59E0B"/>
     <circle cx="1048" cy="124" r="5" fill="#F59E0B"/>
   </g>
-  <rect x="84" y="78" width="472" height="172" rx="18" fill="#08111D" fill-opacity="0.7" stroke="#223246"/>
+  <rect x="84" y="78" width="560" height="186" rx="18" fill="#08111D" fill-opacity="0.7" stroke="#223246"/>
   <text x="112" y="132" fill="#E5EEF9" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Chad Thompson-Smith</text>
   <text x="112" y="176" fill="#8FB4D9" font-family="Segoe UI, Arial, sans-serif" font-size="20">Systems engineering, AI automation, and software delivery</text>
   <text x="112" y="214" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Chicago + Erie</text>
-  <text x="224" y="214" fill="#8FB4D9" font-family="Segoe UI, Arial, sans-serif" font-size="18">trading systems • freelance engineering • applied AI</text>
+  <text x="112" y="242" fill="#8FB4D9" font-family="Segoe UI, Arial, sans-serif" font-size="17">trading systems • freelance engineering • applied AI</text>
   <defs>
     <linearGradient id="bg" x1="77" y1="36" x2="1139" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0F172A"/>
