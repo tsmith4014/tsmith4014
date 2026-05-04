@@ -1,0 +1,45 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" rx="28" fill="#0B1220"/>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1090" cy="66" r="150" fill="url(#glow1)" opacity="0.42"/>
+  <circle cx="172" cy="314" r="184" fill="url(#glow2)" opacity="0.28"/>
+  <path d="M0 272C95 226 176 212 252 224C328 236 393 282 474 289C559 297 623 251 703 223C801 188 882 194 966 217C1040 237 1134 282 1280 267V360H0V272Z" fill="url(#terrain)" opacity="0.92"/>
+  <path d="M0 297C80 270 153 255 227 261C314 268 405 314 502 312C585 311 668 275 744 253C852 223 966 225 1077 252C1153 270 1219 291 1280 295V360H0V297Z" fill="#0D1A2A" opacity="0.96"/>
+  <g opacity="0.85">
+    <path d="M792 97H1030" stroke="#67E8F9" stroke-width="2" stroke-linecap="round"/>
+    <path d="M792 125H1094" stroke="#67E8F9" stroke-width="2" stroke-linecap="round" opacity="0.65"/>
+    <path d="M792 153H980" stroke="#67E8F9" stroke-width="2" stroke-linecap="round" opacity="0.42"/>
+  </g>
+  <g opacity="0.75">
+    <circle cx="821" cy="96" r="5" fill="#67E8F9"/>
+    <circle cx="915" cy="96" r="5" fill="#67E8F9"/>
+    <circle cx="1002" cy="96" r="5" fill="#67E8F9"/>
+    <circle cx="860" cy="124" r="5" fill="#F59E0B"/>
+    <circle cx="955" cy="124" r="5" fill="#F59E0B"/>
+    <circle cx="1048" cy="124" r="5" fill="#F59E0B"/>
+  </g>
+  <rect x="84" y="78" width="472" height="172" rx="18" fill="#08111D" fill-opacity="0.7" stroke="#223246"/>
+  <text x="112" y="132" fill="#E5EEF9" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Chad Thompson-Smith</text>
+  <text x="112" y="176" fill="#8FB4D9" font-family="Segoe UI, Arial, sans-serif" font-size="20">Systems engineering, AI automation, and software delivery</text>
+  <text x="112" y="214" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Chicago + Erie</text>
+  <text x="224" y="214" fill="#8FB4D9" font-family="Segoe UI, Arial, sans-serif" font-size="18">trading systems • freelance engineering • applied AI</text>
+  <defs>
+    <linearGradient id="bg" x1="77" y1="36" x2="1139" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.52" stop-color="#132238"/>
+      <stop offset="1" stop-color="#1A2540"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1090 66) rotate(90) scale(150)">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#67E8F9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(172 314) rotate(90) scale(184)">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="terrain" x1="640" y1="215" x2="640" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16304A"/>
+      <stop offset="1" stop-color="#0A1421"/>
+    </linearGradient>
+  </defs>
+</svg>

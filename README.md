@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/profile-hero.svg" width="100%" alt="Chad Thompson-Smith profile banner" />
+</p>
+
 <h1 align="center">Chad Thompson-Smith</h1>
 <p align="center">Systems engineering, freelance software development, AI automation, and applied statistics.</p>
-<p align="center">Proprietary trading firm · U.S. Navy veteran · Erie, PA · <a href="https://www.linkedin.com/in/chad-thompson-smith/">LinkedIn</a> · <a href="mailto:chjthomps@gmail.com">Email</a></p>
+<p align="center">Proprietary trading firm · Freelance software developer · Chicago &amp; Erie · <a href="https://www.linkedin.com/in/chad-thompson-smith/">LinkedIn</a> · <a href="mailto:chjthomps@gmail.com">Email</a></p>
 
 > I like infrastructure that stays boring in production, automation that removes friction, and AI systems that hold up under real-world constraints.
 
