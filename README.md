@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the web developer walk out of a resturant in disgust? The seating was laid out in tables. 🤖
+⚡ AI Joke of the Day: 🤖 Your momma is so fat, you need to switch to NTFS to store a picture of her. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Fix something that's broken in your house | diy | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn how to beatbox | recreational | solo | free 🤖
 
 ---
 
