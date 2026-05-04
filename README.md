@@ -13,6 +13,7 @@
 ## Focus
 
 - Production systems, observability, and change discipline in a low-latency environment
+- Internal AI enablement for engineering teams, including shared assistant workflows and knowledge access
 - Freelance software development for practical business and automation problems
 - AI automation, LLM workflows, and cost-aware applied AI systems
 - Cloud and network automation across AWS and OCI with Terraform and Ansible
@@ -20,6 +21,8 @@
 
 ## Selected Work
 
+- **Internal AI engineering enablement:** working on Claude Slack integration with Jira and Confluence so senior engineers can authenticate with their own Claude accounts and operate in a shared workspace tied to tickets and company docs.
+- **Trading server config analysis:** scanning trade-server configurations into Git-backed version control so Claude can analyze drift, misalignment, and operational inconsistencies across environments.
 - **Expense capture mobile app:** shipped a React mobile app now being tested by a for-profit education company. It lets employees capture receipt images, assemble expense submissions, and generate a signed PDF package for handoff. Backend is serverless on AWS with Lambda functions and S3 storage.
 - **Interactive infrastructure demos:** [AWS network diagram](https://tsmith4014.github.io/twoge_aws_deployment/) and [EC2 / DB / S3 layout](https://tsmith4014.github.io/assessment_2/) built with SVG/canvas for explanation, not just decoration.
 - **Small-business web builds:** shipped responsive sites for [Curtis Smith's Gunsmithing](https://tsmith4014.github.io/curts_website/) and [Smith Automotive](https://tsmith4014.github.io/Smith-Automotive/).
@@ -82,6 +85,7 @@ Tai chi and chi gong through the VA, volunteering with the local humane society,
 - **Application:** Python, TypeScript, React, SQL, API design, automation, freelance delivery
 - **Mobile & serverless:** React mobile UI, AWS Lambda, S3-backed document and receipt workflows
 - **AI:** LLM workflows, prompt/system design, structured extraction, cost-aware batch processing, practical automation
+- **Enterprise enablement:** Claude integrations, Slack workflows, Jira/Confluence context, config analysis, Git-backed operational review
 - **Analysis:** R, applied statistics, experiment design, data cleaning, lightweight ML
 - **Delivery:** GitHub Actions, Docker, CI/CD, repo hygiene
 
