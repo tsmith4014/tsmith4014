@@ -20,6 +20,7 @@
 
 ## Selected Work
 
+- **Expense capture mobile app:** shipped a React mobile app now being tested by a for-profit education company. It lets employees capture receipt images, assemble expense submissions, and generate a signed PDF package for handoff. Backend is serverless on AWS with Lambda functions and S3 storage.
 - **Interactive infrastructure demos:** [AWS network diagram](https://tsmith4014.github.io/twoge_aws_deployment/) and [EC2 / DB / S3 layout](https://tsmith4014.github.io/assessment_2/) built with SVG/canvas for explanation, not just decoration.
 - **Small-business web builds:** shipped responsive sites for [Curtis Smith's Gunsmithing](https://tsmith4014.github.io/curts_website/) and [Smith Automotive](https://tsmith4014.github.io/Smith-Automotive/).
 - **Applied AI systems:** built LLM-assisted extraction and Q&A workflows where latency, token cost, and noisy source material all matter.
@@ -79,6 +80,7 @@ Tai chi and chi gong through the VA, volunteering with the local humane society,
 
 - **Infra:** AWS, OCI, Terraform, Ansible, Linux, networking, observability
 - **Application:** Python, TypeScript, React, SQL, API design, automation, freelance delivery
+- **Mobile & serverless:** React mobile UI, AWS Lambda, S3-backed document and receipt workflows
 - **AI:** LLM workflows, prompt/system design, structured extraction, cost-aware batch processing, practical automation
 - **Analysis:** R, applied statistics, experiment design, data cleaning, lightweight ML
 - **Delivery:** GitHub Actions, Docker, CI/CD, repo hygiene
@@ -119,7 +121,7 @@ Tai chi and chi gong through the VA, volunteering with the local humane society,
 ## Experience
 
 - **Systems, proprietary trading firm:** production systems, reliability work, and internal tooling in a low-latency environment
-- **Freelance software developer and DevOps:** current freelance software development, cloud architecture, automation, AI-assisted tooling, and delivery systems
+- **Freelance software developer and DevOps:** current freelance software development, cloud architecture, mobile/product delivery, serverless automation, AI-assisted tooling, and delivery systems
 - **Statistical analyst and consultant:** applied stats, econometrics, operational analysis, and data product work
 
 ## Education
