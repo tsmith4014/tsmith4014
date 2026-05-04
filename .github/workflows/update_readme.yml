@@ -22,7 +22,7 @@ jobs:
           cache: "pip"
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Run AI joke of the Day Python script
+      - name: Update README (daily joke)
         run: python ./jokeofday.py
-      - name: Run AI Suggestion of the Day Python script
+      - name: Update README (daily suggestion)
         run: python ./suggestionoftheday.py

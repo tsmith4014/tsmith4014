@@ -1,6 +1,5 @@
 import base64
 import os
-import random
 
 import requests
 from github import Github
@@ -29,68 +28,36 @@ def fetch_activity_data():
     raise RuntimeError("Could not fetch activity from any provider") from last_error
 
 
-def fetch_suggestion():
-    suggestion_data = fetch_activity_data()
-    activity = suggestion_data["activity"]
-    activity_type = suggestion_data["type"]
-    participants = suggestion_data["participants"]
-    price = suggestion_data["price"]
+def _participants_label(participants: int) -> str:
+    if participants <= 0:
+        return "solo"
+    if participants == 1:
+        return "pair-friendly"
+    if participants == 2:
+        return "small group"
+    return "group-sized"
 
-    suggestion_parts = []
 
-    activity_type_phrases = {
-        "education": [
-            "🎓 Let's work on some brainpower",
-            "📚 Time to hit the books",
-            "🤓 Geek out",
-        ],
-        "recreational": [
-            "🏖️ Time to relax",
-            "🎉 Let's have some fun",
-            "🎮 Game on",
-        ],
-        "social": ["👥 Be social", "🗨️ Let's mingle", "🤝 Time to network"],
-        "charity": [
-            "❤️ Make the world a better place",
-            "🤲 Time to give back",
-            "🌍 Be a hero",
-        ],
-        "cooking": [
-            "👨‍🍳 Masterchef time",
-            "🍳 Let's cook up a storm",
-            "🍲 Soup's on",
-        ],
-        "music": [
-            "🎵 Feel the rhythm",
-            "🎶 Let's make some noise",
-            "🎸 Rock on",
-        ],
-        "busywork": ["🧹 Knock out a chore", "✅ Productivity time", "📋 Check something off"],
-    }
-
-    if activity_type in activity_type_phrases:
-        suggestion_parts.append(random.choice(activity_type_phrases[activity_type]))
-
-    if participants == 0:
-        suggestion_parts.append("🚶‍♂️ Solo activity")
-    elif participants == 1:
-        suggestion_parts.append("👤 Grab a friend")
-    elif participants == 2:
-        suggestion_parts.append("👫 Grab a couple friends")
-    else:
-        suggestion_parts.append("👨‍👩‍👦‍👦 Gather the squad")
-
+def _price_label(price: float) -> str:
     if price == 0:
-        suggestion_parts.append("💰 It's free!")
-    elif 0 < price < 0.2:
-        suggestion_parts.append("💵 Pocket change needed")
-    elif 0.2 <= price < 0.5:
-        suggestion_parts.append("💸 Break open your piggy bank")
-    else:
-        suggestion_parts.append("💳 Time to splurge!")
+        return "free"
+    if price < 0.2:
+        return "pocket change"
+    if price < 0.5:
+        return "modest spend"
+    return "splurge territory"
 
-    suggestion_parts.append(f"🎉 {activity}")
-    return " | ".join(suggestion_parts)
+
+def fetch_suggestion():
+    """One-line suggestion for README (plain text between the robot markers)."""
+    d = fetch_activity_data()
+    activity = str(d["activity"]).strip()
+    activity_type = str(d["type"]).strip().lower().replace("_", " ")
+    participants = int(d["participants"])
+    price = float(d["price"])
+    people = _participants_label(participants)
+    cost = _price_label(price)
+    return f"{activity} - {activity_type} - {people} - {cost}"
 
 
 def replace_suggestion_in_readme(readme_data: str, suggestion: str) -> str:
