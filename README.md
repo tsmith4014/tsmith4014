@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why does no one like SQLrillex? He keeps dropping the database. 🤖
+⚡ AI Joke of the Day: 🤖 ASCII silly question, get a silly ANSI. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Cook something together with someone | cooking | two-person | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Conquer one of your fears | recreational | solo | low cost 🤖
 
 ---
 
