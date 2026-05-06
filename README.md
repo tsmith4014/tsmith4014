@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 // This line doesn't actually do anything, but the code stops working when I delete it. 🤖
+⚡ AI Joke of the Day: 🤖 Why did the functional programmer get thrown out of school? Because he refused to take classes. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Take a hike at a local park | recreational | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Research a topic you're interested in | education | solo | free 🤖
 
 ---
 
