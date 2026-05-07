@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. 🤖
+⚡ AI Joke of the Day: 🤖 What do you call a group of 8 Hobbits? A Hobbyte. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Contribute code or a monetary donation to an open-source software project | charity | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Hold a yard sale | social | solo | free 🤖
 
 ---
 
