@@ -57,11 +57,13 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What do you call a group of 8 Hobbits? A Hobbyte. 🤖
+⚡ AI Joke of the Day: 🤖 A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Hold a yard sale | social | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Teach your dog a new trick | relaxation | solo | low cost 🤖
 
 ---
 
