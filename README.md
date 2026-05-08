@@ -57,13 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double." 🤖
+⚡ AI Joke of the Day: 🤖 Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Teach your dog a new trick | relaxation | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Uninstall unused apps from your devices | busywork | solo | free 🤖
 
 ---
 
