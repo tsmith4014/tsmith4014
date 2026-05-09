@@ -57,15 +57,14 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you. 🤖
+⚡ AI Joke of the Day: 🤖 "Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Clean out your car | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn Kotlin | education | solo | free 🤖
 
 ---
 
