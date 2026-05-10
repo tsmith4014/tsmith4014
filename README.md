@@ -57,14 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 "Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned. 🤖
+⚡ AI Joke of the Day: 🤖 Why was the JavaScript developer sad? Because they didn't Node how to Express themself! 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn Kotlin | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Have a bonfire with your close friends | social | small group | low cost 🤖
 
 ---
 
