@@ -57,13 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 "Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke." 🤖
+⚡ AI Joke of the Day: 🤖 Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Bake pastries for you and your neighbor | cooking | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Compliment someone | social | two-person | free 🤖
 
 ---
 
