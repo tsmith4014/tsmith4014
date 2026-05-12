@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why do they call it hyper terminal? Too much Java. 🤖
+⚡ AI Joke of the Day: 🤖 Two SQL tables sit at the bar. A query approaches and asks "Can I join you?" 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn how to whistle with your fingers | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Look at pictures and videos of cute animals | relaxation | solo | free 🤖
 
 ---
 
