@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 The generation of random numbers is too important to be left to chance. 🤖
+⚡ AI Joke of the Day: 🤖 Why do they call it hyper terminal? Too much Java. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn the Chinese erhu | music | solo | splurge 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn how to whistle with your fingers | education | solo | free 🤖
 
 ---
 
