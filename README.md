@@ -57,11 +57,16 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What are bits? Tiny things left when you drop your computer down the stairs. 🤖
+⚡ AI Joke of the Day: 🤖 "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn a new recipe | cooking | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Hold a video game tournament with some friends | social | small group | free 🤖
 
 ---
 
