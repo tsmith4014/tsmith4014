@@ -57,16 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 "Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java." 🤖
+⚡ AI Joke of the Day: 🤖 Why are modern programming languages so materialistic? Because they are object-oriented. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Hold a video game tournament with some friends | social | small group | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Look at your finances and find one way to save money | busywork | solo | free 🤖
 
 ---
 
