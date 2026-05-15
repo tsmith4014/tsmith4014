@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Debugging: Removing the needles from the haystack. 🤖
+⚡ AI Joke of the Day: 🤖 What do you get if you lock a monkey in a room with a typewriter for 8 hours? A regular expression. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Have a photo session with some friends | social | small group | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Write a song | music | solo | free 🤖
 
 ---
 
