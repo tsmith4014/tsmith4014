@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 // This line doesn't actually do anything, but the code stops working when I delete it. 🤖
+⚡ AI Joke of the Day: 🤖 I've got a really good UDP joke to tell you but I don’t know if you'll get it. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Go see a Broadway production | recreational | small group | splurge 🤖
+⚡ AI Suggestion of the Day: 🤖 Improve your touch typing | busywork | solo | free 🤖
 
 ---
 
