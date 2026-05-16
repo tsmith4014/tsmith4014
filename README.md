@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What do you get if you lock a monkey in a room with a typewriter for 8 hours? A regular expression. 🤖
+⚡ AI Joke of the Day: 🤖 // This line doesn't actually do anything, but the code stops working when I delete it. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Write a song | music | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Go see a Broadway production | recreational | small group | splurge 🤖
 
 ---
 
