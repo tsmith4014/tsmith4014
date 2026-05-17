@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 I've got a really good UDP joke to tell you but I don’t know if you'll get it. 🤖
+⚡ AI Joke of the Day: 🤖 What do you call a group of 8 Hobbits? A Hobbyte. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Improve your touch typing | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Take a nap | relaxation | solo | free 🤖
 
 ---
 
