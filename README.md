@@ -57,13 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double." 🤖
+⚡ AI Joke of the Day: 🤖 ASCII silly question, get a silly ANSI. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Have a jam session with your friends | music | group | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn how to make a website | education | solo | low cost 🤖
 
 ---
 
