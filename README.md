@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Debugging is like being the detective in a crime movie where you're also the murderer at the same time. 🤖
+⚡ AI Joke of the Day: 🤖 What are bits? Tiny things left when you drop your computer down the stairs. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Play a game of Monopoly | social | small group | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Bake something you've never tried before | cooking | solo | paid 🤖
 
 ---
 
