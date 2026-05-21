@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What are bits? Tiny things left when you drop your computer down the stairs. 🤖
+⚡ AI Joke of the Day: 🤖 Why do programmers wear glasses? Because they need to C# 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Bake something you've never tried before | cooking | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Take a spontaneous road trip with some friends | social | small group | paid 🤖
 
 ---
 
