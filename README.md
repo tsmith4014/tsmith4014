@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why do programmers wear glasses? Because they need to C# 🤖
+⚡ AI Joke of the Day: 🤖 How do you generate a random string? Put a Windows user in front of Vim and tell them to exit. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Take a spontaneous road trip with some friends | social | small group | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn woodworking | diy | solo | paid 🤖
 
 ---
 
