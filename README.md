@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 How do you generate a random string? Put a Windows user in front of Vim and tell them to exit. 🤖
+⚡ AI Joke of the Day: 🤖 What is a dying programmer's last program? Goodbye, world! 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn woodworking | diy | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Play a game of Monopoly | social | small group | paid 🤖
 
 ---
 
