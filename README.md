@@ -57,11 +57,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Debugging: Removing the needles from the haystack. 🤖
+⚡ AI Joke of the Day: 🤖 Two SQL tables sit at the bar. A query approaches and asks "Can I join you?" 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Organize your basement | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Clean out your garage | busywork | solo | free 🤖
 
 ---
 
