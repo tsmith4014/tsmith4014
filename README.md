@@ -69,11 +69,11 @@ Sources are deliberately narrow: [Simon Willison](https://simonwillison.net/) fo
 
 ---
 
-⚡ AI Joke of the Day: 🤖 How many programmers does it take to screw in a light bulb? None. It's a hardware problem. 🤖
+⚡ AI Joke of the Day: 🤖 A guy walks into a bar and asks for 1.4 root beers. The bartender says "I'll have to charge you extra, that's a root beer float". The guy says "In that case, better make it a double." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Donate blood at a local blood center | charity | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Go see a Broadway production | recreational | small group | splurge 🤖
 
 ---
 
