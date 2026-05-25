@@ -3,6 +3,10 @@ import unittest
 from update_readme import (
     JOKE_PATTERN,
     SUGGESTION_PATTERN,
+    SIGNALS_PATTERN,
+    SignalItem,
+    build_signal_board,
+    parse_feed_items,
     participants_label,
     price_label,
     replace_marker,
@@ -25,10 +29,70 @@ class UpdateReadmeTests(unittest.TestCase):
         readme = (
             "⚡ AI Joke of the Day: 🤖 old joke 🤖\n"
             "⚡ AI Suggestion of the Day: 🤖 old suggestion 🤖\n"
+            "<!-- SIGNALS:START -->\nold signals\n<!-- SIGNALS:END -->\n"
         )
-        updated = update_readme_text(readme, "new joke", "new suggestion")
+        updated = update_readme_text(readme, "new joke", "new suggestion", "new signals")
         self.assertIn("⚡ AI Joke of the Day: 🤖 new joke 🤖", updated)
         self.assertIn("⚡ AI Suggestion of the Day: 🤖 new suggestion 🤖", updated)
+        self.assertIn("<!-- SIGNALS:START -->\nnew signals\n<!-- SIGNALS:END -->", updated)
+
+    def test_signal_board_renders_markdown_table(self) -> None:
+        board = build_signal_board(
+            [
+                SignalItem(
+                    track="AI practice",
+                    source="Example Source",
+                    title="Useful [signal] with | characters",
+                    url="https://example.com/item",
+                ),
+            ],
+        )
+        self.assertIn("| Track | Fresh signal | Source |", board)
+        self.assertIn(
+            "[Useful \\[signal\\] with \\| characters](https://example.com/item)",
+            board,
+        )
+
+    def test_signal_marker_updates_exactly_one_section(self) -> None:
+        readme = "<!-- SIGNALS:START -->\nold\n<!-- SIGNALS:END -->"
+        updated = replace_marker(readme, SIGNALS_PATTERN, "new")
+        self.assertEqual(updated, "<!-- SIGNALS:START -->\nnew\n<!-- SIGNALS:END -->")
+
+    def test_parse_feed_items_supports_rss(self) -> None:
+        feed = """
+        <rss version="2.0">
+          <channel>
+            <item>
+              <title>Kernel prepatch</title>
+              <link>https://example.com/kernel</link>
+              <pubDate>Mon, 25 May 2026 05:05:04 +0000</pubDate>
+            </item>
+          </channel>
+        </rss>
+        """
+        items = parse_feed_items(
+            {"track": "Systems", "source": "Example", "home_url": "https://example.com"},
+            feed,
+        )
+        self.assertEqual(items[0].title, "Kernel prepatch")
+        self.assertEqual(items[0].url, "https://example.com/kernel")
+
+    def test_parse_feed_items_supports_atom(self) -> None:
+        feed = """
+        <feed xmlns="http://www.w3.org/2005/Atom">
+          <entry>
+            <title>Agent release</title>
+            <link href="https://example.com/agent" rel="alternate"/>
+            <updated>2026-05-25T05:05:04+00:00</updated>
+          </entry>
+        </feed>
+        """
+        items = parse_feed_items(
+            {"track": "AI practice", "source": "Example", "home_url": "https://example.com"},
+            feed,
+        )
+        self.assertEqual(items[0].title, "Agent release")
+        self.assertEqual(items[0].url, "https://example.com/agent")
 
     def test_participants_label_matches_activity_count(self) -> None:
         self.assertEqual(participants_label(0), "solo")

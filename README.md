@@ -51,21 +51,29 @@
 - Measurement before optimization
 - Practical delivery over resume-driven complexity
 
-## Live README
+## Live Signal Board
 
-This profile updates itself twice a day through GitHub Actions [![Update README](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml/badge.svg)](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml). A single Python job fetches a filtered programming joke plus an activity suggestion, patches this local `README.md`, runs tests, and pushes one commit with the built-in `GITHUB_TOKEN`.
+This profile updates itself twice a day through GitHub Actions [![Update README](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml/badge.svg)](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml). The pipeline pulls a compact signal board from niche technical sources, refreshes a filtered programming joke and activity suggestion, runs tests, and commits the result with the built-in `GITHUB_TOKEN`.
+
+<!-- SIGNALS:START -->
+| Track | Fresh signal | Source |
+|---|---|---|
+| AI practice | [datasette 1.0a30](https://simonwillison.net/2026/May/24/datasette/#atom-everything) | Simon Willison · May 24 |
+| AI research | [BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems](https://arxiv.org/abs/2605.22866) | arXiv cs.AI · May 25 |
+| Systems | [Kernel prepatch 7.1-rc5](https://lwn.net/Articles/1074172/) | LWN.net · May 24 |
+| Architecture | [Bliki: Vibe Coding](https://martinfowler.com/bliki/VibeCoding.html) | Martin Fowler · May 21 |
+| Edge & cloud | [Announcing Claude Compliance API support with Cloudflare CASB](https://blog.cloudflare.com/casb-anthropic-integration/) | Cloudflare Blog · May 21 |
+<!-- SIGNALS:END -->
+
+Sources are deliberately narrow: [Simon Willison](https://simonwillison.net/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) for research, [LWN.net](https://lwn.net/) for Linux/systems, [Martin Fowler](https://martinfowler.com/) for architecture, and [Cloudflare Blog](https://blog.cloudflare.com/) for edge/cloud operations.
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Four engineers get into a car. The car won't start.
-The Mechanical engineer says "It's a broken starter".
-The Electrical engineer says "Dead battery".
-The Chemical engineer says "Impurities in the gasoline".
-The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in". 🤖
+⚡ AI Joke of the Day: 🤖 How many programmers does it take to screw in a light bulb? None. It's a hardware problem. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn GraphQL | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Donate blood at a local blood center | charity | solo | free 🤖
 
 ---
 
