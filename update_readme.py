@@ -23,36 +23,81 @@ ACTIVITY_URLS = (
     "https://boredapi.com/api/activity",
     "https://bored.api.lewagon.com/api/activity/",
 )
-SIGNAL_SOURCES = (
+TRACK_SOURCES = (
     {
         "track": "AI practice",
-        "source": "Simon Willison",
-        "feed_url": "https://simonwillison.net/atom/everything/",
-        "home_url": "https://simonwillison.net/",
+        "sources": (
+            {
+                "source": "Simon Willison",
+                "feed_url": "https://simonwillison.net/atom/everything/",
+                "home_url": "https://simonwillison.net/",
+            },
+            {
+                "source": "OpenAI Developers",
+                "feed_url": "https://developers.openai.com/rss.xml",
+                "home_url": "https://developers.openai.com/",
+            },
+        ),
     },
     {
         "track": "AI research",
-        "source": "arXiv cs.AI",
-        "feed_url": "https://rss.arxiv.org/rss/cs.AI",
-        "home_url": "https://arxiv.org/list/cs.AI/recent",
+        "sources": (
+            {
+                "source": "arXiv cs.AI",
+                "feed_url": "https://rss.arxiv.org/rss/cs.AI",
+                "home_url": "https://arxiv.org/list/cs.AI/recent",
+            },
+            {
+                "source": "arXiv cs.LG",
+                "feed_url": "https://rss.arxiv.org/rss/cs.LG",
+                "home_url": "https://arxiv.org/list/cs.LG/recent",
+            },
+        ),
     },
     {
         "track": "Systems",
-        "source": "LWN.net",
-        "feed_url": "https://lwn.net/headlines/rss",
-        "home_url": "https://lwn.net/",
+        "sources": (
+            {
+                "source": "LWN.net",
+                "feed_url": "https://lwn.net/headlines/rss",
+                "home_url": "https://lwn.net/",
+            },
+            {
+                "source": "Brendan Gregg",
+                "feed_url": "https://www.brendangregg.com/blog/rss.xml",
+                "home_url": "https://www.brendangregg.com/blog/",
+            },
+        ),
     },
     {
         "track": "Architecture",
-        "source": "Martin Fowler",
-        "feed_url": "https://martinfowler.com/feed.atom",
-        "home_url": "https://martinfowler.com/",
+        "sources": (
+            {
+                "source": "Martin Fowler",
+                "feed_url": "https://martinfowler.com/feed.atom",
+                "home_url": "https://martinfowler.com/",
+            },
+            {
+                "source": "InfoQ",
+                "feed_url": "https://feed.infoq.com",
+                "home_url": "https://www.infoq.com/",
+            },
+        ),
     },
     {
         "track": "Edge & cloud",
-        "source": "Cloudflare Blog",
-        "feed_url": "https://blog.cloudflare.com/rss/",
-        "home_url": "https://blog.cloudflare.com/",
+        "sources": (
+            {
+                "source": "Cloudflare Blog",
+                "feed_url": "https://blog.cloudflare.com/rss/",
+                "home_url": "https://blog.cloudflare.com/",
+            },
+            {
+                "source": "AWS What's New",
+                "feed_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+                "home_url": "https://aws.amazon.com/about-aws/whats-new/",
+            },
+        ),
     },
 )
 
@@ -222,7 +267,7 @@ def feed_entries(root: ET.Element) -> list[ET.Element]:
     return [child for child in root if local_name(child.tag) in {"entry", "item"}]
 
 
-def parse_feed_items(source: dict[str, str], feed_text: str) -> list[SignalItem]:
+def parse_feed_items(track: str, source_name: str, feed_text: str) -> list[SignalItem]:
     root = ET.fromstring(feed_text)
     items: list[SignalItem] = []
 
@@ -238,8 +283,8 @@ def parse_feed_items(source: dict[str, str], feed_text: str) -> list[SignalItem]
             continue
         items.append(
             SignalItem(
-                track=source["track"],
-                source=source["source"],
+                track=track,
+                source=source_name,
                 title=title,
                 url=url,
                 published=published,
@@ -249,12 +294,12 @@ def parse_feed_items(source: dict[str, str], feed_text: str) -> list[SignalItem]
     return items
 
 
-def fetch_signal_item(source: dict[str, str]) -> SignalItem:
+def fetch_signal_item(track: str, source: dict[str, str]) -> SignalItem:
     try:
-        items = parse_feed_items(source, fetch_text(source["feed_url"]))
+        items = parse_feed_items(track, source["source"], fetch_text(source["feed_url"]))
     except (ET.ParseError, requests.RequestException, ValueError):
         return SignalItem(
-            track=source["track"],
+            track=track,
             source=source["source"],
             title=f"{source['source']} feed temporarily unavailable",
             url=source["home_url"],
@@ -264,11 +309,26 @@ def fetch_signal_item(source: dict[str, str]) -> SignalItem:
         return items[0]
 
     return SignalItem(
-        track=source["track"],
+        track=track,
         source=source["source"],
         title=f"Visit {source['source']}",
         url=source["home_url"],
     )
+
+
+def normalize_timestamp(value: datetime | None) -> datetime:
+    if value is None:
+        return datetime.min.replace(tzinfo=timezone.utc)
+    if value.tzinfo is None:
+        return value.replace(tzinfo=timezone.utc)
+    return value.astimezone(timezone.utc)
+
+
+def select_track_item(items: list[SignalItem]) -> SignalItem:
+    with_dates = [item for item in items if item.published is not None]
+    if with_dates:
+        return max(with_dates, key=lambda item: normalize_timestamp(item.published))
+    return items[0]
 
 
 def markdown_escape(value: str) -> str:
@@ -306,7 +366,14 @@ def build_signal_board(items: list[SignalItem]) -> str:
 
 
 def fetch_signal_board() -> str:
-    return build_signal_board([fetch_signal_item(source) for source in SIGNAL_SOURCES])
+    selected_items: list[SignalItem] = []
+    for track_spec in TRACK_SOURCES:
+        track = track_spec["track"]
+        candidates = [
+            fetch_signal_item(track, source_spec) for source_spec in track_spec["sources"]
+        ]
+        selected_items.append(select_track_item(candidates))
+    return build_signal_board(selected_items)
 
 
 def replace_marker(readme_text: str, pattern: re.Pattern[str], replacement: str) -> str:

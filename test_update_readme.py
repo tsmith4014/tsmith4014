@@ -1,4 +1,5 @@
 import unittest
+from datetime import datetime, timezone
 
 from update_readme import (
     JOKE_PATTERN,
@@ -7,6 +8,7 @@ from update_readme import (
     SignalItem,
     build_signal_board,
     parse_feed_items,
+    select_track_item,
     participants_label,
     price_label,
     replace_marker,
@@ -71,7 +73,8 @@ class UpdateReadmeTests(unittest.TestCase):
         </rss>
         """
         items = parse_feed_items(
-            {"track": "Systems", "source": "Example", "home_url": "https://example.com"},
+            "Systems",
+            "Example",
             feed,
         )
         self.assertEqual(items[0].title, "Kernel prepatch")
@@ -88,11 +91,30 @@ class UpdateReadmeTests(unittest.TestCase):
         </feed>
         """
         items = parse_feed_items(
-            {"track": "AI practice", "source": "Example", "home_url": "https://example.com"},
+            "AI practice",
+            "Example",
             feed,
         )
         self.assertEqual(items[0].title, "Agent release")
         self.assertEqual(items[0].url, "https://example.com/agent")
+
+    def test_select_track_item_prefers_most_recent_dated_item(self) -> None:
+        older = SignalItem(
+            track="Systems",
+            source="Older Source",
+            title="Older",
+            url="https://example.com/older",
+            published=datetime(2026, 5, 20, tzinfo=timezone.utc),
+        )
+        newer = SignalItem(
+            track="Systems",
+            source="Newer Source",
+            title="Newer",
+            url="https://example.com/newer",
+            published=datetime(2026, 5, 24, tzinfo=timezone.utc),
+        )
+        selected = select_track_item([older, newer])
+        self.assertEqual(selected.source, "Newer Source")
 
     def test_participants_label_matches_activity_count(self) -> None:
         self.assertEqual(participants_label(0), "solo")
