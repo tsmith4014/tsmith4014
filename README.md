@@ -20,7 +20,7 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 | AI practice | [datasette 1.0a30](https://simonwillison.net/2026/May/24/datasette/#atom-everything) | Simon Willison · May 24 |
 | AI research | [BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems](https://arxiv.org/abs/2605.22866) | arXiv cs.AI · May 25 |
 | Systems | [Kernel prepatch 7.1-rc5](https://lwn.net/Articles/1074172/) | LWN.net · May 24 |
-| Architecture | [OpenJDK News Roundup: Vector API, Compact Object Headers and G1GC as Default in JDK 27](https://www.infoq.com/news/2026/05/jdk-news-roundup-may18-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 25 |
+| Architecture | [NodeJS Proposes Built-In Virtual File System, Sparking Debate Over AI-Generated Contributions](https://www.infoq.com/news/2026/05/node-js-file-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 25 |
 | Edge & cloud | [Amazon SageMaker expands domain management across domain types](https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/) | AWS What's New · May 22 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 A guy walks into a bar and asks for 1.4 root beers. The bartender says "I'll have to charge you extra, that's a root beer float". The guy says "In that case, better make it a double." 🤖
+⚡ AI Joke of the Day: 🤖 Judge: "I sentence you to the maximum punishment..." Me (thinking): "Please be death, please be death..." Judge: "Learn Java!" Me: "Damn." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn how to play a new sport | recreational | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Binge watch a trending series | recreational | solo | paid 🤖
 
 ---
 
