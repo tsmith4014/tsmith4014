@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [datasette 1.0a30](https://simonwillison.net/2026/May/24/datasette/#atom-everything) | Simon Willison · May 24 |
-| AI research | [BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems](https://arxiv.org/abs/2605.22866) | arXiv cs.AI · May 25 |
-| Systems | [Comprehensive Response to Bambu's AGPLv3 Violations (Software Freedom Conservancy)](https://lwn.net/Articles/1074286/) | LWN.net · May 25 |
-| Architecture | [Microsoft Introduces MDASH for Large-Scale AI Vulnerability Research](https://www.infoq.com/news/2026/05/microsoft-mdash/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 25 |
+| AI practice | [Quoting Corey Quinn](https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything) | Simon Willison · May 26 |
+| AI research | [In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models](https://arxiv.org/abs/2605.23908) | arXiv cs.AI · May 26 |
+| Systems | [\[$\] Reviewing kernel patches with LLMs](https://lwn.net/Articles/1073583/) | LWN.net · May 25 |
+| Architecture | [Java News Roundup: WildFly, Micronaut, Spring AI, Apache Fory, GlassFish Plugin, Open Liberty](https://www.infoq.com/news/2026/05/java-news-roundup-may18-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 26 |
 | Edge & cloud | [Amazon SageMaker expands domain management across domain types](https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/) | AWS What's New · May 22 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone. 🤖
+⚡ AI Joke of the Day: 🤖 why do python programmers wear glasses? Because they can't C. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Research a topic you're interested in | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Create a cookbook with your favorite recipes | cooking | solo | free 🤖
 
 ---
 
