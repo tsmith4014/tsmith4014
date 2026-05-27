@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [The pressure](https://simonwillison.net/2026/May/26/the-pressure/#atom-everything) | Simon Willison · May 26 |
+| AI practice | [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything) | Simon Willison · May 27 |
 | AI research | [BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization](https://arxiv.org/abs/2605.26182) | arXiv cs.AI · May 27 |
-| Systems | [Arias: Human proof for FOSS contributions](https://lwn.net/Articles/1074534/) | LWN.net · May 26 |
-| Architecture | [Pullfrog AI: Open-Source CodeRabbit Alternative Powered by GitHub Actions](https://www.infoq.com/news/2026/05/pullfrog-ai-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 27 |
-| Edge & cloud | [Amazon RDS now supports ENA Express for Multi-AZ replication](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/) | AWS What's New · May 26 |
+| Systems | [\[$\] MOT: a tool to fight openwashing in AI](https://lwn.net/Articles/1073420/) | LWN.net · May 27 |
+| Architecture | [The test suite as a regression sensor](https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor) | Martin Fowler · May 27 |
+| Edge & cloud | [Amazon EC2 X8i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-SIN-SYD-PDT-region/) | AWS What's New · May 26 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 A byte walks into a bar looking miserable. The bartender asks it: "What's wrong buddy?" "Parity error." it replies. "Ah that makes sense, I thought you looked a bit off." 🤖
+⚡ AI Joke of the Day: 🤖 Why did the JavaScript heap close shop? It ran out of memory. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Take a spontaneous road trip with some friends | social | small group | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Buy a new house decoration | recreational | solo | paid 🤖
 
 ---
 
