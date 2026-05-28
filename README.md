@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything) | Simon Willison · May 27 |
-| AI research | [BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization](https://arxiv.org/abs/2605.26182) | arXiv cs.AI · May 27 |
-| Systems | [\[$\] MOT: a tool to fight openwashing in AI](https://lwn.net/Articles/1073420/) | LWN.net · May 27 |
-| Architecture | [The test suite as a regression sensor](https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor) | Martin Fowler · May 27 |
-| Edge & cloud | [Amazon EC2 X8i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-SIN-SYD-PDT-region/) | AWS What's New · May 26 |
+| AI practice | [sqlite AGENTS.md](https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything) | Simon Willison · May 27 |
+| AI research | [Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture](https://arxiv.org/abs/2605.27373) | arXiv cs.AI · May 28 |
+| Systems | [\[$\] LWN.net Weekly Edition for May 28, 2026](https://lwn.net/Articles/1073782/) | LWN.net · May 28 |
+| Architecture | [Cloudflare Adds Support for Claude Managed Agents](https://www.infoq.com/news/2026/05/cloudflare-claude-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 28 |
+| Edge & cloud | [Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/) | AWS What's New · May 27 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the JavaScript heap close shop? It ran out of memory. 🤖
+⚡ AI Joke of the Day: 🤖 I'd tell you a joke about NAT but I would have to translate. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Buy a new house decoration | recreational | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Take your dog on a walk | relaxation | solo | free 🤖
 
 ---
 
