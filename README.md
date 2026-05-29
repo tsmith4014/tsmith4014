@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [sqlite AGENTS.md](https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything) | Simon Willison · May 27 |
-| AI research | [Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture](https://arxiv.org/abs/2605.27373) | arXiv cs.AI · May 28 |
-| Systems | [Górny: why Gentoo?](https://lwn.net/Articles/1075148/) | LWN.net · May 28 |
+| AI practice | [datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything) | Simon Willison · May 29 |
+| AI research | [Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction](https://arxiv.org/abs/2605.28849) | arXiv cs.AI · May 29 |
+| Systems | [Rust 1.96.0 released](https://lwn.net/Articles/1075180/) | LWN.net · May 28 |
 | Architecture | [Presentation: From Founding Engineer to CTO to CEO – At the Same Startup](https://www.infoq.com/presentations/framework-best-practices-startup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 28 |
-| Edge & cloud | [Claude Opus 4.8 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws/) | AWS What's New · May 28 |
+| Edge & cloud | [Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget](https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards) | AWS What's New · May 28 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Hey Girl, Roses are #ff0000, Violets are #0000ff, I use hex codes, But I'd use RGB for you. 🤖
+⚡ AI Joke of the Day: 🤖 Why do programmers prefer using the dark mode? Because light attracts bugs. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn how the internet works | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Go stargazing | relaxation | solo | free 🤖
 
 ---
 
