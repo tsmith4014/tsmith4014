@@ -18,10 +18,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything) | Simon Willison · May 29 |
-| AI research | [Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction](https://arxiv.org/abs/2605.28849) | arXiv cs.AI · May 29 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] A trademark dispute over MeshCore](https://lwn.net/Articles/1070218/) | LWN.net · May 29 |
-| Architecture | [AI-Assisted Migration Tool Helps Teams Move from ingress-nginx to Higress in Minutes](https://www.infoq.com/news/2026/05/ai-nginx-higress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 29 |
-| Edge & cloud | [Amazon Connect Customer now supports scheduling tasks up to 90 days in advance](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule) | AWS What's New · May 29 |
+| Architecture | [How Meta Rebuilt Data Ingestion for Petabyte-Scale Reliability](https://www.infoq.com/news/2026/05/meta-cdc-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 30 |
+| Edge & cloud | [Amazon SES now offers inbox placement metrics and blocklist monitoring](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability/) | AWS What's New · May 29 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 "Honey, go to the store and buy some eggs." "OK." "Oh and while you're there, get some milk." He never returned. 🤖
+⚡ AI Joke of the Day: 🤖 Why does no one like SQLrillex? He keeps dropping the database. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Organize your pantry | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Find a charity and donate to it | charity | solo | paid 🤖
 
 ---
 
