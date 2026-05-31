@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything) | Simon Willison · May 29 |
+| AI practice | [Quoting Karen Kwok for Reuters Breakingviews](https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything) | Simon Willison · May 31 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] A trademark dispute over MeshCore](https://lwn.net/Articles/1070218/) | LWN.net · May 29 |
-| Architecture | [Google Cloud Suspends Railway's Production Account, Causing Eight-Hour Platform-Wide Outage](https://www.infoq.com/news/2026/05/railway-gcp-account-outage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 30 |
+| Architecture | [Arm Open-Sources Metis, an AI Security Framework Outperforming Traditional SAST Tools](https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 30 |
 | Edge & cloud | [Amazon SES now offers inbox placement metrics and blocklist monitoring](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability/) | AWS What's New · May 29 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 I'd tell you a joke about NAT but I would have to translate. 🤖
+⚡ AI Joke of the Day: 🤖 Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn calligraphy | education | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Do a jigsaw puzzle | recreational | solo | low cost 🤖
 
 ---
 
