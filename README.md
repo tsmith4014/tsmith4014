@@ -17,9 +17,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [The solution might be cancelling my AI subscription](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything) | Simon Willison · May 31 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] A trademark dispute over MeshCore](https://lwn.net/Articles/1070218/) | LWN.net · May 29 |
+| AI practice | [May 2026 newsletter](https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything) | Simon Willison · Jun 1 |
+| AI research | [PhyDrawGen: Physically Grounded Diagram Generation from Natural Language](https://arxiv.org/abs/2605.30512) | arXiv cs.AI · Jun 1 |
+| Systems | [Kernel prepatch 7.1-rc6](https://lwn.net/Articles/1075575/) | LWN.net · Jun 1 |
 | Architecture | [DuckDB Quack: Client/Server Protocol over HTTP for Multi-User Analytics](https://www.infoq.com/news/2026/05/duckdb-quack-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 31 |
 | Edge & cloud | [Amazon SES now offers inbox placement metrics and blocklist monitoring](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability/) | AWS What's New · May 29 |
 <!-- SIGNALS:END -->
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the Python programmer not respond to the foreign mails he got? Because his interpreter was busy collecting garbage. 🤖
+⚡ AI Joke of the Day: 🤖 "We messed up the keming again guys." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Create and follow a savings plan | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Improve your touch typing | busywork | solo | free 🤖
 
 ---
 
