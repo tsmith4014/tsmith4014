@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [May 2026 newsletter](https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything) | Simon Willison · Jun 1 |
 | AI research | [PhyDrawGen: Physically Grounded Diagram Generation from Natural Language](https://arxiv.org/abs/2605.30512) | arXiv cs.AI · Jun 1 |
-| Systems | [Kernel prepatch 7.1-rc6](https://lwn.net/Articles/1075575/) | LWN.net · Jun 1 |
-| Architecture | [DuckDB Quack: Client/Server Protocol over HTTP for Multi-User Analytics](https://www.infoq.com/news/2026/05/duckdb-quack-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · May 31 |
-| Edge & cloud | [Amazon SES now offers inbox placement metrics and blocklist monitoring](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability/) | AWS What's New · May 29 |
+| Systems | [Seven stable kernels for the first day of June](https://lwn.net/Articles/1075806/) | LWN.net · Jun 1 |
+| Architecture | [Claude Code Adds Dynamic Workflows for Parallel Agent Coordination](https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 1 |
+| Edge & cloud | [How we reduced core unit boot time from hours to minutes](https://blog.cloudflare.com/optimizing-core-unit-boot-time/) | Cloudflare Blog · Jun 1 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 "We messed up the keming again guys." 🤖
+⚡ AI Joke of the Day: 🤖 Why did the functional programmer get thrown out of school? Because he refused to take classes. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Improve your touch typing | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Make your own LEGO creation | recreational | solo | free 🤖
 
 ---
 
