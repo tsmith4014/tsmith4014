@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [Pasted File Editor](https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything) | Simon Willison · Jun 2 |
 | AI research | [Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations](https://arxiv.org/abs/2606.00002) | arXiv cs.AI · Jun 2 |
-| Systems | [Ombredanne: An AI agent ported our codebase from Python to Rust](https://lwn.net/Articles/1075832/) | LWN.net · Jun 1 |
-| Architecture | [Java News Roundup: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Introducing Endive](https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 1 |
-| Edge & cloud | [AWS HealthOmics now supports Nextflow version pinning at run time](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/) | AWS What's New · Jun 1 |
+| Systems | [\[$\] Trying to make sense of package-manager metadata](https://lwn.net/Articles/1074908/) | LWN.net · Jun 2 |
+| Architecture | [Presentation: The Human Toll of Incidents & Ways To Mitigate It](https://www.infoq.com/presentations/incident-response-mitigate/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 2 |
+| Edge & cloud | [Amazon ElastiCache for Valkey now supports durability](https://aws.amazon.com/about-aws/whats-new/2026/06/durability-amazon-elasticache) | AWS What's New · Jun 2 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Your mama's so FAT she can't save files bigger than 4GB. 🤖
+⚡ AI Joke of the Day: 🤖 Judge: "I sentence you to the maximum punishment..." Me (thinking): "Please be death, please be death..." Judge: "Learn Java!" Me: "Damn." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Go to a local thrift shop | recreational | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Take a class at your local community center that interests you | education | solo | free 🤖
 
 ---
 
