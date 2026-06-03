@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Microsoft's new MAI models](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything) | Simon Willison · Jun 2 |
+| AI practice | [Uber Caps Usage of AI Tools Like Claude Code to Manage Costs](https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything) | Simon Willison · Jun 3 |
 | AI research | [Visual Graph Scaffolds for Structural Reasoning in Large Language Models](https://arxiv.org/abs/2606.02673) | arXiv cs.AI · Jun 3 |
-| Systems | [\[$\] Caching for extended attributes](https://lwn.net/Articles/1074919/) | LWN.net · Jun 2 |
-| Architecture | [Presentation: The Human Toll of Incidents & Ways To Mitigate It](https://www.infoq.com/presentations/incident-response-mitigate/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 2 |
-| Edge & cloud | [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.36](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36) | AWS What's New · Jun 2 |
+| Systems | [\[$\] Open-source security is not a solo activity](https://lwn.net/Articles/1075741/) | LWN.net · Jun 3 |
+| Architecture | [Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet](https://www.infoq.com/news/2026/06/google-fleet-ab-experimentation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 3 |
+| Edge & cloud | [Amazon Keyspaces (for Apache Cassandra) now provides CDC iterator position](https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/) | AWS What's New · Jun 3 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Four engineers get into a car. The car won't start. The Mechanical engineer says "It's a broken starter". The Electrical engineer says "Dead battery". The Chemical engineer says "Impurities in the gasoline". The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in". 🤖
+⚡ AI Joke of the Day: 🤖 Hey baby I wish your name was asynchronous... ... so you'd give me a callback. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Have a bonfire with your close friends | social | small group | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Go on a long drive with no music | relaxation | solo | low cost 🤖
 
 ---
 
