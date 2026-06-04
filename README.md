@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Uber Caps Usage of AI Tools Like Claude Code to Manage Costs](https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything) | Simon Willison · Jun 3 |
+| AI practice | [Quoting Emanuel Maiberg, 404 Media](https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything) | Simon Willison · Jun 4 |
 | AI research | [Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification](https://arxiv.org/abs/2606.04037) | arXiv cs.AI · Jun 4 |
-| Systems | [\[$\] LWN.net Weekly Edition for June 4, 2026](https://lwn.net/Articles/1074950/) | LWN.net · Jun 4 |
-| Architecture | [Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet](https://www.infoq.com/news/2026/06/google-fleet-ab-experimentation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 3 |
-| Edge & cloud | [AWS IoT Device Management adds MQTT session data to connectivity status API](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/) | AWS What's New · Jun 3 |
+| Systems | [\[$\] Splicing out vmsplice()](https://lwn.net/Articles/1075838/) | LWN.net · Jun 4 |
+| Architecture | [30+ Updates per Second per Account: Uber Scales Ledger Processing with Batching](https://www.infoq.com/news/2026/06/uber-payment-batching-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 4 |
+| Edge & cloud | [VoidZero is joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/) | Cloudflare Blog · Jun 4 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the Python data scientist get arrested at customs? She was caught trying to import pandas! 🤖
+⚡ AI Joke of the Day: 🤖 What is the most used language in programming? Profanity. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Visit your past teachers | social | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Draft your living will | busywork | solo | free 🤖
 
 ---
 
