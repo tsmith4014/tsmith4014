@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Andreas Kling](https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything) | Simon Willison · Jun 5 |
-| AI research | [How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment](https://arxiv.org/abs/2606.05256) | arXiv cs.AI · Jun 5 |
+| AI practice | [micropython-wasm 0.1a2](https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything) | Simon Willison · Jun 6 |
+| AI research | [How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment](https://arxiv.org/abs/2606.05256) | arXiv cs.AI · Jun 6 |
 | Systems | [\[$\] Moving beyond fork() + exec()](https://lwn.net/Articles/1076018/) | LWN.net · Jun 5 |
-| Architecture | [How OpenAI Built a Secure Windows Sandbox for Codex Agents](https://www.infoq.com/news/2026/06/codex-windows-sandbox-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 5 |
-| Edge & cloud | [Your AI bill is out of control. Cloudflare can fix it now.](https://blog.cloudflare.com/ai-gateway-spend-limits/) | Cloudflare Blog · Jun 5 |
+| Architecture | [Cloudflare Identifies Query Planning Bottleneck in ClickHouse](https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 6 |
+| Edge & cloud | [Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/) | AWS What's New · Jun 5 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 UDP is better in the COVID era since it avoids unnecessary handshakes. 🤖
+⚡ AI Joke of the Day: 🤖 Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Go for a run | recreational | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Start a family tree | social | solo | free 🤖
 
 ---
 
