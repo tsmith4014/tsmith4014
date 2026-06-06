@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone. 🤖
+⚡ AI Joke of the Day: 🤖 How do you tell HTML from HTML5? - Try it out in Internet Explorer - Did it work? - No? - It's HTML5. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Start a family tree | social | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Prepare a dish from a foreign culture | cooking | solo | paid 🤖
 
 ---
 
