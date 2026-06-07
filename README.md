@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the programmer jump on the table? Because debug was on his screen. 🤖
+⚡ AI Joke of the Day: 🤖 Debugging is like being the detective in a crime movie where you're also the murderer at the same time. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Study a foreign language | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Explore a park you have never been to before | recreational | solo | free 🤖
 
 ---
 
