@@ -18,9 +18,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [micropython-wasm 0.1a2](https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything) | Simon Willison · Jun 6 |
-| AI research | [How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment](https://arxiv.org/abs/2606.05256) | arXiv cs.AI · Jun 6 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] Moving beyond fork() + exec()](https://lwn.net/Articles/1076018/) | LWN.net · Jun 5 |
-| Architecture | [Cloudflare Identifies Query Planning Bottleneck in ClickHouse](https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 6 |
+| Architecture | [ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends](https://www.infoq.com/news/2026/06/extenddb-dynamodb-adapter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 7 |
 | Edge & cloud | [Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/) | AWS What's New · Jun 5 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 How do you tell HTML from HTML5? - Try it out in Internet Explorer - Did it work? - No? - It's HTML5. 🤖
+⚡ AI Joke of the Day: 🤖 Why did the programmer jump on the table? Because debug was on his screen. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Prepare a dish from a foreign culture | cooking | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Study a foreign language | education | solo | free 🤖
 
 ---
 
