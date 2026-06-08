@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [datasette-agent-edit 0.1a0](https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) | Simon Willison · Jun 7 |
 | AI research | [Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation](https://arxiv.org/abs/2606.06514) | arXiv cs.AI · Jun 8 |
-| Systems | [Kernel prepatch 7.1-rc7](https://lwn.net/Articles/1076835/) | LWN.net · Jun 8 |
-| Architecture | [ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends](https://www.infoq.com/news/2026/06/extenddb-dynamodb-adapter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 7 |
-| Edge & cloud | [Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/) | AWS What's New · Jun 5 |
+| Systems | [\[$\] An update on fanotify](https://lwn.net/Articles/1075829/) | LWN.net · Jun 8 |
+| Architecture | [AWS Releases Next Generation of Amazon OpenSearch Serverless](https://www.infoq.com/news/2026/06/aws-opensearch-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 8 |
+| Edge & cloud | [Turning Cloudflare’s threat indicators into real-time WAF rules](https://blog.cloudflare.com/realtime-threat-intel-waf-rules/) | Cloudflare Blog · Jun 8 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 "Can I tell you a TCP joke?" "Please tell me a TCP joke." "OK, I'll tell you a TCP joke." 🤖
+⚡ AI Joke of the Day: 🤖 I've got a really good UDP joke to tell you but I don’t know if you'll get it. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Bake something you've never tried before | cooking | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Start a family tree | social | solo | free 🤖
 
 ---
 
