@@ -17,9 +17,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [micropython-wasm 0.1a2](https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything) | Simon Willison · Jun 6 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] Moving beyond fork() + exec()](https://lwn.net/Articles/1076018/) | LWN.net · Jun 5 |
+| AI practice | [datasette-agent-edit 0.1a0](https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) | Simon Willison · Jun 7 |
+| AI research | [Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation](https://arxiv.org/abs/2606.06514) | arXiv cs.AI · Jun 8 |
+| Systems | [Kernel prepatch 7.1-rc7](https://lwn.net/Articles/1076835/) | LWN.net · Jun 8 |
 | Architecture | [ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends](https://www.infoq.com/news/2026/06/extenddb-dynamodb-adapter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 7 |
 | Edge & cloud | [Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/) | AWS What's New · Jun 5 |
 <!-- SIGNALS:END -->
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Debugging is like being the detective in a crime movie where you're also the murderer at the same time. 🤖
+⚡ AI Joke of the Day: 🤖 "Can I tell you a TCP joke?" "Please tell me a TCP joke." "OK, I'll tell you a TCP joke." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Explore a park you have never been to before | recreational | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Bake something you've never tried before | cooking | solo | paid 🤖
 
 ---
 
