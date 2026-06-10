@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything) | Simon Willison · Jun 10 |
+| AI practice | [Quoting Jeremy Howard](https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything) | Simon Willison · Jun 10 |
 | AI research | [Business World Model](https://arxiv.org/abs/2606.10044) | arXiv cs.AI · Jun 10 |
-| Systems | [Future of Ubuntu MATE](https://lwn.net/Articles/1077221/) | LWN.net · Jun 9 |
-| Architecture | [Presentation: Confidently Automating Changes Across a Diverse Fleet](https://www.infoq.com/presentations/automate-fleetwide-changes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 9 |
-| Edge & cloud | [Amazon SageMaker Unified Studio Notebooks now support EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/) | AWS What's New · Jun 9 |
+| Systems | [Larson: Are insecure code completions a vulnerability?](https://lwn.net/Articles/1077413/) | LWN.net · Jun 10 |
+| Architecture | [Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale](https://www.infoq.com/presentations/context-engineering-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 10 |
+| Edge & cloud | [Amazon EC2 M9g and M9gd general purpose instances are now available](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available) | AWS What's New · Jun 10 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 There are only 10 kinds of people in this world: those who know binary and those who don't. 🤖
+⚡ AI Joke of the Day: 🤖 What is the most used language in programming? Profanity. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Take a nap | relaxation | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Try a food you don't like | recreational | solo | low cost 🤖
 
 ---
 
