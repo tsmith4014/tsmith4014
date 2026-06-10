@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Siri AI at WWDC 2026](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything) | Simon Willison · Jun 8 |
-| AI research | [PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow](https://arxiv.org/abs/2606.07549) | arXiv cs.AI · Jun 9 |
-| Systems | [Asahi Linux warns users not to upgrade to macOS 27 beta](https://lwn.net/Articles/1077209/) | LWN.net · Jun 9 |
+| AI practice | [If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything) | Simon Willison · Jun 10 |
+| AI research | [Business World Model](https://arxiv.org/abs/2606.10044) | arXiv cs.AI · Jun 10 |
+| Systems | [Future of Ubuntu MATE](https://lwn.net/Articles/1077221/) | LWN.net · Jun 9 |
 | Architecture | [Presentation: Confidently Automating Changes Across a Diverse Fleet](https://www.infoq.com/presentations/automate-fleetwide-changes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 9 |
-| Edge & cloud | [AWS FinOps Agent is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/) | AWS What's New · Jun 9 |
+| Edge & cloud | [Amazon SageMaker Unified Studio Notebooks now support EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/) | AWS What's New · Jun 9 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why do they call it hyper terminal? Too much Java. 🤖
+⚡ AI Joke of the Day: 🤖 There are only 10 kinds of people in this world: those who know binary and those who don't. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Write a song | music | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Take a nap | relaxation | solo | free 🤖
 
 ---
 
