@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Jeremy Howard](https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything) | Simon Willison · Jun 10 |
-| AI research | [Business World Model](https://arxiv.org/abs/2606.10044) | arXiv cs.AI · Jun 10 |
-| Systems | [Larson: Are insecure code completions a vulnerability?](https://lwn.net/Articles/1077413/) | LWN.net · Jun 10 |
-| Architecture | [Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale](https://www.infoq.com/presentations/context-engineering-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 10 |
-| Edge & cloud | [Amazon EC2 M9g and M9gd general purpose instances are now available](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available) | AWS What's New · Jun 10 |
+| AI practice | [Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) | Simon Willison · Jun 11 |
+| AI research | [From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference](https://arxiv.org/abs/2606.11207) | arXiv cs.AI · Jun 11 |
+| Systems | [\[$\] LWN.net Weekly Edition for June 11, 2026](https://lwn.net/Articles/1076254/) | LWN.net · Jun 11 |
+| Architecture | [Microsoft Open-Sources PostgreSQL Extension for In-Database Durable Execution](https://www.infoq.com/news/2026/06/postgresql-pg-durable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 10 |
+| Edge & cloud | [OpenAI GPT-5.4 and GPT-5.5 models now available in US East (N. Virginia) on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/) | AWS What's New · Jun 11 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What is the most used language in programming? Profanity. 🤖
+⚡ AI Joke of the Day: 🤖 Why do programmers confuse Halloween and Christmas? Because Oct 31 = Dec 25 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Try a food you don't like | recreational | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Organize your movie collection | busywork | solo | free 🤖
 
 ---
 
