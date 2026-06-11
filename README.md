@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) | Simon Willison · Jun 11 |
+| AI practice | [asyncinject 0.7](https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything) | Simon Willison · Jun 11 |
 | AI research | [From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference](https://arxiv.org/abs/2606.11207) | arXiv cs.AI · Jun 11 |
-| Systems | [\[$\] LWN.net Weekly Edition for June 11, 2026](https://lwn.net/Articles/1076254/) | LWN.net · Jun 11 |
-| Architecture | [Microsoft Open-Sources PostgreSQL Extension for In-Database Durable Execution](https://www.infoq.com/news/2026/06/postgresql-pg-durable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 10 |
-| Edge & cloud | [OpenAI GPT-5.4 and GPT-5.5 models now available in US East (N. Virginia) on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/) | AWS What's New · Jun 11 |
+| Systems | [Homebrew 6.0.0 released](https://lwn.net/Articles/1077587/) | LWN.net · Jun 11 |
+| Architecture | [Lyft Uses Mapping Intelligence to Reduce Friction in Gated Community Pickups](https://www.infoq.com/news/2026/06/lyft-gated-community-routing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 11 |
+| Edge & cloud | [Amazon Managed Service for Prometheus now supports out of order sample ingestion](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-outoforder-ingestion/) | AWS What's New · Jun 11 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why do programmers confuse Halloween and Christmas? Because Oct 31 = Dec 25 🤖
+⚡ AI Joke of the Day: 🤖 why do python programmers wear glasses? Because they can't C. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Organize your movie collection | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Draw and color a Mandala | relaxation | solo | low cost 🤖
 
 ---
 
