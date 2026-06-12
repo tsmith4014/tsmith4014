@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) | Simon Willison · Jun 11 |
 | AI research | [ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs](https://arxiv.org/abs/2606.12451) | arXiv cs.AI · Jun 12 |
-| Systems | [Homebrew 6.0.0 released](https://lwn.net/Articles/1077587/) | LWN.net · Jun 11 |
-| Architecture | [Oracle's OpenJDK Bans Generative AI Contributions While Oracle's GraalVM Allows Them](https://www.infoq.com/news/2026/06/oracle-genai-policies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 12 |
-| Edge & cloud | [Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster trou...](https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/) | AWS What's New · Jun 11 |
+| Systems | [Hundreds of AUR packages compromised](https://lwn.net/Articles/1077718/) | LWN.net · Jun 12 |
+| Architecture | [Google Launches Colab CLI for Developers, Automation, and AI Agents](https://www.infoq.com/news/2026/06/google-colab-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 12 |
+| Edge & cloud | [Amazon EC2 I7i instances now available in AWS Europe (Paris) Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-i7i-instances-europe-paris-region/) | AWS What's New · Jun 12 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 why do python programmers wear glasses? Because they can't C. 🤖
+⚡ AI Joke of the Day: 🤖 What do you get if you lock a monkey in a room with a typewriter for 8 hours? A regular expression. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn woodworking | diy | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Make a to-do list for your week | busywork | solo | free 🤖
 
 ---
 
