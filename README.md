@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [asyncinject 0.7](https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything) | Simon Willison · Jun 11 |
-| AI research | [From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference](https://arxiv.org/abs/2606.11207) | arXiv cs.AI · Jun 11 |
+| AI practice | [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) | Simon Willison · Jun 11 |
+| AI research | [ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs](https://arxiv.org/abs/2606.12451) | arXiv cs.AI · Jun 12 |
 | Systems | [Homebrew 6.0.0 released](https://lwn.net/Articles/1077587/) | LWN.net · Jun 11 |
-| Architecture | [Lyft Uses Mapping Intelligence to Reduce Friction in Gated Community Pickups](https://www.infoq.com/news/2026/06/lyft-gated-community-routing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 11 |
-| Edge & cloud | [Amazon Managed Service for Prometheus now supports out of order sample ingestion](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-outoforder-ingestion/) | AWS What's New · Jun 11 |
+| Architecture | [Oracle's OpenJDK Bans Generative AI Contributions While Oracle's GraalVM Allows Them](https://www.infoq.com/news/2026/06/oracle-genai-policies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 12 |
+| Edge & cloud | [Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster trou...](https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/) | AWS What's New · Jun 11 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -75,7 +75,7 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Draw and color a Mandala | relaxation | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn woodworking | diy | solo | paid 🤖
 
 ---
 
