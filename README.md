@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 There are only 10 kinds of people in this world: those who know binary and those who don't. 🤖
+⚡ AI Joke of the Day: 🤖 Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn a new programming language | education | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Organize your basement | busywork | solo | free 🤖
 
 ---
 
