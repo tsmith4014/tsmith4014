@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 How do you generate a random string? Put a Windows user in front of Vim and tell them to exit. 🤖
+⚡ AI Joke of the Day: 🤖 why do python programmers wear glasses? Because they can't C. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Play a game of Monopoly | social | small group | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Organize your pantry | busywork | solo | free 🤖
 
 ---
 
