@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything) | Simon Willison · Jun 13 |
+| AI practice | [Publishing WASM wheels to PyPI for use with Pyodide](https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything) | Simon Willison · Jun 13 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] An overlayfs update](https://lwn.net/Articles/1077052/) | LWN.net · Jun 12 |
-| Architecture | [AWS Introduces CDK Mixins for Composable Infrastructure Abstractions](https://www.infoq.com/news/2026/06/cdk-mixins-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 13 |
+| Architecture | [AWS Introduces Durable Storage Option for ElastiCache for Valkey](https://www.infoq.com/news/2026/06/elasticache-valkey-durability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 14 |
 | Edge & cloud | [Amazon Lightsail is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-lightsail-aws-regions/) | AWS What's New · Jun 12 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. 🤖
+⚡ AI Joke of the Day: 🤖 How do you generate a random string? Put a Windows user in front of Vim and tell them to exit. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Organize your basement | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Play a game of Monopoly | social | small group | paid 🤖
 
 ---
 
