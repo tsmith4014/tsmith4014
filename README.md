@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Julia Evans](https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything) | Simon Willison · Jun 15 |
+| AI practice | ["They screwed us": Personality clashes sent Anthropic's models offline](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) | Simon Willison · Jun 15 |
 | AI research | [A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem](https://arxiv.org/abs/2606.13682) | arXiv cs.AI · Jun 15 |
-| Systems | [The 7.1 kernel has been released](https://lwn.net/Articles/1077758/) | LWN.net · Jun 14 |
-| Architecture | [Anthropic Releases and Temporarily Suspends Claude Fable 5](https://www.infoq.com/news/2026/06/claude-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 15 |
-| Edge & cloud | [Amazon Lightsail is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-lightsail-aws-regions/) | AWS What's New · Jun 12 |
+| Systems | [\[$\] Development statistics for the 7.1 kernel](https://lwn.net/Articles/1077425/) | LWN.net · Jun 15 |
+| Architecture | [Spring News Roundup: Point Releases of Boot, Security, Integration, Modulith and Spring AI 2.0](https://www.infoq.com/news/2026/06/spring-news-roundup-jun08-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 15 |
+| Edge & cloud | [Amazon ECS Express Mode is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud/) | AWS What's New · Jun 15 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 "Can I tell you a TCP joke?" "Please tell me a TCP joke." "OK, I'll tell you a TCP joke." 🤖
+⚡ AI Joke of the Day: 🤖 "Knock, knock." "Who's there?" [very long pause] "Java." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Go to the library and find an interesting book | relaxation | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Invite some friends over for a game night | social | small group | free 🤖
 
 ---
 
