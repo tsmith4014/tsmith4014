@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Publishing WASM wheels to PyPI for use with Pyodide](https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything) | Simon Willison · Jun 13 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] An overlayfs update](https://lwn.net/Articles/1077052/) | LWN.net · Jun 12 |
-| Architecture | [AWS Introduces Durable Storage Option for ElastiCache for Valkey](https://www.infoq.com/news/2026/06/elasticache-valkey-durability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 14 |
+| AI practice | [Quoting Julia Evans](https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything) | Simon Willison · Jun 15 |
+| AI research | [A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem](https://arxiv.org/abs/2606.13682) | arXiv cs.AI · Jun 15 |
+| Systems | [The 7.1 kernel has been released](https://lwn.net/Articles/1077758/) | LWN.net · Jun 14 |
+| Architecture | [Anthropic Releases and Temporarily Suspends Claude Fable 5](https://www.infoq.com/news/2026/06/claude-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 15 |
 | Edge & cloud | [Amazon Lightsail is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-lightsail-aws-regions/) | AWS What's New · Jun 12 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 why do python programmers wear glasses? Because they can't C. 🤖
+⚡ AI Joke of the Day: 🤖 "Can I tell you a TCP joke?" "Please tell me a TCP joke." "OK, I'll tell you a TCP joke." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Organize your pantry | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Go to the library and find an interesting book | relaxation | solo | low cost 🤖
 
 ---
 
