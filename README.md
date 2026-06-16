@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | ["They screwed us": Personality clashes sent Anthropic's models offline](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) | Simon Willison · Jun 15 |
-| AI research | [A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem](https://arxiv.org/abs/2606.13682) | arXiv cs.AI · Jun 15 |
+| AI practice | [The Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) | Simon Willison · Jun 16 |
+| AI research | [A Definition of Good Explanations and the Challenges Explaining LLM Outputs](https://arxiv.org/abs/2606.14838) | arXiv cs.AI · Jun 16 |
 | Systems | [\[$\] Development statistics for the 7.1 kernel](https://lwn.net/Articles/1077425/) | LWN.net · Jun 15 |
-| Architecture | [Spring News Roundup: Point Releases of Boot, Security, Integration, Modulith and Spring AI 2.0](https://www.infoq.com/news/2026/06/spring-news-roundup-jun08-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 15 |
-| Edge & cloud | [Amazon ECS Express Mode is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud/) | AWS What's New · Jun 15 |
+| Architecture | [Fragments: June 16](https://martinfowler.com/fragments/2026-06-16.html) | Martin Fowler · Jun 16 |
+| Edge & cloud | [AWS Management Console Private Access now works without internet connectivity](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/) | AWS What's New · Jun 15 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 "Knock, knock." "Who's there?" [very long pause] "Java." 🤖
+⚡ AI Joke of the Day: 🤖 Two C strings walk into a bar. The bartender asks "What can I get ya?" The first string says "I'll have a gin and tonic." The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@" The first string apologizes, "You'll have to excuse my friend, he's not null-terminated." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Invite some friends over for a game night | social | small group | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn how the internet works | education | solo | free 🤖
 
 ---
 
