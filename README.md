@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Georgi Gerganov](https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything) | Simon Willison · Jun 16 |
-| AI research | [A Definition of Good Explanations and the Challenges Explaining LLM Outputs](https://arxiv.org/abs/2606.14838) | arXiv cs.AI · Jun 16 |
+| AI practice | [<click-to-play> — a still that plays](https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything) | Simon Willison · Jun 17 |
+| AI research | [Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search](https://arxiv.org/abs/2606.17209) | arXiv cs.AI · Jun 17 |
 | Systems | [The LWN public topics list](https://lwn.net/Articles/1078039/) | LWN.net · Jun 16 |
 | Architecture | [Presentation: Automating the Web With MCP: Infra That Doesn’t Break](https://www.infoq.com/presentations/parallel-agents-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 16 |
-| Edge & cloud | [AWS Sign-in now supports resource-based policies and resource control policies](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-sign-in/) | AWS What's New · Jun 16 |
+| Edge & cloud | [Amazon Bedrock Guardrails announces a new API targeting agentic AI workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-api-ai/) | AWS What's New · Jun 16 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the functional programmer get thrown out of school? Because he refused to take classes. 🤖
+⚡ AI Joke of the Day: 🤖 Why does no one like SQLrillex? He keeps dropping the database. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Shred old documents you don't need anymore | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Go to an escape room | social | small group | splurge 🤖
 
 ---
 
