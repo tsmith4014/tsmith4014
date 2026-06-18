@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Charity Majors](https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything) | Simon Willison · Jun 17 |
-| AI research | [Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search](https://arxiv.org/abs/2606.17209) | arXiv cs.AI · Jun 17 |
-| Systems | [Fedora F44 election results](https://lwn.net/Articles/1078366/) | LWN.net · Jun 17 |
-| Architecture | [AI Agent Identity and Permission Challenges: How Uber and Auth0 Are Rethinking Access Control](https://www.infoq.com/news/2026/06/ai-agent-identity-uber-auth0/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 17 |
-| Edge & cloud | [AWS DevOps Agent adds release management capability (preview)](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management/) | AWS What's New · Jun 17 |
+| AI practice | [GLM-5.2 is probably the most powerful text-only open weights LLM](https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything) | Simon Willison · Jun 17 |
+| AI research | [Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search](https://arxiv.org/abs/2606.17209) | arXiv cs.AI · Jun 18 |
+| Systems | [\[$\] LWN.net Weekly Edition for June 18, 2026](https://lwn.net/Articles/1077459/) | LWN.net · Jun 18 |
+| Architecture | [Microsoft Scout, New Enterprise Autopilot Built on OpenClaw, Announced at Build 2026](https://www.infoq.com/news/2026/06/microsoft-scout-openclaw-build/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 18 |
+| Edge & cloud | [Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue](https://blog.cloudflare.com/agents-platform-flue-sdk/) | Cloudflare Blog · Jun 17 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why do they call it hyper terminal? Too much Java. 🤖
+⚡ AI Joke of the Day: 🤖 Why did the database administrator leave his wife? She had one-to-many relationships. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Draw something interesting | recreational | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Go on a fishing trip with some friends | social | small group | paid 🤖
 
 ---
 
