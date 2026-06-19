@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [GLM-5.2 is probably the most powerful text-only open weights LLM](https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything) | Simon Willison · Jun 17 |
-| AI research | [Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search](https://arxiv.org/abs/2606.17209) | arXiv cs.AI · Jun 18 |
+| AI practice | [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) | Simon Willison · Jun 18 |
+| AI research | [Deontic Policies for Runtime Governance of Agentic AI Systems](https://arxiv.org/abs/2606.19464) | arXiv cs.AI · Jun 19 |
 | Systems | [The Software Freedom Conservancy's LLM-backed generative AI recommendations](https://lwn.net/Articles/1078521/) | LWN.net · Jun 18 |
 | Architecture | [From Camera to Cloud: Netflix’s Scalable Media Processing Pipeline](https://www.infoq.com/news/2026/06/netflix-camera-file-processing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 18 |
-| Edge & cloud | [Celebrating 12 years of Project Galileo](https://blog.cloudflare.com/celebrating-12-years-of-project-galileo/) | Cloudflare Blog · Jun 18 |
+| Edge & cloud | [Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam/) | AWS What's New · Jun 19 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. 🤖
+⚡ AI Joke of the Day: 🤖 How do you generate a random string? Put a Windows user in front of Vim and tell them to exit. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn Kotlin | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Create a personal website | recreational | solo | low cost 🤖
 
 ---
 
