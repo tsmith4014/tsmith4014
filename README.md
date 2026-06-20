@@ -17,9 +17,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) | Simon Willison · Jun 18 |
-| AI research | [Deontic Policies for Runtime Governance of Agentic AI Systems](https://arxiv.org/abs/2606.19464) | arXiv cs.AI · Jun 19 |
-| Systems | [\[$\] Suspending and resuming BPF programs](https://lwn.net/Articles/1076210/) | LWN.net · Jun 19 |
+| AI practice | [Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) | Simon Willison · Jun 19 |
+| AI research | [Deontic Policies for Runtime Governance of Agentic AI Systems](https://arxiv.org/abs/2606.19464) | arXiv cs.AI · Jun 20 |
+| Systems | [Systemd v261 released](https://lwn.net/Articles/1078708/) | LWN.net · Jun 19 |
 | Architecture | [Behind the Scenes: Block 450 JVM Repositories Into Monorepo to Reduce Dependency Drift](https://www.infoq.com/news/2026/06/block-450-jvm-monorepo-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 19 |
 | Edge & cloud | [Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/) | Cloudflare Blog · Jun 19 |
 <!-- SIGNALS:END -->
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't. 🤖
+⚡ AI Joke of the Day: 🤖 What do you call a developer who doesn't comment code? A developer. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Text a friend you haven't talked to in a long time | social | two-person | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Go to the gym | recreational | solo | paid 🤖
 
 ---
 
