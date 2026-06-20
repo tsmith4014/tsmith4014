@@ -20,7 +20,7 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 | AI practice | [Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) | Simon Willison · Jun 19 |
 | AI research | [Deontic Policies for Runtime Governance of Agentic AI Systems](https://arxiv.org/abs/2606.19464) | arXiv cs.AI · Jun 20 |
 | Systems | [Systemd v261 released](https://lwn.net/Articles/1078708/) | LWN.net · Jun 19 |
-| Architecture | [Behind the Scenes: Block 450 JVM Repositories Into Monorepo to Reduce Dependency Drift](https://www.infoq.com/news/2026/06/block-450-jvm-monorepo-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 19 |
+| Architecture | [Inside Atlassian’s Forge Billing Architecture for Distributed Usage Tracking at Scale](https://www.infoq.com/news/2026/06/forge-billing-usage-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 20 |
 | Edge & cloud | [Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/) | Cloudflare Blog · Jun 19 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What do you call a developer who doesn't comment code? A developer. 🤖
+⚡ AI Joke of the Day: 🤖 Hey Girl, Roses are #ff0000, Violets are #0000ff, I use hex codes, But I'd use RGB for you. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Go to the gym | recreational | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Pick up litter around your favorite park | charity | solo | free 🤖
 
 ---
 
