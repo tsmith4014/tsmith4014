@@ -20,7 +20,7 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 | AI practice | [Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) | Simon Willison · Jun 19 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Systemd v261 released](https://lwn.net/Articles/1078708/) | LWN.net · Jun 19 |
-| Architecture | [Inside Atlassian’s Forge Billing Architecture for Distributed Usage Tracking at Scale](https://www.infoq.com/news/2026/06/forge-billing-usage-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 20 |
+| Architecture | [Anthropic Reports Claude Now Handles 95% of Internal Analytics Queries](https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 21 |
 | Edge & cloud | [Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/) | Cloudflare Blog · Jun 19 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Your momma is so fat, you need to switch to NTFS to store a picture of her. 🤖
+⚡ AI Joke of the Day: 🤖 Algorithm: A word used by programmers when they don't want to explain how their code works. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn how to use a french press | recreational | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn how to french braid hair | education | solo | free 🤖
 
 ---
 
