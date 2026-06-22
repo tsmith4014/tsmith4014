@@ -17,7 +17,7 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) | Simon Willison · Jun 19 |
+| AI practice | [sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything) | Simon Willison · Jun 21 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Systemd v261 released](https://lwn.net/Articles/1078708/) | LWN.net · Jun 19 |
 | Architecture | [Anthropic Reports Claude Now Handles 95% of Internal Analytics Queries](https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 21 |
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Algorithm: A word used by programmers when they don't want to explain how their code works. 🤖
+⚡ AI Joke of the Day: 🤖 Hey, wanna hear a joke? Parsing HTML with regex. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn how to french braid hair | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Do a jigsaw puzzle | recreational | solo | low cost 🤖
 
 ---
 
