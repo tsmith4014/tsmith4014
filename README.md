@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [Prompt Injection as Role Confusion](https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything) | Simon Willison · Jun 22 |
 | AI research | [On the Identifiability of User Adaptation in Co-Adaptive Neural Interfaces](https://arxiv.org/abs/2606.20569) | arXiv cs.AI · Jun 23 |
-| Systems | [GIMP 0.54.1 in a Flatpak](https://lwn.net/Articles/1078969/) | LWN.net · Jun 22 |
-| Architecture | [Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service](https://www.infoq.com/presentations/mobile-user-tracking-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 22 |
-| Edge & cloud | [AWS HealthOmics now supports Nextflow profiles](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/) | AWS What's New · Jun 22 |
+| Systems | [\[$\] KASAN for JIT-compiled BPF code](https://lwn.net/Articles/1077740/) | LWN.net · Jun 23 |
+| Architecture | [Lucide Releases Version 1.0, Removing Brand Icons and Cutting Bundle Size for Millions of Projects](https://www.infoq.com/news/2026/06/lucide-v1-icons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 23 |
+| Edge & cloud | [Automated Reasoning checks in Amazon Bedrock Guardrails add new policy refinement workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/) | AWS What's New · Jun 23 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why are Assembly programmers always soaking wet? They work below C-level. 🤖
+⚡ AI Joke of the Day: 🤖 Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Match your storage containers with their lids | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Find a charity and donate to it | charity | solo | paid 🤖
 
 ---
 
