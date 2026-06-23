@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything) | Simon Willison · Jun 21 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] Free-threaded Python: past, present, and future](https://lwn.net/Articles/1078367/) | LWN.net · Jun 22 |
+| AI practice | [Prompt Injection as Role Confusion](https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything) | Simon Willison · Jun 22 |
+| AI research | [On the Identifiability of User Adaptation in Co-Adaptive Neural Interfaces](https://arxiv.org/abs/2606.20569) | arXiv cs.AI · Jun 23 |
+| Systems | [GIMP 0.54.1 in a Flatpak](https://lwn.net/Articles/1078969/) | LWN.net · Jun 22 |
 | Architecture | [Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service](https://www.infoq.com/presentations/mobile-user-tracking-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 22 |
-| Edge & cloud | [AWS Network Firewall updates default drop action for improved connection reliability](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-updates-default-drop-action) | AWS What's New · Jun 22 |
+| Edge & cloud | [AWS HealthOmics now supports Nextflow profiles](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/) | AWS What's New · Jun 22 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 A guy walks into a bar and asks for 1.4 root beers. The bartender says "I'll have to charge you extra, that's a root beer float". The guy says "In that case, better make it a double." 🤖
+⚡ AI Joke of the Day: 🤖 Why are Assembly programmers always soaking wet? They work below C-level. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Go to an escape room | social | small group | splurge 🤖
+⚡ AI Suggestion of the Day: 🤖 Match your storage containers with their lids | busywork | solo | free 🤖
 
 ---
 
