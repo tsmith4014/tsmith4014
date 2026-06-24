@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) | Simon Willison · Jun 23 |
 | AI research | [RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems](https://arxiv.org/abs/2606.23927) | arXiv cs.AI · Jun 24 |
-| Systems | [\[$\] KASAN for JIT-compiled BPF code](https://lwn.net/Articles/1077740/) | LWN.net · Jun 23 |
-| Architecture | [Lucide Releases Version 1.0, Removing Brand Icons and Cutting Bundle Size for Millions of Projects](https://www.infoq.com/news/2026/06/lucide-v1-icons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 23 |
-| Edge & cloud | [Amazon CloudWatch Logs supports managed syslog ingestion](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion/) | AWS What's New · Jun 23 |
+| Systems | [\[$\] Fedora: 2FA, or not 2FA, that is the question](https://lwn.net/Articles/1078964/) | LWN.net · Jun 24 |
+| Architecture | [AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance](https://www.infoq.com/news/2026/06/ai-prd-code-review-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 24 |
+| Edge & cloud | [Amazon Neptune now supports AWS CloudFormation for global databases](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-aws-cloudformation/) | AWS What's New · Jun 24 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't. 🤖
+⚡ AI Joke of the Day: 🤖 Knock knock. Who's there? Recursion. Recursion who? Knock knock. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Have a photo session with some friends | social | small group | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Make homemade ice cream | cooking | solo | paid 🤖
 
 ---
 
