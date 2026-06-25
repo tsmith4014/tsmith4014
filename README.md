@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) | Simon Willison · Jun 23 |
-| AI research | [RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems](https://arxiv.org/abs/2606.23927) | arXiv cs.AI · Jun 24 |
-| Systems | [\[$\] Fedora: 2FA, or not 2FA, that is the question](https://lwn.net/Articles/1078964/) | LWN.net · Jun 24 |
-| Architecture | [AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance](https://www.infoq.com/news/2026/06/ai-prd-code-review-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 24 |
-| Edge & cloud | [Amazon Neptune now supports AWS CloudFormation for global databases](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-aws-cloudformation/) | AWS What's New · Jun 24 |
+| AI practice | [simonw/browser-compat-db](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) | Simon Willison · Jun 24 |
+| AI research | [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) | arXiv cs.AI · Jun 25 |
+| Systems | [\[$\] LWN.net Weekly Edition for June 25, 2026](https://lwn.net/Articles/1078380/) | LWN.net · Jun 25 |
+| Architecture | [Grab Builds Secure Agentic AI Workload Platform](https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 25 |
+| Edge & cloud | [Amazon EC2 announces AMI Watermarks for improved AMI governance](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images) | AWS What's New · Jun 24 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Knock knock. Who's there? Recursion. Recursion who? Knock knock. 🤖
+⚡ AI Joke of the Day: 🤖 Why do they call it hyper terminal? Too much Java. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Make homemade ice cream | cooking | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Fix something that's broken in your house | diy | solo | low cost 🤖
 
 ---
 
