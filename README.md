@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [simonw/browser-compat-db](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) | Simon Willison · Jun 24 |
-| AI research | [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) | arXiv cs.AI · Jun 25 |
+| AI practice | [AI and Liability](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) | Simon Willison · Jun 25 |
+| AI research | [Detecting and Controlling Sycophancy with Cascading Linear Features](https://arxiv.org/abs/2606.26155) | arXiv cs.AI · Jun 26 |
 | Systems | [\[$\] A look at MinIO alternatives: Ceph and Garage](https://lwn.net/Articles/1077739/) | LWN.net · Jun 25 |
-| Architecture | [Building a European Cloud Orchestration Platform within an Enterprise](https://www.infoq.com/news/2026/06/europe-cloud-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 25 |
-| Edge & cloud | [Amazon Redshift adds Reserved Instance upfront pricing options for RG instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-ri-upfront-pricing-rg-instances) | AWS What's New · Jun 25 |
+| Architecture | [How Cloudflare Solved a Congestion Bug in quiche](https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 25 |
+| Edge & cloud | [Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/) | AWS What's New · Jun 25 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 "Can I tell you a TCP joke?" "Please tell me a TCP joke." "OK, I'll tell you a TCP joke." 🤖
+⚡ AI Joke of the Day: 🤖 The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Write a song | music | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Patronize a local independent restaurant | recreational | solo | paid 🤖
 
 ---
 
