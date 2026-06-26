@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [AI and Liability](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) | Simon Willison · Jun 25 |
+| AI practice | [Quoting OpenAI](https://simonwillison.net/2026/Jun/26/openai/#atom-everything) | Simon Willison · Jun 26 |
 | AI research | [Detecting and Controlling Sycophancy with Cascading Linear Features](https://arxiv.org/abs/2606.26155) | arXiv cs.AI · Jun 26 |
-| Systems | [\[$\] A look at MinIO alternatives: Ceph and Garage](https://lwn.net/Articles/1077739/) | LWN.net · Jun 25 |
-| Architecture | [How Cloudflare Solved a Congestion Bug in quiche](https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 25 |
+| Systems | [\[$\] Initiating writeback earlier](https://lwn.net/Articles/1078767/) | LWN.net · Jun 26 |
+| Architecture | [Vercel Introduces Eve, an Open-Source Framework for Building AI Agents](https://www.infoq.com/news/2026/06/vercel-eve-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 26 |
 | Edge & cloud | [Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/) | AWS What's New · Jun 25 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be. 🤖
+⚡ AI Joke of the Day: 🤖 Knock knock. Who's there? Recursion. Recursion who? Knock knock. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Patronize a local independent restaurant | recreational | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Back up important computer files | busywork | solo | paid 🤖
 
 ---
 
