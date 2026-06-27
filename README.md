@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting OpenAI](https://simonwillison.net/2026/Jun/26/openai/#atom-everything) | Simon Willison · Jun 26 |
-| AI research | [Detecting and Controlling Sycophancy with Cascading Linear Features](https://arxiv.org/abs/2606.26155) | arXiv cs.AI · Jun 26 |
-| Systems | [\[$\] Initiating writeback earlier](https://lwn.net/Articles/1078767/) | LWN.net · Jun 26 |
+| AI practice | [Quoting Dean W. Ball](https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything) | Simon Willison · Jun 26 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
+| Systems | [\[$\] Reports from OSPM 2026, day three](https://lwn.net/Articles/1078697/) | LWN.net · Jun 26 |
 | Architecture | [Vercel Introduces Eve, an Open-Source Framework for Building AI Agents](https://www.infoq.com/news/2026/06/vercel-eve-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 26 |
-| Edge & cloud | [Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/) | AWS What's New · Jun 25 |
+| Edge & cloud | [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/) | AWS What's New · Jun 26 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Knock knock. Who's there? Recursion. Recursion who? Knock knock. 🤖
+⚡ AI Joke of the Day: 🤖 Have a great weekend! I hope your code behaves the same on Monday as it did on Friday. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Back up important computer files | busywork | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Shred old documents you don't need anymore | busywork | solo | free 🤖
 
 ---
 
