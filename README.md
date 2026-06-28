@@ -20,7 +20,7 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 | AI practice | [Quoting Dean W. Ball](https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything) | Simon Willison · Jun 26 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Three stable kernel updates](https://lwn.net/Articles/1079852/) | LWN.net · Jun 27 |
-| Architecture | [AWS Previews FinOps Agent for Cost Analysis and Optimization](https://www.infoq.com/news/2026/06/aws-finops-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 28 |
+| Architecture | [Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop](https://www.infoq.com/news/2026/06/swift-6-4-beta-features/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 28 |
 | Edge & cloud | [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/) | AWS What's New · Jun 26 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 I've got a really good UDP joke to tell you but I don’t know if you'll get it. 🤖
+⚡ AI Joke of the Day: 🤖 Why do programmers wear glasses? Because they need to C# 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Start a blog for something you're passionate about | recreational | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Take your cat on a walk | relaxation | solo | low cost 🤖
 
 ---
 
