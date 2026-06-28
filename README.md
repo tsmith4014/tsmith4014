@@ -20,7 +20,7 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 | AI practice | [Quoting Dean W. Ball](https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything) | Simon Willison · Jun 26 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Three stable kernel updates](https://lwn.net/Articles/1079852/) | LWN.net · Jun 27 |
-| Architecture | [AWS Introduces Workload Credentials Provider for Automated Certificate and Secret Management](https://www.infoq.com/news/2026/06/aws-credentials-provider/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 27 |
+| Architecture | [AWS Previews FinOps Agent for Cost Analysis and Optimization](https://www.infoq.com/news/2026/06/aws-finops-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 28 |
 | Edge & cloud | [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/) | AWS What's New · Jun 26 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why do Java programmers hate communism? They don't want to live in a classless society. 🤖
+⚡ AI Joke of the Day: 🤖 I've got a really good UDP joke to tell you but I don’t know if you'll get it. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn how to write in shorthand | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Start a blog for something you're passionate about | recreational | solo | low cost 🤖
 
 ---
 
