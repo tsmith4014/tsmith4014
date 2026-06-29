@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Jon Udell](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything) | Simon Willison · Jun 28 |
+| AI practice | [Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything) | Simon Willison · Jun 29 |
 | AI research | [AI-Model Network: Concept, Current State and Future](https://arxiv.org/abs/2606.27382) | arXiv cs.AI · Jun 29 |
-| Systems | [Kernel prepatch 7.2-rc1](https://lwn.net/Articles/1079891/) | LWN.net · Jun 28 |
-| Architecture | [Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop](https://www.infoq.com/news/2026/06/swift-6-4-beta-features/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 28 |
+| Systems | [\[$\] The rest of the 7.2 merge window](https://lwn.net/Articles/1078539/) | LWN.net · Jun 29 |
+| Architecture | [Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS](https://www.infoq.com/news/2026/06/eliya-jvm-diagnostic-profile/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 29 |
 | Edge & cloud | [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/) | AWS What's New · Jun 26 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Judge: "I sentence you to the maximum punishment..." Me (thinking): "Please be death, please be death..." Judge: "Learn Java!" Me: "Damn." 🤖
+⚡ AI Joke of the Day: 🤖 Why is Linux safe? Hackers peak through Windows only. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Try a food you don't like | recreational | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Uninstall unused apps from your devices | busywork | solo | free 🤖
 
 ---
 
