@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [HTML table extractor](https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything) | Simon Willison · Jun 29 |
+| AI practice | [Have your agent record video demos of its work with shot-scraper video](https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything) | Simon Willison · Jun 30 |
 | AI research | [AI-Model Network: Concept, Current State and Future](https://arxiv.org/abs/2606.27382) | arXiv cs.AI · Jun 30 |
-| Systems | [Git 2.55.0 released](https://lwn.net/Articles/1080188/) | LWN.net · Jun 29 |
-| Architecture | [Java News Roundup: Hardwood 1.0, Endive 1.0, Azul Payara, Quarkus, WildFly, LangChain4j, OSSI](https://www.infoq.com/news/2026/06/java-news-roundup-jun22-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 29 |
-| Edge & cloud | [AWS WAF adds support for Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore/) | AWS What's New · Jun 29 |
+| Systems | [\[$\] Flexible metaprogramming with Rhombus](https://lwn.net/Articles/1079001/) | LWN.net · Jun 30 |
+| Architecture | [Presentation: Trustworthy Productivity: Securing AI-Accelerated Development](https://www.infoq.com/presentations/ai-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 30 |
+| Edge & cloud | [Claude Opus 4.8 is now available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws-govcloud-us) | AWS What's New · Jun 30 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Your mama's so FAT she can't save files bigger than 4GB. 🤖
+⚡ AI Joke of the Day: 🤖 // This line doesn't actually do anything, but the code stops working when I delete it. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn how the internet works | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Make a budget | busywork | solo | free 🤖
 
 ---
 
