@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything) | Simon Willison · Jun 29 |
-| AI research | [AI-Model Network: Concept, Current State and Future](https://arxiv.org/abs/2606.27382) | arXiv cs.AI · Jun 29 |
-| Systems | [\[$\] The rest of the 7.2 merge window](https://lwn.net/Articles/1078539/) | LWN.net · Jun 29 |
-| Architecture | [Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS](https://www.infoq.com/news/2026/06/eliya-jvm-diagnostic-profile/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 29 |
-| Edge & cloud | [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/) | AWS What's New · Jun 26 |
+| AI practice | [HTML table extractor](https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything) | Simon Willison · Jun 29 |
+| AI research | [AI-Model Network: Concept, Current State and Future](https://arxiv.org/abs/2606.27382) | arXiv cs.AI · Jun 30 |
+| Systems | [Git 2.55.0 released](https://lwn.net/Articles/1080188/) | LWN.net · Jun 29 |
+| Architecture | [Java News Roundup: Hardwood 1.0, Endive 1.0, Azul Payara, Quarkus, WildFly, LangChain4j, OSSI](https://www.infoq.com/news/2026/06/java-news-roundup-jun22-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 29 |
+| Edge & cloud | [AWS WAF adds support for Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore/) | AWS What's New · Jun 29 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why is Linux safe? Hackers peak through Windows only. 🤖
+⚡ AI Joke of the Day: 🤖 Your mama's so FAT she can't save files bigger than 4GB. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Uninstall unused apps from your devices | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn how the internet works | education | solo | free 🤖
 
 ---
 
