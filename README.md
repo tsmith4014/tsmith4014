@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [Quoting Anthropic](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything) | Simon Willison · Jun 30 |
 | AI research | [What Drives Interactive Improvement from Feedback?](https://arxiv.org/abs/2606.30774) | arXiv cs.AI · Jul 1 |
-| Systems | [Creative Commons founders' fireside chat (Creative Commons blog)](https://lwn.net/Articles/1080518/) | LWN.net · Jun 30 |
-| Architecture | [Presentation: Trustworthy Productivity: Securing AI-Accelerated Development](https://www.infoq.com/presentations/ai-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jun 30 |
-| Edge & cloud | [Amazon CloudWatch Logs enriches log events with AWS resource tags](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-resource-tags/) | AWS What's New · Jun 30 |
+| Systems | [\[$\] Efficient access to local storage for BPF programs](https://lwn.net/Articles/1078968/) | LWN.net · Jul 1 |
+| Architecture | [Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform](https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 1 |
+| Edge & cloud | [Amazon Managed Service for Prometheus achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-fedramp-high/) | AWS What's New · Jul 1 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. 🤖
+⚡ AI Joke of the Day: 🤖 ASCII silly question, get a silly ANSI. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Explore a park you have never been to before | recreational | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Go for a walk | relaxation | solo | free 🤖
 
 ---
 
