@@ -18,10 +18,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Quoting Anthropic](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything) | Simon Willison · Jun 30 |
-| AI research | [What Drives Interactive Improvement from Feedback?](https://arxiv.org/abs/2606.30774) | arXiv cs.AI · Jul 1 |
-| Systems | [\[$\] Efficient access to local storage for BPF programs](https://lwn.net/Articles/1078968/) | LWN.net · Jul 1 |
+| AI research | [Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction](https://arxiv.org/abs/2607.00001) | arXiv cs.AI · Jul 2 |
+| Systems | [\[$\] LWN.net Weekly Edition for July 2, 2026](https://lwn.net/Articles/1079457/) | LWN.net · Jul 2 |
 | Architecture | [Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform](https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 1 |
-| Edge & cloud | [Amazon Managed Service for Prometheus achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-fedramp-high/) | AWS What's New · Jul 1 |
+| Edge & cloud | [Amazon Bedrock AgentCore increases default runtime quota limits](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/) | AWS What's New · Jul 1 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 ASCII silly question, get a silly ANSI. 🤖
+⚡ AI Joke of the Day: 🤖 Judge: "I sentence you to the maximum punishment..." Me (thinking): "Please be death, please be death..." Judge: "Learn Java!" Me: "Damn." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Go for a walk | relaxation | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Try a food you don't like | recreational | solo | low cost 🤖
 
 ---
 
