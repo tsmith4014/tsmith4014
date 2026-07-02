@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Anthropic](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything) | Simon Willison · Jun 30 |
+| AI practice | [Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything) | Simon Willison · Jul 2 |
 | AI research | [Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction](https://arxiv.org/abs/2607.00001) | arXiv cs.AI · Jul 2 |
-| Systems | [\[$\] LWN.net Weekly Edition for July 2, 2026](https://lwn.net/Articles/1079457/) | LWN.net · Jul 2 |
-| Architecture | [Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform](https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 1 |
+| Systems | [Kernel archive /pub tree restoring](https://lwn.net/Articles/1081015/) | LWN.net · Jul 2 |
+| Architecture | [SwiftUI Adds New Document Protocol, Improves Performance, and More](https://www.infoq.com/news/2026/07/swiftui-wwdc26/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 2 |
 | Edge & cloud | [Amazon Bedrock AgentCore increases default runtime quota limits](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/) | AWS What's New · Jul 1 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Judge: "I sentence you to the maximum punishment..." Me (thinking): "Please be death, please be death..." Judge: "Learn Java!" Me: "Damn." 🤖
+⚡ AI Joke of the Day: 🤖 Eight bytes walk into a bar. The bartender asks, "Can I get you anything?" "Yeah," reply the bytes. "Make us a double." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Try a food you don't like | recreational | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Make bread from scratch | cooking | solo | paid 🤖
 
 ---
 
