@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything) | Simon Willison · Jul 2 |
-| AI research | [Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction](https://arxiv.org/abs/2607.00001) | arXiv cs.AI · Jul 2 |
-| Systems | [Kernel archive /pub tree restoring](https://lwn.net/Articles/1081015/) | LWN.net · Jul 2 |
-| Architecture | [SwiftUI Adds New Document Protocol, Improves Performance, and More](https://www.infoq.com/news/2026/07/swiftui-wwdc26/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 2 |
-| Edge & cloud | [Amazon Bedrock AgentCore increases default runtime quota limits](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/) | AWS What's New · Jul 1 |
+| AI practice | [llm-coding-agent 0.1a0](https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything) | Simon Willison · Jul 2 |
+| AI research | [PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations](https://arxiv.org/abs/2607.01306) | arXiv cs.AI · Jul 3 |
+| Systems | [CalyxOS is back](https://lwn.net/Articles/1081038/) | LWN.net · Jul 2 |
+| Architecture | [Google Releases A2UI v0.9: Portable, Framework-Agnostic Generative UI](https://www.infoq.com/news/2026/07/google-a2ui-genui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 3 |
+| Edge & cloud | [Amazon SageMaker Unified Studio now supports Terraform for provisioning](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/) | AWS What's New · Jul 2 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Eight bytes walk into a bar. The bartender asks, "Can I get you anything?" "Yeah," reply the bytes. "Make us a double." 🤖
+⚡ AI Joke of the Day: 🤖 I have a joke about Stack Overflow, but you would say it's a duplicate. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Make bread from scratch | cooking | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Start a book you've never gotten around to reading | relaxation | solo | low cost 🤖
 
 ---
 
