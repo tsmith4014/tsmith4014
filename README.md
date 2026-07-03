@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [llm-coding-agent 0.1a0](https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything) | Simon Willison · Jul 2 |
+| AI practice | [June 2026 newsletter](https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything) | Simon Willison · Jul 3 |
 | AI research | [PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations](https://arxiv.org/abs/2607.01306) | arXiv cs.AI · Jul 3 |
-| Systems | [CalyxOS is back](https://lwn.net/Articles/1081038/) | LWN.net · Jul 2 |
-| Architecture | [Google Releases A2UI v0.9: Portable, Framework-Agnostic Generative UI](https://www.infoq.com/news/2026/07/google-a2ui-genui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 3 |
+| Systems | [Four vulnerabilities in Guix](https://lwn.net/Articles/1081199/) | LWN.net · Jul 3 |
+| Architecture | [Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries](https://www.infoq.com/news/2026/07/cloudflare-unified-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 3 |
 | Edge & cloud | [Amazon SageMaker Unified Studio now supports Terraform for provisioning](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/) | AWS What's New · Jul 2 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 I have a joke about Stack Overflow, but you would say it's a duplicate. 🤖
+⚡ AI Joke of the Day: 🤖 Your momma is so fat, you need to switch to NTFS to store a picture of her. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Start a book you've never gotten around to reading | relaxation | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Bake pastries for you and your neighbor | cooking | solo | paid 🤖
 
 ---
 
