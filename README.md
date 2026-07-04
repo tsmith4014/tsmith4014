@@ -19,8 +19,8 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [Open Source AI Gap Map](https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything) | Simon Willison · Jul 3 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [Four vulnerabilities in Guix](https://lwn.net/Articles/1081199/) | LWN.net · Jul 3 |
-| Architecture | [Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries](https://www.infoq.com/news/2026/07/cloudflare-unified-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 3 |
+| Systems | [Seven stable kernels for Saturday including two security fixes](https://lwn.net/Articles/1081230/) | LWN.net · Jul 4 |
+| Architecture | [Cycle Introduces EU Control Plane as Sovereignty Debate Continues](https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 4 |
 | Edge & cloud | [Amazon SageMaker Unified Studio now supports Terraform for provisioning](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/) | AWS What's New · Jul 2 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. 🤖
+⚡ AI Joke of the Day: 🤖 What do you get if you lock a monkey in a room with a typewriter for 8 hours? A regular expression. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Go on a fishing trip with some friends | social | small group | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Make a to-do list for your week | busywork | solo | free 🤖
 
 ---
 
