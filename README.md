@@ -20,7 +20,7 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 | AI practice | [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything) | Simon Willison · Jul 5 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Seven stable kernels for Saturday including two security fixes](https://lwn.net/Articles/1081230/) | LWN.net · Jul 4 |
-| Architecture | [Cycle Introduces EU Control Plane as Sovereignty Debate Continues](https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 4 |
+| Architecture | [AWS Introduces Amazon S3 Annotations](https://www.infoq.com/news/2026/07/aws-s3-annotations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 5 |
 | Edge & cloud | [Amazon SageMaker Unified Studio now supports Terraform for provisioning](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/) | AWS What's New · Jul 2 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What is a dying programmer's last program? Goodbye, world! 🤖
+⚡ AI Joke of the Day: 🤖 Eight bytes walk into a bar. The bartender asks, "Can I get you anything?" "Yeah," reply the bytes. "Make us a double." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn how to beatbox | recreational | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Improve your touch typing | busywork | solo | free 🤖
 
 ---
 
