@@ -17,7 +17,7 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Open Source AI Gap Map](https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything) | Simon Willison · Jul 3 |
+| AI practice | [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything) | Simon Willison · Jul 5 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Seven stable kernels for Saturday including two security fixes](https://lwn.net/Articles/1081230/) | LWN.net · Jul 4 |
 | Architecture | [Cycle Introduces EU Control Plane as Sovereignty Debate Continues](https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 4 |
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What do you get if you lock a monkey in a room with a typewriter for 8 hours? A regular expression. 🤖
+⚡ AI Joke of the Day: 🤖 What is a dying programmer's last program? Goodbye, world! 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Make a to-do list for your week | busywork | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn how to beatbox | recreational | solo | free 🤖
 
 ---
 
