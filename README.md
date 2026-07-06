@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [sqlite-utils 4.0rc3](https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything) | Simon Willison · Jul 6 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [Kernel prepatch 7.2-rc2](https://lwn.net/Articles/1081367/) | LWN.net · Jul 6 |
-| Architecture | [AI Model Context Protocol Adds Centralised Auth for Enterprise](https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 6 |
-| Edge & cloud | [Amazon SageMaker Unified Studio now supports Terraform for provisioning](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/) | AWS What's New · Jul 2 |
+| Systems | [OpenSSH 10.4 released](https://lwn.net/Articles/1081536/) | LWN.net · Jul 6 |
+| Architecture | [Netflix Cuts Cassandra Read Latency from Seconds to Milliseconds with Dynamic Partition Splitting](https://www.infoq.com/news/2026/07/netflix-cassandra-partition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 6 |
+| Edge & cloud | [AWS Certificate Manager now supports the ACME protocol for public certificates](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme/) | AWS What's New · Jul 6 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What is the best prefix for global variables? // 🤖
+⚡ AI Joke of the Day: 🤖 A SQL statement walks into a bar and sees two tables. It approaches, and asks "may I join you?" 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Mow your neighbor's lawn | charity | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Organize your basement | busywork | solo | free 🤖
 
 ---
 
