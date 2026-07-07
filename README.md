@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [tencent/Hy3](https://simonwillison.net/2026/Jul/6/hy3/#atom-everything) | Simon Willison · Jul 6 |
 | AI research | [iFLYTEK-Embodied-Omni Technical Report](https://arxiv.org/abs/2607.02542) | arXiv cs.AI · Jul 7 |
-| Systems | [OpenSSH 10.4 released](https://lwn.net/Articles/1081536/) | LWN.net · Jul 6 |
-| Architecture | [Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery](https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 7 |
-| Edge & cloud | [Amazon SageMaker HyperPod now supports disaggregated prefill and decode](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/) | AWS What's New · Jul 6 |
+| Systems | [Woodruff: You shouldn't trust trusted publishing](https://lwn.net/Articles/1081690/) | LWN.net · Jul 7 |
+| Architecture | [Viability of local models for coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html) | Martin Fowler · Jul 7 |
+| Edge & cloud | [Cloudflare proudly joins the UK government's Cyber Resilience Pledge](https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/) | Cloudflare Blog · Jul 7 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 So what's a set of predefined steps the government might take to preserve the environment? An Al-Gore-ithm. 🤖
+⚡ AI Joke of the Day: 🤖 Hey Girl, Roses are #ff0000, Violets are #0000ff, I use hex codes, But I'd use RGB for you. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Plant a tree | recreational | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Give your pet ten minutes of focused attention | relaxation | solo | free 🤖
 
 ---
 
