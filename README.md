@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything) | Simon Willison · Jul 7 |
 | AI research | [Prompt-to-Paper: Agentic AI System for Bioinformatics](https://arxiv.org/abs/2607.05456) | arXiv cs.AI · Jul 8 |
-| Systems | [Woodruff: You shouldn't trust trusted publishing](https://lwn.net/Articles/1081690/) | LWN.net · Jul 7 |
-| Architecture | [Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability](https://www.infoq.com/news/2026/07/momentic-postgres-clickhouse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 7 |
-| Edge & cloud | [Amazon GameLift Streams introduces secure terminal access for stream sessions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access/) | AWS What's New · Jul 7 |
+| Systems | [\[$\] Progress in modernizing kernel cryptography](https://lwn.net/Articles/1077427/) | LWN.net · Jul 8 |
+| Architecture | [Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services](https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 8 |
+| Edge & cloud | [Introducing Meerkat: an experiment in global consensus](https://blog.cloudflare.com/meerkat-introduction/) | Cloudflare Blog · Jul 8 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Hey Girl, Roses are #ff0000, Violets are #0000ff, I use hex codes, But I'd use RGB for you. 🤖
+⚡ AI Joke of the Day: 🤖 There are only 10 kinds of people in this world: those who know binary and those who don't. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Go on a long drive with no music | relaxation | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Find a charity and donate to it | charity | solo | paid 🤖
 
 ---
 
