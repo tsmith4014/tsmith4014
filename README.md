@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything) | Simon Willison · Jul 7 |
-| AI research | [Prompt-to-Paper: Agentic AI System for Bioinformatics](https://arxiv.org/abs/2607.05456) | arXiv cs.AI · Jul 8 |
-| Systems | [\[$\] Progress in modernizing kernel cryptography](https://lwn.net/Articles/1077427/) | LWN.net · Jul 8 |
-| Architecture | [Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services](https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 8 |
-| Edge & cloud | [Introducing Meerkat: an experiment in global consensus](https://blog.cloudflare.com/meerkat-introduction/) | Cloudflare Blog · Jul 8 |
+| AI practice | [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) | Simon Willison · Jul 8 |
+| AI research | [AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation](https://arxiv.org/abs/2607.06624) | arXiv cs.AI · Jul 9 |
+| Systems | [\[$\] LWN.net Weekly Edition for July 9, 2026](https://lwn.net/Articles/1080835/) | LWN.net · Jul 9 |
+| Architecture | [AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference Inside the Database](https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 9 |
+| Edge & cloud | [AWS Builder Center Now Offers Free Sandbox Environments](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/) | AWS What's New · Jul 8 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 There are only 10 kinds of people in this world: those who know binary and those who don't. 🤖
+⚡ AI Joke of the Day: 🤖 Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Find a charity and donate to it | charity | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Fill out a basketball bracket | recreational | solo | free 🤖
 
 ---
 
