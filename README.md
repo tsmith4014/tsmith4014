@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) | Simon Willison · Jul 8 |
+| AI practice | [Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) | Simon Willison · Jul 9 |
 | AI research | [AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation](https://arxiv.org/abs/2607.06624) | arXiv cs.AI · Jul 9 |
-| Systems | [\[$\] LWN.net Weekly Edition for July 9, 2026](https://lwn.net/Articles/1080835/) | LWN.net · Jul 9 |
-| Architecture | [AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference Inside the Database](https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 9 |
-| Edge & cloud | [AWS Builder Center Now Offers Free Sandbox Environments](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/) | AWS What's New · Jul 8 |
+| Systems | [\[$\] Kitty chases the mouse](https://lwn.net/Articles/1080821/) | LWN.net · Jul 9 |
+| Architecture | [Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online](https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 9 |
+| Edge & cloud | [AWS Client VPN extends availability to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions/) | AWS What's New · Jul 9 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. 🤖
+⚡ AI Joke of the Day: 🤖 Why do programmers wear glasses? Because they need to C# 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Fill out a basketball bracket | recreational | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn how to french braid hair | education | solo | free 🤖
 
 ---
 
