@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) | Simon Willison · Jul 9 |
-| AI research | [AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation](https://arxiv.org/abs/2607.06624) | arXiv cs.AI · Jul 9 |
+| AI practice | [Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) | Simon Willison · Jul 10 |
+| AI research | [AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation](https://arxiv.org/abs/2607.06624) | arXiv cs.AI · Jul 10 |
 | Systems | [\[$\] Kitty chases the mouse](https://lwn.net/Articles/1080821/) | LWN.net · Jul 9 |
-| Architecture | [Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online](https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 9 |
-| Edge & cloud | [AWS Client VPN extends availability to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions/) | AWS What's New · Jul 9 |
+| Architecture | [How Datadog Used Claude and Cursor for Test-Driven Production Migration](https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 10 |
+| Edge & cloud | [OAuth support for the AWS MCP Server](https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/) | AWS What's New · Jul 9 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why do programmers wear glasses? Because they need to C# 🤖
+⚡ AI Joke of the Day: 🤖 How can you tell an extroverted programmer? He looks at YOUR shoes when he's talking. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn how to french braid hair | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Play a volleyball match with some friends | social | small group | free 🤖
 
 ---
 
