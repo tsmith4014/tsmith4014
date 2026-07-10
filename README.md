@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) | Simon Willison · Jul 10 |
+| AI practice | [Quoting Nilay Patel](https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything) | Simon Willison · Jul 10 |
 | AI research | [AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation](https://arxiv.org/abs/2607.06624) | arXiv cs.AI · Jul 10 |
-| Systems | [\[$\] Kitty chases the mouse](https://lwn.net/Articles/1080821/) | LWN.net · Jul 9 |
-| Architecture | [How Datadog Used Claude and Cursor for Test-Driven Production Migration](https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 10 |
-| Edge & cloud | [OAuth support for the AWS MCP Server](https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/) | AWS What's New · Jul 9 |
+| Systems | [\[$\] An update on the scraper situation](https://lwn.net/Articles/1080822/) | LWN.net · Jul 10 |
+| Architecture | [Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment](https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 10 |
+| Edge & cloud | [Amazon Location Service enhances Places APIs with new address and search options](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-enhanced-address-search) | AWS What's New · Jul 10 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 How can you tell an extroverted programmer? He looks at YOUR shoes when he's talking. 🤖
+⚡ AI Joke of the Day: 🤖 The six stages of debugging: 1. That can't happen. 2. That doesn't happen on my machine. 3. That shouldn't happen. 4. Why does that happen? 5. Oh, I see. 6. How did that ever work? 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Play a volleyball match with some friends | social | small group | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Visit your past teachers | social | solo | free 🤖
 
 ---
 
