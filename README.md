@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Nilay Patel](https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything) | Simon Willison · Jul 10 |
-| AI research | [Context Graphs for Proactive Enterprise Agents](https://arxiv.org/abs/2607.07721) | arXiv cs.AI · Jul 11 |
+| AI practice | [sqlite-utils 4.1](https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything) | Simon Willison · Jul 11 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] An update on the scraper situation](https://lwn.net/Articles/1080822/) | LWN.net · Jul 10 |
-| Architecture | [Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment](https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 10 |
+| Architecture | [Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation](https://www.infoq.com/news/2026/07/cloudflare-hyper-bug-fix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 12 |
 | Edge & cloud | [Amazon EC2 network/EBS instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb) | AWS What's New · Jul 10 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 How do you generate a random string? Put a Windows user in front of Vim and tell them to exit. 🤖
+⚡ AI Joke of the Day: 🤖 .NET developers are picky when it comes to food. They only like chicken NuGet. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Watch a movie you'd never usually watch | relaxation | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Go to a local thrift shop | recreational | solo | low cost 🤖
 
 ---
 
