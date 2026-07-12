@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 .NET developers are picky when it comes to food. They only like chicken NuGet. 🤖
+⚡ AI Joke of the Day: 🤖 Why are Assembly programmers always soaking wet? They work below C-level. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Go to a local thrift shop | recreational | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Take a class at your local community center that interests you | education | solo | free 🤖
 
 ---
 
