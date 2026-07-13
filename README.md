@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [Directly Responsible Individuals (DRI)](https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything) | Simon Willison · Jul 12 |
 | AI research | [Interval Certifications for Multilayered Perceptrons via Lattice Traversal](https://arxiv.org/abs/2607.08773) | arXiv cs.AI · Jul 13 |
-| Systems | [Kernel prepatch 7.2-rc3](https://lwn.net/Articles/1082487/) | LWN.net · Jul 12 |
-| Architecture | [How to Build More Resilient Local-First Applications With AT Protocol Infrastructure](https://www.infoq.com/news/2026/07/atproto-webapp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 13 |
-| Edge & cloud | [Amazon EC2 network/EBS instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb) | AWS What's New · Jul 10 |
+| Systems | [\[$\] Shielding running kernels against exploits with BPF](https://lwn.net/Articles/1081546/) | LWN.net · Jul 13 |
+| Architecture | [Fragments: July 13](https://martinfowler.com/fragments/2026-07-13.html) | Martin Fowler · Jul 13 |
+| Edge & cloud | [Gemma-4-E2B-it for is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-e2b-on-sagemaker-jumpstart/) | AWS What's New · Jul 13 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Your mama's so FAT she can't save files bigger than 4GB. 🤖
+⚡ AI Joke of the Day: 🤖 Why do programmers confuse Halloween and Christmas? Because Oct 31 = Dec 25 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Meditate for five minutes | relaxation | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Wash your car | busywork | solo | low cost 🤖
 
 ---
 
