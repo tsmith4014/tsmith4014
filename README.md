@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [sqlite-utils 4.1](https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything) | Simon Willison · Jul 11 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] An update on the scraper situation](https://lwn.net/Articles/1080822/) | LWN.net · Jul 10 |
-| Architecture | [Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation](https://www.infoq.com/news/2026/07/cloudflare-hyper-bug-fix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 12 |
+| AI practice | [Directly Responsible Individuals (DRI)](https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything) | Simon Willison · Jul 12 |
+| AI research | [Interval Certifications for Multilayered Perceptrons via Lattice Traversal](https://arxiv.org/abs/2607.08773) | arXiv cs.AI · Jul 13 |
+| Systems | [Kernel prepatch 7.2-rc3](https://lwn.net/Articles/1082487/) | LWN.net · Jul 12 |
+| Architecture | [How to Build More Resilient Local-First Applications With AT Protocol Infrastructure](https://www.infoq.com/news/2026/07/atproto-webapp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 13 |
 | Edge & cloud | [Amazon EC2 network/EBS instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb) | AWS What's New · Jul 10 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why are Assembly programmers always soaking wet? They work below C-level. 🤖
+⚡ AI Joke of the Day: 🤖 Your mama's so FAT she can't save files bigger than 4GB. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Take a class at your local community center that interests you | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Meditate for five minutes | relaxation | solo | free 🤖
 
 ---
 
