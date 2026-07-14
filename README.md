@@ -19,9 +19,9 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [Using uvx in GitHub Actions in a cache-friendly way](https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything) | Simon Willison · Jul 14 |
 | AI research | [From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation](https://arxiv.org/abs/2607.09664) | arXiv cs.AI · Jul 14 |
-| Systems | [\[$\] Shielding running kernels against exploits with BPF](https://lwn.net/Articles/1081546/) | LWN.net · Jul 13 |
-| Architecture | [Fragments: July 13](https://martinfowler.com/fragments/2026-07-13.html) | Martin Fowler · Jul 13 |
-| Edge & cloud | [OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra/) | AWS What's New · Jul 13 |
+| Systems | [The Linux.org story](https://lwn.net/Articles/1082901/) | LWN.net · Jul 14 |
+| Architecture | [Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents](https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 14 |
+| Edge & cloud | [A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed](https://blog.cloudflare.com/dnssec-nta-ede-33/) | Cloudflare Blog · Jul 14 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 There are only 10 kinds of people in this world: those who know binary and those who don't. 🤖
+⚡ AI Joke of the Day: 🤖 Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Cook something together with someone | cooking | two-person | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn the periodic table | education | solo | free 🤖
 
 ---
 
