@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Directly Responsible Individuals (DRI)](https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything) | Simon Willison · Jul 12 |
-| AI research | [Interval Certifications for Multilayered Perceptrons via Lattice Traversal](https://arxiv.org/abs/2607.08773) | arXiv cs.AI · Jul 13 |
+| AI practice | [Using uvx in GitHub Actions in a cache-friendly way](https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything) | Simon Willison · Jul 14 |
+| AI research | [From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation](https://arxiv.org/abs/2607.09664) | arXiv cs.AI · Jul 14 |
 | Systems | [\[$\] Shielding running kernels against exploits with BPF](https://lwn.net/Articles/1081546/) | LWN.net · Jul 13 |
 | Architecture | [Fragments: July 13](https://martinfowler.com/fragments/2026-07-13.html) | Martin Fowler · Jul 13 |
-| Edge & cloud | [Gemma-4-E2B-it for is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-e2b-on-sagemaker-jumpstart/) | AWS What's New · Jul 13 |
+| Edge & cloud | [OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra/) | AWS What's New · Jul 13 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why do programmers confuse Halloween and Christmas? Because Oct 31 = Dec 25 🤖
+⚡ AI Joke of the Day: 🤖 There are only 10 kinds of people in this world: those who know binary and those who don't. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Wash your car | busywork | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Cook something together with someone | cooking | two-person | paid 🤖
 
 ---
 
