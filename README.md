@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting GitHub Changelog](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything) | Simon Willison · Jul 14 |
+| AI practice | [How I tricked Claude into leaking your deepest, darkest secrets](https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything) | Simon Willison · Jul 15 |
 | AI research | [OmniPMNet: Bridging discrete and gridded PM10 forecasts via omni-query neural processes](https://arxiv.org/abs/2607.11896) | arXiv cs.LG · Jul 15 |
-| Systems | [The Linux.org story](https://lwn.net/Articles/1082901/) | LWN.net · Jul 14 |
-| Architecture | [Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks](https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 14 |
-| Edge & cloud | [AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/) | AWS What's New · Jul 14 |
+| Systems | [\[$\] Topics in filesystem testing](https://lwn.net/Articles/1082342/) | LWN.net · Jul 15 |
+| Architecture | [Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation](https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 15 |
+| Edge & cloud | [Amazon RDS now supports up to four storage modifications in 24 hours](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-upto-four-storage-modifications-24-hours) | AWS What's New · Jul 15 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. 🤖
+⚡ AI Joke of the Day: 🤖 Your momma is so fat, you need to switch to NTFS to store a picture of her. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn Morse code | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn Javascript | education | solo | free 🤖
 
 ---
 
