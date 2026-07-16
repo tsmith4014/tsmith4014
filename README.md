@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything) | Simon Willison · Jul 16 |
+| AI practice | [Quoting Thibault Sottiaux](https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything) | Simon Willison · Jul 16 |
 | AI research | [OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets](https://arxiv.org/abs/2607.13037) | arXiv cs.AI · Jul 16 |
-| Systems | [\[$\] LWN.net Weekly Edition for July 16, 2026](https://lwn.net/Articles/1081915/) | LWN.net · Jul 16 |
-| Architecture | [Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation](https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 15 |
-| Edge & cloud | [Amazon CloudWatch Logs announces intelligent tiering for storage](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/) | AWS What's New · Jul 15 |
+| Systems | [\[$\] Sched-ext: enqueue() for sub-schedulers and proxy-execution support](https://lwn.net/Articles/1082717/) | LWN.net · Jul 16 |
+| Architecture | [The Archaeologist’s Copilot](https://martinfowler.com/articles/archaeologist-copilot.html) | Martin Fowler · Jul 16 |
+| Edge & cloud | [Amazon CloudWatch Logs Insights adds 25 new query commands and functions](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-cloudwatch-logs-insights-ql/) | AWS What's New · Jul 15 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 What is the most used language in programming? Profanity. 🤖
+⚡ AI Joke of the Day: 🤖 Why did the programmer quit his job? Because he didn't get arrays. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn calligraphy | education | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Make homemade ice cream | cooking | solo | paid 🤖
 
 ---
 
