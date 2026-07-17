@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Spot birds not golf](https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything) | Simon Willison · Jul 17 |
+| AI practice | [Quoting Kimi K3](https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything) | Simon Willison · Jul 17 |
 | AI research | [OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets](https://arxiv.org/abs/2607.13037) | arXiv cs.AI · Jul 17 |
-| Systems | [\[$\] Sched-ext: enqueue() for sub-schedulers and proxy-execution support](https://lwn.net/Articles/1082717/) | LWN.net · Jul 16 |
-| Architecture | [AWS Continuum to Enable Agentic Code Security for Enterprises](https://www.infoq.com/news/2026/07/aws-continuum-code-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 16 |
+| Systems | [Building an Arch Linux aarch64 port for Holo Core (Collabora blog)](https://lwn.net/Articles/1083392/) | LWN.net · Jul 17 |
+| Architecture | [Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry](https://www.infoq.com/presentations/otel-slm-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 17 |
 | Edge & cloud | [Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/) | AWS What's New · Jul 16 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Two C strings walk into a bar. The bartender asks "What can I get ya?" The first string says "I'll have a gin and tonic." The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@" The first string apologizes, "You'll have to excuse my friend, he's not null-terminated." 🤖
+⚡ AI Joke of the Day: 🤖 Hey Girl, Roses are #ff0000, Violets are #0000ff, I use hex codes, But I'd use RGB for you. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Learn GraphQL | education | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Go to a nail salon | relaxation | solo | paid 🤖
 
 ---
 
