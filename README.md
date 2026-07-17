@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Thibault Sottiaux](https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything) | Simon Willison · Jul 16 |
-| AI research | [OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets](https://arxiv.org/abs/2607.13037) | arXiv cs.AI · Jul 16 |
+| AI practice | [Spot birds not golf](https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything) | Simon Willison · Jul 17 |
+| AI research | [OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets](https://arxiv.org/abs/2607.13037) | arXiv cs.AI · Jul 17 |
 | Systems | [\[$\] Sched-ext: enqueue() for sub-schedulers and proxy-execution support](https://lwn.net/Articles/1082717/) | LWN.net · Jul 16 |
-| Architecture | [The Archaeologist’s Copilot](https://martinfowler.com/articles/archaeologist-copilot.html) | Martin Fowler · Jul 16 |
-| Edge & cloud | [Amazon CloudWatch Logs Insights adds 25 new query commands and functions](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-cloudwatch-logs-insights-ql/) | AWS What's New · Jul 15 |
+| Architecture | [AWS Continuum to Enable Agentic Code Security for Enterprises](https://www.infoq.com/news/2026/07/aws-continuum-code-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 16 |
+| Edge & cloud | [Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/) | AWS What's New · Jul 16 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the programmer quit his job? Because he didn't get arrays. 🤖
+⚡ AI Joke of the Day: 🤖 Two C strings walk into a bar. The bartender asks "What can I get ya?" The first string says "I'll have a gin and tonic." The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@" The first string apologizes, "You'll have to excuse my friend, he's not null-terminated." 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Make homemade ice cream | cooking | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Learn GraphQL | education | solo | free 🤖
 
 ---
 
