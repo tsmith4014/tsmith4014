@@ -19,8 +19,8 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 |---|---|---|
 | AI practice | [Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything) | Simon Willison · Jul 18 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [Building an Arch Linux aarch64 port for Holo Core (Collabora blog)](https://lwn.net/Articles/1083392/) | LWN.net · Jul 17 |
-| Architecture | [Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry](https://www.infoq.com/presentations/otel-slm-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 17 |
+| Systems | ["Half a Second" — a book on the XZ backdoor](https://lwn.net/Articles/1083466/) | LWN.net · Jul 18 |
+| Architecture | [Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents](https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 18 |
 | Edge & cloud | [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities](https://blog.cloudflare.com/wordpress-vulnerabilities/) | Cloudflare Blog · Jul 17 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Why did the programmer quit his job? Because he didn't get arrays. 🤖
+⚡ AI Joke of the Day: 🤖 Debugging: Removing the needles from the haystack. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Take a bubble bath | relaxation | solo | low cost 🤖
+⚡ AI Suggestion of the Day: 🤖 Start a family tree | social | solo | free 🤖
 
 ---
 
