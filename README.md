@@ -17,11 +17,11 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Kimi K3](https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything) | Simon Willison · Jul 17 |
-| AI research | [OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets](https://arxiv.org/abs/2607.13037) | arXiv cs.AI · Jul 17 |
+| AI practice | [Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything) | Simon Willison · Jul 18 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Building an Arch Linux aarch64 port for Holo Core (Collabora blog)](https://lwn.net/Articles/1083392/) | LWN.net · Jul 17 |
 | Architecture | [Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry](https://www.infoq.com/presentations/otel-slm-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 17 |
-| Edge & cloud | [Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/) | AWS What's New · Jul 16 |
+| Edge & cloud | [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities](https://blog.cloudflare.com/wordpress-vulnerabilities/) | Cloudflare Blog · Jul 17 |
 <!-- SIGNALS:END -->
 
 Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Hey Girl, Roses are #ff0000, Violets are #0000ff, I use hex codes, But I'd use RGB for you. 🤖
+⚡ AI Joke of the Day: 🤖 Why did the programmer quit his job? Because he didn't get arrays. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Go to a nail salon | relaxation | solo | paid 🤖
+⚡ AI Suggestion of the Day: 🤖 Take a bubble bath | relaxation | solo | low cost 🤖
 
 ---
 
