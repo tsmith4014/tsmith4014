@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tsmith4014.github.io/cathys-memory-arcade/">
-    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-floor.jpg" width="100%" alt="Enter Cathy's Memory Arcade, a 1986-meets-AI memorial with three original playable games" />
+    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-floor.jpg?v=6" width="100%" alt="Enter Cathy's Memory Arcade, a 1986-meets-AI memorial with six original playable games" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
   <a href="mailto:chjthomps@gmail.com">Email</a>
 </p>
 
-> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy, with three original games, our real photo-booth portraits, and room for the memories still returning.
+> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy, with six original games, a browser-synthesized jukebox, our real photo-booth portraits, and room for the memories still returning.
 
 <table>
   <tr>
@@ -34,8 +34,28 @@
       <p>A hard three-room action dungeon with distinct enemies, circuit keys, a dash, and the Warden.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-core">04 // MEMORY CORE</a></h3>
-      <p>Our real photo-booth portraits, her life file, and the Fillmore Street memory behind the two tokens.</p>
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/?game=highrise-havoc#lobby">04 // HIGHRISE HAVOC</a></h3>
+      <p>A facade-climbing destruction game with 54 windows, collapsing towers, attack craft, and rooftop defenses.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/?game=sunset-run#lobby">05 // SUNSET RUN</a></h3>
+      <p>A long-form platform adventure with breakable crates, hidden routes, moving lifts, and two keepsake tokens.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/?game=dragonfire-descent#lobby">06 // DRAGONFIRE DESCENT</a></h3>
+      <p>A fog-of-war castle raid: steal the hoard from its deepest chamber and find the route home before sunset.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#jukebox">07 // JUKEBOX J-86</a></h3>
+      <p>Three live browser arrangements, ambient arcade sound, and game effects synthesized with the Web Audio API.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-core">08 // MEMORY CORE</a></h3>
+      <p>Our real photo-booth portraits, her life file, and the documented path from a $2.50 prototype to $5 all-you-can-play.</p>
     </td>
   </tr>
 </table>
