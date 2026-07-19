@@ -15,7 +15,7 @@
   <a href="mailto:chjthomps@gmail.com">Email</a>
 </p>
 
-> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy, with three original games you can play now and room for the memories still returning.
+> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy, with three original games, our real photo-booth portraits, and room for the memories still returning.
 
 <table>
   <tr>
@@ -35,7 +35,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-core">04 // MEMORY CORE</a></h3>
-      <p>The Fillmore Street arcade, two admissions, and the hardworking woman who made the memory possible.</p>
+      <p>Our real photo-booth portraits, her life file, and the Fillmore Street memory behind the two tokens.</p>
     </td>
   </tr>
 </table>
