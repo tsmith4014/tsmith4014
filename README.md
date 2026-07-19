@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tsmith4014.github.io/cathys-memory-arcade/">
-    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-preview.jpg" width="100%" alt="Enter Cathy's Memory Arcade, a 1986-meets-AI memorial and interactive project gallery" />
+    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-preview.jpg" width="100%" alt="Enter Cathy's Memory Arcade, a 1986-meets-AI memorial with three original playable games" />
   </a>
 </p>
 
@@ -15,27 +15,27 @@
   <a href="mailto:chjthomps@gmail.com">Email</a>
 </p>
 
-> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy, and a place for the work and ideas still earning their next continue.
+> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy, with three original games you can play now and room for the memories still returning.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-core">01 // MEMORY CORE</a></h3>
-      <p>Two admissions at the Fillmore Street arcade, one enduring photo-booth strip, and the hardworking woman behind the memory.</p>
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/?game=skyline-smash#lobby">01 // SKYLINE SMASH</a></h3>
+      <p>A neon Colorado destruction brawler: clear five towers while defense drones attack. Keyboard and touch.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#project-arcade">02 // PROJECT ARCADE</a></h3>
-      <p>Mobile, cloud, infrastructure, data, and AI systems built for the world beyond the demo.</p>
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/?game=token-trail#lobby">02 // TOKEN TRAIL</a></h3>
+      <p>A three-zone mountain platform run with patrols, checkpoints, dashes, and twenty-four tokens.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#signal-machine">03 // SIGNAL MACHINE</a></h3>
-      <p>A daily reel of high-signal engineering and AI work from a deliberately small source pool.</p>
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/?game=dungeon-circuit#lobby">03 // DUNGEON CIRCUIT</a></h3>
+      <p>A hard three-room action dungeon with distinct enemies, circuit keys, a dash, and the Warden.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#origin-terminal">04 // ORIGIN TERMINAL</a></h3>
-      <p>Code Platoon, week-one GPT, and the path from early API experiments to applied AI engineering.</p>
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-core">04 // MEMORY CORE</a></h3>
+      <p>The Fillmore Street arcade, two admissions, and the hardworking woman who made the memory possible.</p>
     </td>
   </tr>
 </table>
