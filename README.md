@@ -17,10 +17,10 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything) | Simon Willison · Jul 18 |
+| AI practice | [AI Mania Is Eviscerating Global Decision-Making](https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything) | Simon Willison · Jul 19 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | ["Half a Second" — a book on the XZ backdoor](https://lwn.net/Articles/1083466/) | LWN.net · Jul 18 |
-| Architecture | [Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents](https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 18 |
+| Architecture | [AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments](https://www.infoq.com/news/2026/07/cloudformation-express-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 19 |
 | Edge & cloud | [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities](https://blog.cloudflare.com/wordpress-vulnerabilities/) | Cloudflare Blog · Jul 17 |
 <!-- SIGNALS:END -->
 
@@ -71,11 +71,11 @@ Track pools currently include: [Simon Willison](https://simonwillison.net/) and 
 
 ---
 
-⚡ AI Joke of the Day: 🤖 Debugging: Removing the needles from the haystack. 🤖
+⚡ AI Joke of the Day: 🤖 Have a great weekend! I hope your code behaves the same on Monday as it did on Friday. 🤖
 
 ---
 
-⚡ AI Suggestion of the Day: 🤖 Start a family tree | social | solo | free 🤖
+⚡ AI Suggestion of the Day: 🤖 Take a bubble bath | relaxation | solo | low cost 🤖
 
 ---
 
