@@ -1,18 +1,65 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/profile-hero.svg" width="100%" alt="Chad Thompson-Smith profile banner" />
+  <a href="https://tsmith4014.github.io/cathys-memory-arcade/">
+    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-preview.jpg" width="100%" alt="Enter Cathy's Memory Arcade, a 1986-meets-AI memorial and interactive project gallery" />
+  </a>
 </p>
 
 <h1 align="center">Chad Thompson-Smith</h1>
-<p align="center">Systems engineering, freelance software development, AI automation, and applied statistics.</p>
-<p align="center">Proprietary trading firm · Freelance software developer · Chicago &amp; Erie · <a href="https://www.linkedin.com/in/chad-thompson-smith/">LinkedIn</a> · <a href="mailto:chjthomps@gmail.com">Email</a></p>
+<p align="center"><strong>Systems engineer · Freelance software developer · Applied AI builder</strong></p>
+<p align="center">Production systems · AI engineering · Cloud automation · React Native · Chicago + Erie</p>
+<p align="center">
+  <a href="https://tsmith4014.github.io/cathys-memory-arcade/"><strong>ENTER THE ARCADE</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/chad-thompson-smith/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:chjthomps@gmail.com">Email</a>
+</p>
 
-> I like infrastructure that stays boring in production, automation that removes friction, and AI systems that hold up under real-world constraints.
+> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy, and a place for the work and ideas still earning their next continue.
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-core">01 // MEMORY CORE</a></h3>
+      <p>Two admissions at the Fillmore Street arcade, one enduring photo-booth strip, and the hardworking woman behind the memory.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#project-arcade">02 // PROJECT ARCADE</a></h3>
+      <p>Mobile, cloud, infrastructure, data, and AI systems built for the world beyond the demo.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#signal-machine">03 // SIGNAL MACHINE</a></h3>
+      <p>A daily reel of high-signal engineering and AI work from a deliberately small source pool.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#origin-terminal">04 // ORIGIN TERMINAL</a></h3>
+      <p>Code Platoon, week-one GPT, and the path from early API experiments to applied AI engineering.</p>
+    </td>
+  </tr>
+</table>
 
-## Live Signal Board
+## Now Playing
 
-This profile updates itself twice a day through GitHub Actions [![Update README](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml/badge.svg)](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml). The pipeline keeps one high-signal item per track and chooses the freshest post from a short list of trusted technical feeds.
+| System | Current build | Mode |
+|---|---|---|
+| **Production engineering** | Reliability, observability, and controlled change in a low-latency trading environment | Operating |
+| **Enterprise AI enablement** | Claude + Slack + Jira + Confluence workflows and Git-backed configuration intelligence | Building |
+| **Freelance software** | Practical product, automation, cloud, and data work for organizations that need outcomes | Available |
+| **Expense capture mobile** | React Native iOS/Android app, signed PDF packages, AWS Lambda, and S3 | Field testing |
+
+### Selected Cabinets
+
+- **Configuration intelligence:** trade-server scans committed to Git so AI can expose drift, misalignment, and operational inconsistencies.
+- **Expense capture:** mobile receipt capture through signed submission packages with a serverless AWS backend.
+- **Regulatory Q&A:** turned a 225-page source into 800+ structured lookups in about 15 minutes for less than $4.
+- **Housing data:** automated ingest, SQL storage, geocoding, and API exposure for 20k+ residential sales.
+- **Interactive infrastructure:** [AWS network diagram](https://tsmith4014.github.io/twoge_aws_deployment/) and [EC2 / DB / S3 layout](https://tsmith4014.github.io/assessment_2/).
+
+## Signal Machine
+
+This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmith4014/tsmith4014/actions/workflows/update_readme.yml). Each track selects the freshest item from a small pool of respected technical sources.
 
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
@@ -20,90 +67,21 @@ This profile updates itself twice a day through GitHub Actions [![Update README]
 | AI practice | [AI Mania Is Eviscerating Global Decision-Making](https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything) | Simon Willison · Jul 19 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | ["Half a Second" — a book on the XZ backdoor](https://lwn.net/Articles/1083466/) | LWN.net · Jul 18 |
-| Architecture | [AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments](https://www.infoq.com/news/2026/07/cloudformation-express-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 19 |
+| Architecture | [Google's AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service](https://www.infoq.com/news/2026/07/alphaevolve-generally-available/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 19 |
 | Edge & cloud | [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities](https://blog.cloudflare.com/wordpress-vulnerabilities/) | Cloudflare Blog · Jul 17 |
 <!-- SIGNALS:END -->
 
-Track pools currently include: [Simon Willison](https://simonwillison.net/) and [OpenAI Developers](https://developers.openai.com/) for applied AI, [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) and [arXiv cs.LG](https://arxiv.org/list/cs.LG/recent) for research, [LWN.net](https://lwn.net/) and [Brendan Gregg](https://www.brendangregg.com/blog/) for systems, [Martin Fowler](https://martinfowler.com/) and [InfoQ](https://www.infoq.com/) for architecture, plus [Cloudflare Blog](https://blog.cloudflare.com/) and [AWS What's New](https://aws.amazon.com/about-aws/whats-new/) for edge/cloud operations.
+<details>
+  <summary><strong>Signal source pools</strong></summary>
+  <br />
+  Applied AI: <a href="https://simonwillison.net/">Simon Willison</a> and <a href="https://developers.openai.com/">OpenAI Developers</a>.<br />
+  Research: <a href="https://arxiv.org/list/cs.AI/recent">arXiv cs.AI</a> and <a href="https://arxiv.org/list/cs.LG/recent">arXiv cs.LG</a>.<br />
+  Systems: <a href="https://lwn.net/">LWN.net</a> and <a href="https://www.brendangregg.com/blog/">Brendan Gregg</a>.<br />
+  Architecture: <a href="https://martinfowler.com/">Martin Fowler</a> and <a href="https://www.infoq.com/">InfoQ</a>.<br />
+  Edge/cloud: <a href="https://blog.cloudflare.com/">Cloudflare Blog</a> and <a href="https://aws.amazon.com/about-aws/whats-new/">AWS What's New</a>.
+</details>
 
----
-
-## Focus
-
-- Production systems, observability, and change discipline in a low-latency environment
-- Internal AI enablement for engineering teams, including shared assistant workflows and knowledge access
-- Freelance software development for practical business and automation problems
-- AI automation, LLM workflows, and cost-aware applied AI systems
-- Cloud and network automation across AWS and OCI with Terraform and Ansible
-- Data-backed tooling, applied statistics, and practical ML when a problem is worth modeling
-
-## Selected Work
-
-- **Internal AI engineering enablement:** working on Claude Slack integration with Jira and Confluence so senior engineers can authenticate with their own Claude accounts and operate in a shared workspace tied to tickets and company docs.
-- **Trading server config analysis:** scanning trade-server configurations into Git-backed version control so Claude can analyze drift, misalignment, and operational inconsistencies across environments.
-- **Expense capture mobile app:** shipped a React mobile app now being tested by a for-profit education company. It lets employees capture receipt images, assemble expense submissions, and generate a signed PDF package for handoff. Backend is serverless on AWS with Lambda functions and S3 storage.
-- **Interactive infrastructure demos:** [AWS network diagram](https://tsmith4014.github.io/twoge_aws_deployment/) and [EC2 / DB / S3 layout](https://tsmith4014.github.io/assessment_2/) built with SVG/canvas for explanation, not just decoration.
-- **Small-business web builds:** shipped responsive sites for [Curtis Smith's Gunsmithing](https://tsmith4014.github.io/curts_website/) and [Smith Automotive](https://tsmith4014.github.io/Smith-Automotive/).
-- **Applied AI systems:** built LLM-assisted extraction and Q&A workflows where latency, token cost, and noisy source material all matter.
-- **ABHES Q&A bot:** parsed a 225-page regulatory PDF into an 800+ item lookup with GPT-4 plus GPT-3.5 batching in about 15 minutes at sub-$4 cost, replacing a much slower expert-review loop.
-- **Erie County housing analysis:** automated Python ingest, SQL storage, geocoding, and API exposure for 20k+ residential sales records.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/about500.png" width="180" alt="Curtis Smith's Gunsmithing homepage preview" />
-  <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/kitty500.png" width="180" alt="Curtis Smith's Gunsmithing gallery preview" />
-  <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/wolf.png" width="180" alt="Curtis Smith's Gunsmithing artwork preview" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/F150.png" width="180" alt="Smith Automotive hero preview" />
-  <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/3panelsharp.png" width="180" alt="Smith Automotive services preview" />
-  <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/contact.png" width="180" alt="Smith Automotive contact preview" />
-</p>
-
----
-
-## Operating Style
-
-- Reliability over theatrics
-- Clear automation over manual ceremony
-- AI where it improves outcomes, not where it creates noise
-- Measurement before optimization
-- Practical delivery over resume-driven complexity
-
----
-
-⚡ AI Joke of the Day: 🤖 Have a great weekend! I hope your code behaves the same on Monday as it did on Friday. 🤖
-
----
-
-⚡ AI Suggestion of the Day: 🤖 Take a bubble bath | relaxation | solo | low cost 🤖
-
----
-
-**Attribution:** [JokeAPI](https://jokeapi.dev/) for jokes. Activity data follows the [boredapi.com](https://www.boredapi.com/) JSON shape, with a compatible mirror as fallback.
-
----
-
-## Outside The Terminal
-
-Tai chi and chi gong through the VA, volunteering with the local humane society, and time under a telescope whenever the sky cooperates.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/mars600.png" width="220" alt="Mars telescope image" />
-  <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/marswar600.png" width="220" alt="Mars telescope artwork" />
-  <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/vegabeachedit.png" width="220" alt="Night sky and shoreline image" />
-</p>
-
-## Current Stack
-
-- **Infra:** AWS, OCI, Terraform, Ansible, Linux, networking, observability
-- **Application:** Python, TypeScript, React, SQL, API design, automation, freelance delivery
-- **Mobile & serverless:** React mobile UI, AWS Lambda, S3-backed document and receipt workflows
-- **AI:** LLM workflows, prompt/system design, structured extraction, cost-aware batch processing, practical automation
-- **Enterprise enablement:** Claude integrations, Slack workflows, Jira/Confluence context, config analysis, Git-backed operational review
-- **Analysis:** R, applied statistics, experiment design, data cleaning, lightweight ML
-- **Delivery:** GitHub Actions, Docker, CI/CD, repo hygiene
-
-## Tools
+## Tool Wall
 
 <table align="center">
   <tr>
@@ -122,7 +100,7 @@ Tai chi and chi gong through the VA, volunteering with the local humane society,
   </tr>
   <tr>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/></a><br/>HTML5</td>
-    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/></a><br/>CSS3</td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/></a><br/>CSS3</td>
     <td align="center"><a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="42" height="42"/></a><br/>PostgreSQL</td>
     <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/></a><br/>MySQL</td>
     <td align="center"><a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="42" height="42"/></a><br/>SQLite</td>
@@ -136,20 +114,37 @@ Tai chi and chi gong through the VA, volunteering with the local humane society,
   </tr>
 </table>
 
-## Experience
+## Player Profile
 
-- **Systems, proprietary trading firm:** production systems, reliability work, and internal tooling in a low-latency environment
-- **Freelance software developer and DevOps:** current freelance software development, cloud architecture, mobile/product delivery, serverless automation, AI-assisted tooling, and delivery systems
-- **Statistical analyst and consultant:** applied stats, econometrics, operational analysis, and data product work
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Engineering</strong><br/><br/>
+      Systems engineering at a proprietary trading firm<br/>
+      Current freelance software development and DevOps<br/>
+      AI automation and engineering enablement<br/>
+      Applied statistics and data products
+    </td>
+    <td width="50%" valign="top">
+      <strong>Outside the terminal</strong><br/><br/>
+      Military veteran<br/>
+      Tai chi and chi gong through the VA<br/>
+      Humane society volunteer<br/>
+      Amateur astronomy when the sky cooperates
+    </td>
+  </tr>
+</table>
 
-## Education
-
-- Code Platoon, DevOps and Cloud Engineering, 2024
-- Code Platoon, Full Stack Software Engineering, 2023
-- Penn State, Applied Statistics Graduate Certificate, 2015
-- UC San Diego, B.A. Economics, 2011
-- San Diego Mesa College, A.A. Business Education, 2008
+<details>
+  <summary><strong>Education and training</strong></summary>
+  <br />
+  Code Platoon, DevOps and Cloud Engineering, 2024<br />
+  Code Platoon, Full Stack Software Engineering, 2023<br />
+  Penn State, Applied Statistics Graduate Certificate, 2015<br />
+  UC San Diego, B.A. Economics, 2011<br />
+  San Diego Mesa College, A.A. Business Education, 2008
+</details>
 
 ---
 
-If something here was useful, a star on a good repo is appreciated.
+<p align="center"><strong>Chicago, IL + Erie, PA</strong><br/>Available for focused freelance software, automation, cloud, and applied AI work.</p>
