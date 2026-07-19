@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tsmith4014.github.io/cathys-memory-arcade/">
-    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-preview.jpg" width="100%" alt="Enter Cathy's Memory Arcade, a 1986-meets-AI memorial with three original playable games" />
+    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-floor.jpg" width="100%" alt="Enter Cathy's Memory Arcade, a 1986-meets-AI memorial with three original playable games" />
   </a>
 </p>
 
