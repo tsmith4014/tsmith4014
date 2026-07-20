@@ -84,11 +84,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Sam Altman](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything) | Simon Willison · Jul 20 |
+| AI practice | [Who’s Afraid of Chinese Models?](https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything) | Simon Willison · Jul 20 |
 | AI research | [GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis](https://arxiv.org/abs/2607.15280) | arXiv cs.AI · Jul 20 |
-| Systems | [Kernel prepatch 7.2-rc4](https://lwn.net/Articles/1083543/) | LWN.net · Jul 19 |
-| Architecture | [How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages](https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 19 |
-| Edge & cloud | [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities](https://blog.cloudflare.com/wordpress-vulnerabilities/) | Cloudflare Blog · Jul 17 |
+| Systems | [\[$\] Fedora grapples with change](https://lwn.net/Articles/1081557/) | LWN.net · Jul 20 |
+| Architecture | [Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio](https://www.infoq.com/news/2026/07/java-news-roundup-jul13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 20 |
+| Edge & cloud | [Selectively log network activity events by identity in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/) | AWS What's New · Jul 20 |
 <!-- SIGNALS:END -->
 
 <details>
