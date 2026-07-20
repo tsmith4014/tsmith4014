@@ -84,10 +84,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [AI Mania Is Eviscerating Global Decision-Making](https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything) | Simon Willison · Jul 19 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | ["Half a Second" — a book on the XZ backdoor](https://lwn.net/Articles/1083466/) | LWN.net · Jul 18 |
-| Architecture | [Google's AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service](https://www.infoq.com/news/2026/07/alphaevolve-generally-available/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 19 |
+| AI practice | [Quoting Sam Altman](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything) | Simon Willison · Jul 20 |
+| AI research | [GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis](https://arxiv.org/abs/2607.15280) | arXiv cs.AI · Jul 20 |
+| Systems | [Kernel prepatch 7.2-rc4](https://lwn.net/Articles/1083543/) | LWN.net · Jul 19 |
+| Architecture | [How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages](https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 19 |
 | Edge & cloud | [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities](https://blog.cloudflare.com/wordpress-vulnerabilities/) | Cloudflare Blog · Jul 17 |
 <!-- SIGNALS:END -->
 
