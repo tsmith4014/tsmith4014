@@ -84,11 +84,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Who’s Afraid of Chinese Models?](https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything) | Simon Willison · Jul 20 |
-| AI research | [GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis](https://arxiv.org/abs/2607.15280) | arXiv cs.AI · Jul 20 |
+| AI practice | [Reverse-engineering is cheap now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything) | Simon Willison · Jul 20 |
+| AI research | [Rater State Bias in RLHF Preference Data: An Audit Framework](https://arxiv.org/abs/2607.16195) | arXiv cs.AI · Jul 21 |
 | Systems | [\[$\] Fedora grapples with change](https://lwn.net/Articles/1081557/) | LWN.net · Jul 20 |
 | Architecture | [Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio](https://www.infoq.com/news/2026/07/java-news-roundup-jul13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 20 |
-| Edge & cloud | [Selectively log network activity events by identity in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/) | AWS What's New · Jul 20 |
+| Edge & cloud | [Cloudflare Internal DNS is now generally available](https://blog.cloudflare.com/internal-dns/) | Cloudflare Blog · Jul 20 |
 <!-- SIGNALS:END -->
 
 <details>
