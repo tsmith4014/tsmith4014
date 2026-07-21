@@ -84,11 +84,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Reverse-engineering is cheap now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything) | Simon Willison · Jul 20 |
+| AI practice | [Nativ: Run AI models locally on your Mac](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything) | Simon Willison · Jul 21 |
 | AI research | [Rater State Bias in RLHF Preference Data: An Audit Framework](https://arxiv.org/abs/2607.16195) | arXiv cs.AI · Jul 21 |
-| Systems | [\[$\] Fedora grapples with change](https://lwn.net/Articles/1081557/) | LWN.net · Jul 20 |
-| Architecture | [Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio](https://www.infoq.com/news/2026/07/java-news-roundup-jul13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 20 |
-| Edge & cloud | [Cloudflare Internal DNS is now generally available](https://blog.cloudflare.com/internal-dns/) | Cloudflare Blog · Jul 20 |
+| Systems | [Firefox 153 released](https://lwn.net/Articles/1083981/) | LWN.net · Jul 21 |
+| Architecture | [RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core](https://www.infoq.com/news/2026/07/rspack-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 21 |
+| Edge & cloud | [Amazon ECS now provides Action Logs for deployment and orchestration visibility](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-action-logs/) | AWS What's New · Jul 21 |
 <!-- SIGNALS:END -->
 
 <details>
