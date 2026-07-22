@@ -85,10 +85,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Nativ: Run AI models locally on your Mac](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything) | Simon Willison · Jul 21 |
-| AI research | [Rater State Bias in RLHF Preference Data: An Audit Framework](https://arxiv.org/abs/2607.16195) | arXiv cs.AI · Jul 21 |
+| AI research | [SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI](https://arxiv.org/abs/2607.18239) | arXiv cs.AI · Jul 22 |
 | Systems | [Firefox 153 released](https://lwn.net/Articles/1083981/) | LWN.net · Jul 21 |
-| Architecture | [RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core](https://www.infoq.com/news/2026/07/rspack-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 21 |
-| Edge & cloud | [Amazon ECS now provides Action Logs for deployment and orchestration visibility](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-action-logs/) | AWS What's New · Jul 21 |
+| Architecture | [Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding](https://www.infoq.com/news/2026/07/android-studio-quail-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 21 |
+| Edge & cloud | [Amazon EC2 R6in and R6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/) | AWS What's New · Jul 21 |
 <!-- SIGNALS:END -->
 
 <details>
