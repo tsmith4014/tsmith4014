@@ -86,9 +86,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Nativ: Run AI models locally on your Mac](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything) | Simon Willison · Jul 21 |
 | AI research | [SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI](https://arxiv.org/abs/2607.18239) | arXiv cs.AI · Jul 22 |
-| Systems | [Firefox 153 released](https://lwn.net/Articles/1083981/) | LWN.net · Jul 21 |
-| Architecture | [Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding](https://www.infoq.com/news/2026/07/android-studio-quail-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 21 |
-| Edge & cloud | [Amazon EC2 R6in and R6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/) | AWS What's New · Jul 21 |
+| Systems | [\[$\] Save and restore may be coming to GNOME](https://lwn.net/Articles/1083750/) | LWN.net · Jul 22 |
+| Architecture | [GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture](https://www.infoq.com/news/2026/07/github-issues-navigation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 22 |
+| Edge & cloud | [Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups/) | AWS What's New · Jul 22 |
 <!-- SIGNALS:END -->
 
 <details>
