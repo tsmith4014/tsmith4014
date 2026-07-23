@@ -86,9 +86,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting Seth Larson](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything) | Simon Willison · Jul 23 |
 | AI research | [SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI](https://arxiv.org/abs/2607.18239) | arXiv cs.AI · Jul 23 |
-| Systems | [\[$\] LWN.net Weekly Edition for July 23, 2026](https://lwn.net/Articles/1083123/) | LWN.net · Jul 23 |
-| Architecture | [Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration](https://www.infoq.com/news/2026/07/meta-react-compiler-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 23 |
-| Edge & cloud | [Amazon EC2 C7a instances are now available in the US West (N. California) Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/) | AWS What's New · Jul 22 |
+| Systems | [\[$\] An operations structure for swap devices](https://lwn.net/Articles/1083094/) | LWN.net · Jul 23 |
+| Architecture | [Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation](https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 23 |
+| Edge & cloud | [Amazon Bedrock AgentCore now delivers unified observability with traces and logs in a single log group](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-unified-observability-single-log-group/) | AWS What's New · Jul 23 |
 <!-- SIGNALS:END -->
 
 <details>
