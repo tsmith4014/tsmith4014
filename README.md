@@ -84,11 +84,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Nativ: Run AI models locally on your Mac](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything) | Simon Willison · Jul 21 |
-| AI research | [SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI](https://arxiv.org/abs/2607.18239) | arXiv cs.AI · Jul 22 |
-| Systems | [\[$\] Save and restore may be coming to GNOME](https://lwn.net/Articles/1083750/) | LWN.net · Jul 22 |
-| Architecture | [GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture](https://www.infoq.com/news/2026/07/github-issues-navigation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 22 |
-| Edge & cloud | [Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups/) | AWS What's New · Jul 22 |
+| AI practice | [Quoting Seth Larson](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything) | Simon Willison · Jul 23 |
+| AI research | [SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI](https://arxiv.org/abs/2607.18239) | arXiv cs.AI · Jul 23 |
+| Systems | [\[$\] LWN.net Weekly Edition for July 23, 2026](https://lwn.net/Articles/1083123/) | LWN.net · Jul 23 |
+| Architecture | [Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration](https://www.infoq.com/news/2026/07/meta-react-compiler-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 23 |
+| Edge & cloud | [Amazon EC2 C7a instances are now available in the US West (N. California) Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/) | AWS What's New · Jul 22 |
 <!-- SIGNALS:END -->
 
 <details>
