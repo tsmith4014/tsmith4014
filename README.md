@@ -86,9 +86,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [The first known runaway AI agent - or a very bad marketing stunt?](https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything) | Simon Willison · Jul 23 |
 | AI research | [AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud C...](https://arxiv.org/abs/2607.20452) | arXiv cs.AI · Jul 24 |
-| Systems | [Mourning Dan Williams](https://lwn.net/Articles/1084545/) | LWN.net · Jul 23 |
-| Architecture | [Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3](https://www.infoq.com/news/2026/07/jotai-rework-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 24 |
-| Edge & cloud | [Amazon ECS Service Connect now supports Zone-Aware routing](https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/) | AWS What's New · Jul 23 |
+| Systems | [Hefty stable kernel updates for Friday](https://lwn.net/Articles/1084921/) | LWN.net · Jul 24 |
+| Architecture | [Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI](https://www.infoq.com/presentations/ai-framework-data-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 24 |
+| Edge & cloud | [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/) | Cloudflare Blog · Jul 24 |
 <!-- SIGNALS:END -->
 
 <details>
