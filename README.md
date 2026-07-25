@@ -84,11 +84,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [The first known runaway AI agent - or a very bad marketing stunt?](https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything) | Simon Willison · Jul 23 |
-| AI research | [AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud C...](https://arxiv.org/abs/2607.20452) | arXiv cs.AI · Jul 24 |
+| AI practice | [Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything) | Simon Willison · Jul 25 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Hefty stable kernel updates for Friday](https://lwn.net/Articles/1084921/) | LWN.net · Jul 24 |
-| Architecture | [Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI](https://www.infoq.com/presentations/ai-framework-data-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 24 |
-| Edge & cloud | [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/) | Cloudflare Blog · Jul 24 |
+| Architecture | [How Zalando Built an In-Process Client-Side Load Balancer for One Million Requests per Second](https://www.infoq.com/news/2026/07/client-side-load-balancer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 25 |
+| Edge & cloud | [Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/) | AWS What's New · Jul 24 |
 <!-- SIGNALS:END -->
 
 <details>
