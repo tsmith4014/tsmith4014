@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tsmith4014.github.io/cathys-memory-arcade/">
-    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-floor.jpg?v=6" width="100%" alt="Enter Cathy's Memory Arcade, a 1986-meets-AI memorial with six original playable games" />
+    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-floor-v2.webp" width="100%" alt="Enter Cathy's Memory Arcade, a six-chapter 1986-meets-AI memorial with original playable games and illustrated environments" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
   <a href="mailto:chjthomps@gmail.com">Email</a>
 </p>
 
-> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy, with six original games, a browser-synthesized jukebox, our real photo-booth portraits, and room for the memories still returning.
+> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy: six original games connected by a locally saved story route, an adaptive browser score, our real photo-booth portraits, and room for the memories still returning.
 
 <table>
   <tr>
@@ -51,11 +51,21 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#jukebox">07 // JUKEBOX J-86</a></h3>
-      <p>Three live browser arrangements, ambient arcade sound, and game effects synthesized with the Web Audio API.</p>
+      <p>Five evolving browser arrangements with drums, bass, pads, leads, echo, generated reverb, arcade ambience, and no streamed audio.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-core">08 // MEMORY CORE</a></h3>
-      <p>Our real photo-booth portraits, her life file, and the documented path from a $2.50 prototype to $5 all-you-can-play.</p>
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-route">08 // CATHY ROUTE</a></h3>
+      <p>Six metaphorical chapters, local completion saves, recovered keepsakes, and an after-hours epilogue behind the last cabinet.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-core">09 // MEMORY CORE</a></h3>
+      <p>Our real photo-booth portraits, her family-sourced life file, and the documented path from a $2.50 prototype to $5 all-you-can-play.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/tsmith4014/cathys-memory-arcade">10 // OPEN CABINET</a></h3>
+      <p>Original game code, artwork provenance, historical context, privacy boundaries, CI checks, and the daily signal pipeline.</p>
     </td>
   </tr>
 </table>
