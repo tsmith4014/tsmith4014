@@ -86,8 +86,8 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything) | Simon Willison · Jul 25 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [Hefty stable kernel updates for Friday](https://lwn.net/Articles/1084921/) | LWN.net · Jul 24 |
-| Architecture | [How Zalando Built an In-Process Client-Side Load Balancer for One Million Requests per Second](https://www.infoq.com/news/2026/07/client-side-load-balancer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 25 |
+| Systems | [In remembrance of Dan Williams](https://lwn.net/Articles/1085021/) | LWN.net · Jul 25 |
+| Architecture | [AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering](https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 25 |
 | Edge & cloud | [Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/) | AWS What's New · Jul 24 |
 <!-- SIGNALS:END -->
 
