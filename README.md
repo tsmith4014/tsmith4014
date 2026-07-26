@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything) | Simon Willison · Jul 25 |
+| AI practice | [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything) | Simon Willison · Jul 25 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [In remembrance of Dan Williams](https://lwn.net/Articles/1085021/) | LWN.net · Jul 25 |
-| Architecture | [AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering](https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 25 |
+| Systems | [A Debian general resolution on LLM usage](https://lwn.net/Articles/1085314/) | LWN.net · Jul 25 |
+| Architecture | [Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade](https://www.infoq.com/news/2026/07/eks-version-rollback/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 26 |
 | Edge & cloud | [Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/) | AWS What's New · Jul 24 |
 <!-- SIGNALS:END -->
 
