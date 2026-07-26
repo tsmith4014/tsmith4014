@@ -99,7 +99,7 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | AI practice | [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything) | Simon Willison · Jul 25 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [A Debian general resolution on LLM usage](https://lwn.net/Articles/1085314/) | LWN.net · Jul 25 |
-| Architecture | [Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade](https://www.infoq.com/news/2026/07/eks-version-rollback/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 26 |
+| Architecture | [AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC](https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 26 |
 | Edge & cloud | [Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/) | AWS What's New · Jul 24 |
 <!-- SIGNALS:END -->
 
