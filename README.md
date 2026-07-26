@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tsmith4014.github.io/cathys-memory-arcade/">
-    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-story-files-v3.webp" width="100%" alt="Enter Cathy's Memory Arcade: six original games, three illustrated branching story files, and a six-track generative jukebox" />
+    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-story-files-v4.webp" width="100%" alt="Enter Cathy's Memory Arcade: six original games, three illustrated branching story files, and a six-track generative jukebox" />
   </a>
 </p>
 
