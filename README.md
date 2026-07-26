@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tsmith4014.github.io/cathys-memory-arcade/">
-    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-floor-v2.webp" width="100%" alt="Enter Cathy's Memory Arcade, a six-chapter 1986-meets-AI memorial with original playable games and illustrated environments" />
+    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-story-files-v3.webp" width="100%" alt="Enter Cathy's Memory Arcade: six original games, three illustrated branching story files, and a six-track generative jukebox" />
   </a>
 </p>
 
@@ -13,9 +13,11 @@
   <a href="https://www.linkedin.com/in/chad-thompson-smith/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:chjthomps@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/tsmith4014/cathys-memory-arcade">Source</a>
 </p>
 
-> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy: six original games connected by a locally saved story route, an adaptive browser score, our real photo-booth portraits, and room for the memories still returning.
+> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy: six original games, three deep branching story files, a six-track generative score, our real photo-booth portraits, and room for the memories still returning.
 
 <table>
   <tr>
@@ -45,27 +47,27 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/?game=dragonfire-descent#lobby">06 // DRAGONFIRE DESCENT</a></h3>
-      <p>A fog-of-war castle raid: steal the hoard from its deepest chamber and find the route home before sunset.</p>
+      <p>A ranged citadel expedition with luminous bolts, a five-second ward, living compass, guardians, and a route back to dawn.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#jukebox">07 // JUKEBOX J-86</a></h3>
-      <p>Five evolving browser arrangements with drums, bass, pads, leads, echo, generated reverb, arcade ambience, and no streamed audio.</p>
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#story-arcade">07 // AFTER CLOSING</a></h3>
+      <p>Three illustrated, locally saved branching files: horror, action, and mystery with evidence, changing stats, and multiple endings.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-route">08 // CATHY ROUTE</a></h3>
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#jukebox">08 // JUKEBOX J-86</a></h3>
+      <p>Six evolving browser arrangements with a patient rave build, sub-heavy drop, synthetic formant voice, generated reverb, and no streams.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-route">09 // CATHY ROUTE</a></h3>
       <p>Six metaphorical chapters, local completion saves, recovered keepsakes, and an after-hours epilogue behind the last cabinet.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-core">09 // MEMORY CORE</a></h3>
+      <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-core">10 // MEMORY CORE</a></h3>
       <p>Our real photo-booth portraits, her family-sourced life file, and the documented path from a $2.50 prototype to $5 all-you-can-play.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tsmith4014/cathys-memory-arcade">10 // OPEN CABINET</a></h3>
-      <p>Original game code, artwork provenance, historical context, privacy boundaries, CI checks, and the daily signal pipeline.</p>
     </td>
   </tr>
 </table>
