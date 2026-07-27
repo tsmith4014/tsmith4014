@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [An Inside Look at the Relay Market Powering Token Resellers and Fraud](https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything) | Simon Willison · Jul 26 |
 | AI research | [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://arxiv.org/abs/2607.21596) | arXiv cs.AI · Jul 27 |
-| Systems | [Kernel prepatch 7.2-rc5](https://lwn.net/Articles/1085422/) | LWN.net · Jul 26 |
-| Architecture | [Netflix Details Its In-House LLM Serving Platform with Triton and vLLM](https://www.infoq.com/news/2026/07/netflix-llm-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 27 |
-| Edge & cloud | [Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/) | AWS What's New · Jul 24 |
+| Systems | [\[$\] Hazard pointers for the kernel](https://lwn.net/Articles/1084015/) | LWN.net · Jul 27 |
+| Architecture | [Microsoft Releases .NET 11 Preview 6 With Language and Framework Updates](https://www.infoq.com/news/2026/07/dotnet-11-preview-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 27 |
+| Edge & cloud | [AWS Elemental MediaTailor adds configurable ad timeout and concurrency controls for improved ad fill and fa...](https://aws.amazon.com/about-aws/whats-new/2026/07/mediatail-configurable-ad-timeout-and-concurrency) | AWS What's New · Jul 27 |
 <!-- SIGNALS:END -->
 
 <details>
