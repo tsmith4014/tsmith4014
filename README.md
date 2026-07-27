@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything) | Simon Willison · Jul 25 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [A Debian general resolution on LLM usage](https://lwn.net/Articles/1085314/) | LWN.net · Jul 25 |
-| Architecture | [AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC](https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 26 |
+| AI practice | [An Inside Look at the Relay Market Powering Token Resellers and Fraud](https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything) | Simon Willison · Jul 26 |
+| AI research | [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://arxiv.org/abs/2607.21596) | arXiv cs.AI · Jul 27 |
+| Systems | [Kernel prepatch 7.2-rc5](https://lwn.net/Articles/1085422/) | LWN.net · Jul 26 |
+| Architecture | [Netflix Details Its In-House LLM Serving Platform with Triton and vLLM](https://www.infoq.com/news/2026/07/netflix-llm-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 27 |
 | Edge & cloud | [Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/) | AWS What's New · Jul 24 |
 <!-- SIGNALS:END -->
 
