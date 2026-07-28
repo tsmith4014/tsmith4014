@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [moonshotai/Kimi-K3](https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything) | Simon Willison · Jul 27 |
 | AI research | [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://arxiv.org/abs/2607.21596) | arXiv cs.AI · Jul 28 |
-| Systems | [\[$\] Hazard pointers for the kernel](https://lwn.net/Articles/1084015/) | LWN.net · Jul 27 |
-| Architecture | [AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage](https://www.infoq.com/news/2026/07/guardduty-investigation-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 28 |
-| Edge & cloud | [Amazon Neptune now supports tag-based access control for IAM](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/) | AWS What's New · Jul 27 |
+| Systems | [\[$\] Progress toward compiling Linux with gccrs](https://lwn.net/Articles/1083202/) | LWN.net · Jul 28 |
+| Architecture | [The Orchestrator's Tax](https://martinfowler.com/articles/orchestrator-tax.html) | Martin Fowler · Jul 28 |
+| Edge & cloud | [AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud) | AWS What's New · Jul 28 |
 <!-- SIGNALS:END -->
 
 <details>
