@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Discovering cryptographic weaknesses with Claude](https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything) | Simon Willison · Jul 28 |
 | AI research | [Do Models Fake Alignment Without Clear Consequences?](https://arxiv.org/abs/2607.24758) | arXiv cs.AI · Jul 29 |
-| Systems | [\[$\] Progress toward compiling Linux with gccrs](https://lwn.net/Articles/1083202/) | LWN.net · Jul 28 |
-| Architecture | [GitHub Introduces Default "Cooldown" Policy for Dependabot Version Updates](https://www.infoq.com/news/2026/07/github-dependabot-cooldown/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 28 |
-| Edge & cloud | [Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-provisioned-control/) | AWS What's New · Jul 28 |
+| Systems | [Three stable kernels for Wednesday fix a single regression](https://lwn.net/Articles/1086047/) | LWN.net · Jul 29 |
+| Architecture | [Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS](https://www.infoq.com/news/2026/07/microsoft-agents-aks-routing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 29 |
+| Edge & cloud | [Post-quantum authentication to origins is now supported](https://blog.cloudflare.com/post-quantum-authentication-to-origins/) | Cloudflare Blog · Jul 29 |
 <!-- SIGNALS:END -->
 
 <details>
