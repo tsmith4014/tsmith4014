@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [moonshotai/Kimi-K3](https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything) | Simon Willison · Jul 27 |
-| AI research | [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://arxiv.org/abs/2607.21596) | arXiv cs.AI · Jul 28 |
+| AI practice | [Discovering cryptographic weaknesses with Claude](https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything) | Simon Willison · Jul 28 |
+| AI research | [Do Models Fake Alignment Without Clear Consequences?](https://arxiv.org/abs/2607.24758) | arXiv cs.AI · Jul 29 |
 | Systems | [\[$\] Progress toward compiling Linux with gccrs](https://lwn.net/Articles/1083202/) | LWN.net · Jul 28 |
-| Architecture | [The Orchestrator's Tax](https://martinfowler.com/articles/orchestrator-tax.html) | Martin Fowler · Jul 28 |
-| Edge & cloud | [AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud) | AWS What's New · Jul 28 |
+| Architecture | [GitHub Introduces Default "Cooldown" Policy for Dependabot Version Updates](https://www.infoq.com/news/2026/07/github-dependabot-cooldown/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 28 |
+| Edge & cloud | [Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-provisioned-control/) | AWS What's New · Jul 28 |
 <!-- SIGNALS:END -->
 
 <details>
