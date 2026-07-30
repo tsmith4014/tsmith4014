@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting D. Richard Hipp](https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything) | Simon Willison · Jul 29 |
 | AI research | [Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in...](https://arxiv.org/abs/2607.26119) | arXiv cs.AI · Jul 30 |
-| Systems | [\[$\] LWN.net Weekly Edition for July 30, 2026](https://lwn.net/Articles/1084315/) | LWN.net · Jul 30 |
-| Architecture | [Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS](https://www.infoq.com/news/2026/07/microsoft-agents-aks-routing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 29 |
-| Edge & cloud | [Amazon EC2 Auto Scaling now supports Instance Refresh in CloudFormation](https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-auto-scaling-instance-refresh-cloudformation) | AWS What's New · Jul 29 |
+| Systems | [\[$\] Reconsidering O_CREAT\|O_DIRECTORY](https://lwn.net/Articles/1085617/) | LWN.net · Jul 30 |
+| Architecture | [Presentation: Parting the Clouds: The Rise of Disaggregated Systems](https://www.infoq.com/presentations/disaggregation-industrial-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 30 |
+| Edge & cloud | [OpenAI GPT-5.6 Terra and GPT-5.6 Luna pricing update on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-terra-luna-pricing-bedrock/) | AWS What's New · Jul 30 |
 <!-- SIGNALS:END -->
 
 <details>
