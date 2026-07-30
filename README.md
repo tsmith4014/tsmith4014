@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Discovering cryptographic weaknesses with Claude](https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything) | Simon Willison · Jul 28 |
-| AI research | [Do Models Fake Alignment Without Clear Consequences?](https://arxiv.org/abs/2607.24758) | arXiv cs.AI · Jul 29 |
-| Systems | [Three stable kernels for Wednesday fix a single regression](https://lwn.net/Articles/1086047/) | LWN.net · Jul 29 |
+| AI practice | [Quoting D. Richard Hipp](https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything) | Simon Willison · Jul 29 |
+| AI research | [Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in...](https://arxiv.org/abs/2607.26119) | arXiv cs.AI · Jul 30 |
+| Systems | [\[$\] LWN.net Weekly Edition for July 30, 2026](https://lwn.net/Articles/1084315/) | LWN.net · Jul 30 |
 | Architecture | [Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS](https://www.infoq.com/news/2026/07/microsoft-agents-aks-routing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 29 |
-| Edge & cloud | [Post-quantum authentication to origins is now supported](https://blog.cloudflare.com/post-quantum-authentication-to-origins/) | Cloudflare Blog · Jul 29 |
+| Edge & cloud | [Amazon EC2 Auto Scaling now supports Instance Refresh in CloudFormation](https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-auto-scaling-instance-refresh-cloudformation) | AWS What's New · Jul 29 |
 <!-- SIGNALS:END -->
 
 <details>
