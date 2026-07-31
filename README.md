@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Advancing the price-performance frontier with GPT‑5.6](https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything) | Simon Willison · Jul 30 |
 | AI research | [Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in...](https://arxiv.org/abs/2607.26119) | arXiv cs.AI · Jul 31 |
-| Systems | [\[$\] Reconsidering O_CREAT\|O_DIRECTORY](https://lwn.net/Articles/1085617/) | LWN.net · Jul 30 |
-| Architecture | [Presentation: Parting the Clouds: The Rise of Disaggregated Systems](https://www.infoq.com/presentations/disaggregation-industrial-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 30 |
-| Edge & cloud | [Amazon SageMaker Unified Studio brings richer Git version control to all project tools](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git/) | AWS What's New · Jul 30 |
+| Systems | [Servo 0.4.0 released](https://lwn.net/Articles/1086555/) | LWN.net · Jul 31 |
+| Architecture | [Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework](https://www.infoq.com/news/2026/07/terraform-policy-as-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 31 |
+| Edge & cloud | [Amazon CloudWatch announces managed Prometheus collectors](https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-managed-collectors/) | AWS What's New · Jul 31 |
 <!-- SIGNALS:END -->
 
 <details>
