@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting D. Richard Hipp](https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything) | Simon Willison · Jul 29 |
-| AI research | [Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in...](https://arxiv.org/abs/2607.26119) | arXiv cs.AI · Jul 30 |
+| AI practice | [Advancing the price-performance frontier with GPT‑5.6](https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything) | Simon Willison · Jul 30 |
+| AI research | [Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in...](https://arxiv.org/abs/2607.26119) | arXiv cs.AI · Jul 31 |
 | Systems | [\[$\] Reconsidering O_CREAT\|O_DIRECTORY](https://lwn.net/Articles/1085617/) | LWN.net · Jul 30 |
 | Architecture | [Presentation: Parting the Clouds: The Rise of Disaggregated Systems](https://www.infoq.com/presentations/disaggregation-industrial-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 30 |
-| Edge & cloud | [OpenAI GPT-5.6 Terra and GPT-5.6 Luna pricing update on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-terra-luna-pricing-bedrock/) | AWS What's New · Jul 30 |
+| Edge & cloud | [Amazon SageMaker Unified Studio brings richer Git version control to all project tools](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git/) | AWS What's New · Jul 30 |
 <!-- SIGNALS:END -->
 
 <details>
