@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Advancing the price-performance frontier with GPT‑5.6](https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything) | Simon Willison · Jul 30 |
-| AI research | [Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in...](https://arxiv.org/abs/2607.26119) | arXiv cs.AI · Jul 31 |
+| AI practice | [deepseek-ai/DeepSeek-V4-Flash-0731](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything) | Simon Willison · Jul 31 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Servo 0.4.0 released](https://lwn.net/Articles/1086555/) | LWN.net · Jul 31 |
-| Architecture | [Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework](https://www.infoq.com/news/2026/07/terraform-policy-as-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Jul 31 |
-| Edge & cloud | [Amazon CloudWatch announces managed Prometheus collectors](https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-managed-collectors/) | AWS What's New · Jul 31 |
+| Architecture | [AWS Introduces Free Sandbox Environments for Workshops](https://www.infoq.com/news/2026/08/aws-builder-sandbox/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 1 |
+| Edge & cloud | [Amazon Aurora DSQL adds multi-Region cluster support in four more Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-adds-multi-region-clusters-four-more-regions/) | AWS What's New · Jul 31 |
 <!-- SIGNALS:END -->
 
 <details>
