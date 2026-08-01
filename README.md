@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tsmith4014.github.io/cathys-memory-arcade/">
-    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-story-files-v4.webp" width="100%" alt="Enter Cathy's Memory Arcade: six original games, three illustrated branching story files, and a six-track generative jukebox" />
+    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/cathys-memory-arcade-story-files-v5.webp" width="100%" alt="Enter Cathy's Memory Arcade: three illustrated branching stories wait after closing" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
   <a href="https://github.com/tsmith4014/cathys-memory-arcade">Source</a>
 </p>
 
-> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is a living memorial for my mother, Cathy: six original games, three deep branching story files, a six-track generative score, our real photo-booth portraits, and room for the memories still returning.
+> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is something more personal: a living memorial for my mother, Cathy, made from six original games, three persistent story worlds, a generative jukebox, our real photo-booth portraits, and room for the memories still returning.
 
 <table>
   <tr>
@@ -47,23 +47,23 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/?game=dragonfire-descent#lobby">06 // DRAGONFIRE DESCENT</a></h3>
-      <p>A ranged citadel expedition with luminous bolts, a five-second ward, living compass, guardians, and a route back to dawn.</p>
+      <p>A timed citadel expedition with ranged combat, readable guardian tells, a five-second ward, a living compass, and a route back to dawn.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#story-arcade">07 // AFTER CLOSING</a></h3>
-      <p>Three illustrated, locally saved branching files: horror, action, and mystery with evidence, changing stats, and multiple endings.</p>
+      <p>Three illustrated branching paperbacks with distinct casts, remembered choices, evidence, changing stats, real rewind, local saves, and multiple endings.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#jukebox">08 // JUKEBOX J-86</a></h3>
-      <p>Six evolving browser arrangements with a patient rave build, sub-heavy drop, synthetic formant voice, generated reverb, and no streams.</p>
+      <p>Six evolving browser arrangements with live transport, reactive meters, a 32-bar rave build, sub-heavy drop, synthetic voice, and no streams.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-route">09 // CATHY ROUTE</a></h3>
-      <p>Six metaphorical chapters, local completion saves, recovered keepsakes, and an after-hours epilogue behind the last cabinet.</p>
+      <p>Six visual save slots, metaphorical chapters, recovered keepsakes, local progress, and an after-hours epilogue behind the last cabinet.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://tsmith4014.github.io/cathys-memory-arcade/#memory-core">10 // MEMORY CORE</a></h3>
