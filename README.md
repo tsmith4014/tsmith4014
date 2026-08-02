@@ -100,7 +100,7 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Servo 0.4.0 released](https://lwn.net/Articles/1086555/) | LWN.net · Jul 31 |
 | Architecture | [Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination](https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 2 |
-| Edge & cloud | [Amazon Aurora DSQL adds multi-Region cluster support in four more Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-adds-multi-region-clusters-four-more-regions/) | AWS What's New · Jul 31 |
+| Edge & cloud | [Welcome to Agents Week](https://blog.cloudflare.com/agents-week-welcome/) | Cloudflare Blog · Aug 2 |
 <!-- SIGNALS:END -->
 
 <details>
