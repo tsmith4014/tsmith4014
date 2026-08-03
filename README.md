@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Open letters about AI development](https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything) | Simon Willison · Aug 2 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [Servo 0.4.0 released](https://lwn.net/Articles/1086555/) | LWN.net · Jul 31 |
-| Architecture | [Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination](https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 2 |
+| AI practice | [condense-json 1.0](https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything) | Simon Willison · Aug 2 |
+| AI research | [OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems](https://arxiv.org/abs/2607.28629) | arXiv cs.AI · Aug 3 |
+| Systems | [Kernel prepatch 7.2-rc6](https://lwn.net/Articles/1086727/) | LWN.net · Aug 3 |
+| Architecture | [Presentation: Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Miss...](https://www.infoq.com/presentations/agentic-compute/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 3 |
 | Edge & cloud | [Welcome to Agents Week](https://blog.cloudflare.com/agents-week-welcome/) | Cloudflare Blog · Aug 2 |
 <!-- SIGNALS:END -->
 
