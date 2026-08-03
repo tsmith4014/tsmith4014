@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [condense-json 1.0](https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything) | Simon Willison · Aug 2 |
+| AI practice | [Quoting David Crawshaw's prompt](https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything) | Simon Willison · Aug 3 |
 | AI research | [OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems](https://arxiv.org/abs/2607.28629) | arXiv cs.AI · Aug 3 |
-| Systems | [Kernel prepatch 7.2-rc6](https://lwn.net/Articles/1086727/) | LWN.net · Aug 3 |
-| Architecture | [Presentation: Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Miss...](https://www.infoq.com/presentations/agentic-compute/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 3 |
-| Edge & cloud | [Welcome to Agents Week](https://blog.cloudflare.com/agents-week-welcome/) | Cloudflare Blog · Aug 2 |
+| Systems | [C-Kermit 11 released](https://lwn.net/Articles/1086953/) | LWN.net · Aug 3 |
+| Architecture | [Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven](https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 3 |
+| Edge & cloud | [AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora Pos...](https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-windows-sql-schema-aurora) | AWS What's New · Aug 3 |
 <!-- SIGNALS:END -->
 
 <details>
