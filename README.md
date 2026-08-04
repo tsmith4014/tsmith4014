@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting David Crawshaw's prompt](https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything) | Simon Willison · Aug 3 |
-| AI research | [OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems](https://arxiv.org/abs/2607.28629) | arXiv cs.AI · Aug 3 |
-| Systems | [C-Kermit 11 released](https://lwn.net/Articles/1086953/) | LWN.net · Aug 3 |
-| Architecture | [Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven](https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 3 |
-| Edge & cloud | [AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora Pos...](https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-windows-sql-schema-aurora) | AWS What's New · Aug 3 |
+| AI practice | [Quoting Steve Yegge](https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything) | Simon Willison · Aug 4 |
+| AI research | [Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety](https://arxiv.org/abs/2608.00001) | arXiv cs.AI · Aug 4 |
+| Systems | [Twenty years of Pandoc](https://lwn.net/Articles/1086976/) | LWN.net · Aug 3 |
+| Architecture | [Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face](https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 4 |
+| Edge & cloud | [AWS Transform continuous modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available) | AWS What's New · Aug 3 |
 <!-- SIGNALS:END -->
 
 <details>
