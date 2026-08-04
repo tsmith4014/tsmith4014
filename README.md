@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting Steve Yegge](https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything) | Simon Willison · Aug 4 |
 | AI research | [Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety](https://arxiv.org/abs/2608.00001) | arXiv cs.AI · Aug 4 |
-| Systems | [Twenty years of Pandoc](https://lwn.net/Articles/1086976/) | LWN.net · Aug 3 |
-| Architecture | [Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face](https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 4 |
-| Edge & cloud | [AWS Transform continuous modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available) | AWS What's New · Aug 3 |
+| Systems | [\[$\] Fedora considers conflict-of-interest policy](https://lwn.net/Articles/1086488/) | LWN.net · Aug 4 |
+| Architecture | [Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck](https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 4 |
+| Edge & cloud | [Amazon EC2 I8g instances now available in AWS Europe (Paris), Asia Pacific (Jakarta) regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i8g-instances-aws-paris-jakarta-regions/) | AWS What's New · Aug 4 |
 <!-- SIGNALS:END -->
 
 <details>
