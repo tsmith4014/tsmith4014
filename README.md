@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Steve Yegge](https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything) | Simon Willison · Aug 4 |
-| AI research | [Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety](https://arxiv.org/abs/2608.00001) | arXiv cs.AI · Aug 4 |
-| Systems | [\[$\] Fedora considers conflict-of-interest policy](https://lwn.net/Articles/1086488/) | LWN.net · Aug 4 |
+| AI practice | [New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging](https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything) | Simon Willison · Aug 4 |
+| AI research | [Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety](https://arxiv.org/abs/2608.00001) | arXiv cs.AI · Aug 5 |
+| Systems | [An LLM agent attempts to compromise a project on GitHub](https://lwn.net/Articles/1087162/) | LWN.net · Aug 4 |
 | Architecture | [Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck](https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 4 |
-| Edge & cloud | [Amazon EC2 I8g instances now available in AWS Europe (Paris), Asia Pacific (Jakarta) regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i8g-instances-aws-paris-jakarta-regions/) | AWS What's New · Aug 4 |
+| Edge & cloud | [\[Preview Announcement\] Re-introducing Forward Proxy as AWS Network Firewall Functionality](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/) | AWS What's New · Aug 4 |
 <!-- SIGNALS:END -->
 
 <details>
