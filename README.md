@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging](https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything) | Simon Willison · Aug 4 |
 | AI research | [Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety](https://arxiv.org/abs/2608.00001) | arXiv cs.AI · Aug 5 |
-| Systems | [An LLM agent attempts to compromise a project on GitHub](https://lwn.net/Articles/1087162/) | LWN.net · Aug 4 |
-| Architecture | [Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck](https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 4 |
-| Edge & cloud | [\[Preview Announcement\] Re-introducing Forward Proxy as AWS Network Firewall Functionality](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/) | AWS What's New · Aug 4 |
+| Systems | [b4 0.16.0 released](https://lwn.net/Articles/1087388/) | LWN.net · Aug 5 |
+| Architecture | [JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale](https://www.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 5 |
+| Edge & cloud | [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/) | AWS What's New · Aug 5 |
 <!-- SIGNALS:END -->
 
 <details>
