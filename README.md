@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging](https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything) | Simon Willison · Aug 4 |
-| AI research | [Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety](https://arxiv.org/abs/2608.00001) | arXiv cs.AI · Aug 5 |
-| Systems | [b4 0.16.0 released](https://lwn.net/Articles/1087388/) | LWN.net · Aug 5 |
-| Architecture | [JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale](https://www.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 5 |
-| Edge & cloud | [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/) | AWS What's New · Aug 5 |
+| AI practice | [An AI model from Meta also hacked another company during testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything) | Simon Willison · Aug 6 |
+| AI research | [A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)](https://arxiv.org/abs/2608.04012) | arXiv cs.AI · Aug 6 |
+| Systems | [\[$\] LWN.net Weekly Edition for August 6, 2026](https://lwn.net/Articles/1086134/) | LWN.net · Aug 6 |
+| Architecture | [Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes](https://www.infoq.com/news/2026/08/pod-deployment-unit-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 6 |
+| Edge & cloud | [Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports](https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/) | Cloudflare Blog · Aug 5 |
 <!-- SIGNALS:END -->
 
 <details>
