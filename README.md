@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [An AI model from Meta also hacked another company during testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything) | Simon Willison · Aug 6 |
-| AI research | [A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)](https://arxiv.org/abs/2608.04012) | arXiv cs.AI · Aug 6 |
-| Systems | [\[$\] LWN.net Weekly Edition for August 6, 2026](https://lwn.net/Articles/1086134/) | LWN.net · Aug 6 |
-| Architecture | [Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes](https://www.infoq.com/news/2026/08/pod-deployment-unit-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 6 |
-| Edge & cloud | [Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports](https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/) | Cloudflare Blog · Aug 5 |
+| AI practice | [datasette 1.0a38](https://simonwillison.net/2026/Aug/6/datasette/#atom-everything) | Simon Willison · Aug 6 |
+| AI research | [Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services](https://arxiv.org/abs/2608.05159) | arXiv cs.AI · Aug 7 |
+| Systems | [Six stable kernels with a security fix](https://lwn.net/Articles/1087567/) | LWN.net · Aug 6 |
+| Architecture | [From Projects to Products: Turning Platforms into Products People Use](https://www.infoq.com/news/2026/08/platform-products-people-use/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 6 |
+| Edge & cloud | [Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/) | AWS What's New · Aug 6 |
 <!-- SIGNALS:END -->
 
 <details>
