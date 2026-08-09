@@ -99,7 +99,7 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | AI practice | [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything) | Simon Willison · Aug 8 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] Changes in shadow-utils password-expiration features](https://lwn.net/Articles/1086949/) | LWN.net · Aug 7 |
-| Architecture | [Presentation: Keeping ChatGPT Fast as AI Development Accelerates](https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 8 |
+| Architecture | [Stripe Uses Graph Search and State Machines to Automate Database Remediation](https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 9 |
 | Edge & cloud | [Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/) | AWS What's New · Aug 7 |
 <!-- SIGNALS:END -->
 
