@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything) | Simon Willison · Aug 8 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] Changes in shadow-utils password-expiration features](https://lwn.net/Articles/1086949/) | LWN.net · Aug 7 |
-| Architecture | [Stripe Uses Graph Search and State Machines to Automate Database Remediation](https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 9 |
+| AI practice | [Quoting OpenClaw](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything) | Simon Willison · Aug 10 |
+| AI research | [Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic B...](https://arxiv.org/abs/2608.06394) | arXiv cs.AI · Aug 10 |
+| Systems | [Kernel prepatch 7.2-rc7](https://lwn.net/Articles/1087961/) | LWN.net · Aug 9 |
+| Architecture | [Beyond Consensus: The Fragmentation of AI Policy Across the Linux Ecosystem](https://www.infoq.com/news/2026/08/linux-ai-policies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 10 |
 | Edge & cloud | [Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/) | AWS What's New · Aug 7 |
 <!-- SIGNALS:END -->
 
