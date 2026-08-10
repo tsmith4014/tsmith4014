@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting OpenClaw](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything) | Simon Willison · Aug 10 |
 | AI research | [Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic B...](https://arxiv.org/abs/2608.06394) | arXiv cs.AI · Aug 10 |
-| Systems | [Kernel prepatch 7.2-rc7](https://lwn.net/Articles/1087961/) | LWN.net · Aug 9 |
-| Architecture | [Beyond Consensus: The Fragmentation of AI Policy Across the Linux Ecosystem](https://www.infoq.com/news/2026/08/linux-ai-policies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 10 |
-| Edge & cloud | [Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/) | AWS What's New · Aug 7 |
+| Systems | [\[$\] Even more formal verification for BPF](https://lwn.net/Articles/1087069/) | LWN.net · Aug 10 |
+| Architecture | [Project Valhalla's First Preview: JEP 401 Redefines == for Java Objects](https://www.infoq.com/news/2026/08/jep401-value-objects-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 10 |
+| Edge & cloud | [Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status](https://blog.cloudflare.com/fedramp-class-d-certification/) | Cloudflare Blog · Aug 10 |
 <!-- SIGNALS:END -->
 
 <details>
