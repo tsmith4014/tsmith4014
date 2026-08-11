@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Introducing Muse Glimmer](https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything) | Simon Willison · Aug 10 |
 | AI research | [Towards an Argumentative Foundation for Evaluative AI](https://arxiv.org/abs/2608.07473) | arXiv cs.AI · Aug 11 |
-| Systems | [\[$\] Even more formal verification for BPF](https://lwn.net/Articles/1087069/) | LWN.net · Aug 10 |
-| Architecture | [CloudFlare Previews Automatic WebMCP Support for Web Pages](https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 10 |
-| Edge & cloud | [FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/) | AWS What's New · Aug 10 |
+| Systems | [\[$\] KVM planes head for takeoff](https://lwn.net/Articles/1087590/) | LWN.net · Aug 11 |
+| Architecture | [How Netflix Scaled Its Real-Time Service Map](https://www.infoq.com/news/2026/08/netflix-service-topology/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 11 |
+| Edge & cloud | [LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker...](https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/) | AWS What's New · Aug 11 |
 <!-- SIGNALS:END -->
 
 <details>
