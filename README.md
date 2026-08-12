@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Introducing Muse Glimmer](https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything) | Simon Willison · Aug 10 |
-| AI research | [Towards an Argumentative Foundation for Evaluative AI](https://arxiv.org/abs/2608.07473) | arXiv cs.AI · Aug 11 |
+| AI practice | [There are no lossless transformations of natural-language text](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything) | Simon Willison · Aug 11 |
+| AI research | [Towards an Argumentative Foundation for Evaluative AI](https://arxiv.org/abs/2608.07473) | arXiv cs.AI · Aug 12 |
 | Systems | [\[$\] KVM planes head for takeoff](https://lwn.net/Articles/1087590/) | LWN.net · Aug 11 |
 | Architecture | [How Netflix Scaled Its Real-Time Service Map](https://www.infoq.com/news/2026/08/netflix-service-topology/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 11 |
-| Edge & cloud | [LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker...](https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/) | AWS What's New · Aug 11 |
+| Edge & cloud | [Amazon EC2 R8a instances are now available in Canada (Central) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/) | AWS What's New · Aug 11 |
 <!-- SIGNALS:END -->
 
 <details>
