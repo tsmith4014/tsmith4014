@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Florian Herrengt](https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything) | Simon Willison · Aug 12 |
-| AI research | [Towards an Argumentative Foundation for Evaluative AI](https://arxiv.org/abs/2608.07473) | arXiv cs.AI · Aug 12 |
-| Systems | [\[$\] A look at CrossPoint e-reader firmware](https://lwn.net/Articles/1087635/) | LWN.net · Aug 12 |
+| AI practice | [DeepSeek V4 Pro 0813 (on OpenRouter)](https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/) | Simon Willison · Aug 12 |
+| AI research | [Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes](https://arxiv.org/abs/2608.11207) | arXiv cs.AI · Aug 13 |
+| Systems | [\[$\] LWN.net Weekly Edition for August 13, 2026](https://lwn.net/Articles/1087432/) | LWN.net · Aug 13 |
 | Architecture | [Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution](https://www.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 12 |
-| Edge & cloud | [Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west/) | AWS What's New · Aug 11 |
+| Edge & cloud | [AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/) | AWS What's New · Aug 12 |
 <!-- SIGNALS:END -->
 
 <details>
