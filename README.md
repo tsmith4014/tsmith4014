@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [DeepSeek V4 Pro 0813 (on OpenRouter)](https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/) | Simon Willison · Aug 12 |
 | AI research | [Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes](https://arxiv.org/abs/2608.11207) | arXiv cs.AI · Aug 13 |
-| Systems | [\[$\] LWN.net Weekly Edition for August 13, 2026](https://lwn.net/Articles/1087432/) | LWN.net · Aug 13 |
-| Architecture | [Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution](https://www.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 12 |
-| Edge & cloud | [AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/) | AWS What's New · Aug 12 |
+| Systems | [rsync 3.5.0 released](https://lwn.net/Articles/1088759/) | LWN.net · Aug 13 |
+| Architecture | [Vercel Launches v0 API for Headless App Building](https://www.infoq.com/news/2026/08/vercel-v0-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 13 |
+| Edge & cloud | [Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/) | AWS What's New · Aug 13 |
 <!-- SIGNALS:END -->
 
 <details>
