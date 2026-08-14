@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [DeepSeek V4 Pro 0813 (on OpenRouter)](https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/) | Simon Willison · Aug 12 |
-| AI research | [Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes](https://arxiv.org/abs/2608.11207) | arXiv cs.AI · Aug 13 |
-| Systems | [rsync 3.5.0 released](https://lwn.net/Articles/1088759/) | LWN.net · Aug 13 |
-| Architecture | [Vercel Launches v0 API for Headless App Building](https://www.infoq.com/news/2026/08/vercel-v0-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 13 |
-| Edge & cloud | [Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/) | AWS What's New · Aug 13 |
+| AI practice | [sqlite-utils 4.2.1](https://simonwillison.net/2026/Aug/13/sqlite-utils-2/) | Simon Willison · Aug 13 |
+| AI research | [Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes](https://arxiv.org/abs/2608.11207) | arXiv cs.AI · Aug 14 |
+| Systems | [Domas: Bypassing memory protection with AMD's memory controllers](https://lwn.net/Articles/1088778/) | LWN.net · Aug 13 |
+| Architecture | [Meta Open-Sources Muse Glimmer: A 30B Local Agentic Model Optimised for On-Device Execution](https://www.infoq.com/news/2026/08/meta-muse-glimmer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 14 |
+| Edge & cloud | [AWS Billing and Cost Management introduces Managed Dashboards](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/) | AWS What's New · Aug 14 |
 <!-- SIGNALS:END -->
 
 <details>
