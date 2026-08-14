@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [sqlite-utils 4.2.1](https://simonwillison.net/2026/Aug/13/sqlite-utils-2/) | Simon Willison · Aug 13 |
 | AI research | [Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes](https://arxiv.org/abs/2608.11207) | arXiv cs.AI · Aug 14 |
-| Systems | [Domas: Bypassing memory protection with AMD's memory controllers](https://lwn.net/Articles/1088778/) | LWN.net · Aug 13 |
-| Architecture | [Meta Open-Sources Muse Glimmer: A 30B Local Agentic Model Optimised for On-Device Execution](https://www.infoq.com/news/2026/08/meta-muse-glimmer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 14 |
-| Edge & cloud | [AWS Billing and Cost Management introduces Managed Dashboards](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/) | AWS What's New · Aug 14 |
+| Systems | [\[$\] BPF, continuous testing, and stable kernels](https://lwn.net/Articles/1087823/) | LWN.net · Aug 14 |
+| Architecture | [Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform](https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 14 |
+| Edge & cloud | [How Cloudflare detects MCP traffic and helps secure it](https://blog.cloudflare.com/mcp-security-updates/) | Cloudflare Blog · Aug 14 |
 <!-- SIGNALS:END -->
 
 <details>
