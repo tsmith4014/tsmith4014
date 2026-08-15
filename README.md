@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [sqlite-utils 4.2.1](https://simonwillison.net/2026/Aug/13/sqlite-utils-2/) | Simon Willison · Aug 13 |
-| AI research | [Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes](https://arxiv.org/abs/2608.11207) | arXiv cs.AI · Aug 14 |
+| AI practice | [Northern Gannet](https://simonwillison.net/2026/Aug/15/sighting-391300422/) | Simon Willison · Aug 15 |
+| AI research | [Position: Reasoning is a Learnable Rule-Based Process](https://arxiv.org/abs/2608.12325) | arXiv cs.AI · Aug 15 |
 | Systems | [\[$\] BPF, continuous testing, and stable kernels](https://lwn.net/Articles/1087823/) | LWN.net · Aug 14 |
 | Architecture | [Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform](https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 14 |
-| Edge & cloud | [How Cloudflare detects MCP traffic and helps secure it](https://blog.cloudflare.com/mcp-security-updates/) | Cloudflare Blog · Aug 14 |
+| Edge & cloud | [Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/) | AWS What's New · Aug 14 |
 <!-- SIGNALS:END -->
 
 <details>
