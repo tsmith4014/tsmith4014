@@ -99,7 +99,7 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | AI practice | [Northern Gannet](https://simonwillison.net/2026/Aug/15/sighting-391300422/) | Simon Willison · Aug 15 |
 | AI research | [Position: Reasoning is a Learnable Rule-Based Process](https://arxiv.org/abs/2608.12325) | arXiv cs.AI · Aug 15 |
 | Systems | [\[$\] BPF, continuous testing, and stable kernels](https://lwn.net/Articles/1087823/) | LWN.net · Aug 14 |
-| Architecture | [Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform](https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 14 |
+| Architecture | [Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash](https://www.infoq.com/presentations/ai-agentic-recommendations-semantic-ids/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 15 |
 | Edge & cloud | [Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/) | AWS What's New · Aug 14 |
 <!-- SIGNALS:END -->
 
