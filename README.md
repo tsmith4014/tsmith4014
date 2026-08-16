@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Northern Gannet](https://simonwillison.net/2026/Aug/15/sighting-391300422/) | Simon Willison · Aug 15 |
-| AI research | [Position: Reasoning is a Learnable Rule-Based Process](https://arxiv.org/abs/2608.12325) | arXiv cs.AI · Aug 15 |
+| AI practice | [CORS Chat](https://simonwillison.net/2026/Aug/15/cors-chat/) | Simon Willison · Aug 15 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] BPF, continuous testing, and stable kernels](https://lwn.net/Articles/1087823/) | LWN.net · Aug 14 |
-| Architecture | [Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash](https://www.infoq.com/presentations/ai-agentic-recommendations-semantic-ids/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 15 |
+| Architecture | [How PGSimCity Turns PostgreSQL Complexity Into a Virtual City 3D Simulation](https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 16 |
 | Edge & cloud | [Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/) | AWS What's New · Aug 14 |
 <!-- SIGNALS:END -->
 
