@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [CORS Chat](https://simonwillison.net/2026/Aug/15/cors-chat/) | Simon Willison · Aug 15 |
+| AI practice | [Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/) | Simon Willison · Aug 16 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] BPF, continuous testing, and stable kernels](https://lwn.net/Articles/1087823/) | LWN.net · Aug 14 |
-| Architecture | [How PGSimCity Turns PostgreSQL Complexity Into a Virtual City 3D Simulation](https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 16 |
+| Architecture | [AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls](https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 16 |
 | Edge & cloud | [Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/) | AWS What's New · Aug 14 |
 <!-- SIGNALS:END -->
 
