@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/) | Simon Willison · Aug 16 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] BPF, continuous testing, and stable kernels](https://lwn.net/Articles/1087823/) | LWN.net · Aug 14 |
-| Architecture | [AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls](https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 16 |
+| AI practice | [Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/) | Simon Willison · Aug 16 |
+| AI research | [Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation](https://arxiv.org/abs/2608.13564) | arXiv cs.AI · Aug 17 |
+| Systems | [The 7.2 kernel has been released](https://lwn.net/Articles/1088991/) | LWN.net · Aug 16 |
+| Architecture | [Java News Roundup: Simple JSON API, GlassFish, Jakarta EE, JNoSQL, Open Liberty, LangChain4j](https://www.infoq.com/news/2026/08/java-news-roundup-aug10-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 17 |
 | Edge & cloud | [Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/) | AWS What's New · Aug 14 |
 <!-- SIGNALS:END -->
 
