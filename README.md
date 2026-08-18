@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index](https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/) | Simon Willison · Aug 17 |
 | AI research | [FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment](https://arxiv.org/abs/2608.14550) | arXiv cs.AI · Aug 18 |
-| Systems | [\[$\] Development statistics for the 7.2 kernel](https://lwn.net/Articles/1088776/) | LWN.net · Aug 17 |
-| Architecture | [Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation](https://www.infoq.com/news/2026/08/eu-ai-content-watermark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 18 |
-| Edge & cloud | [Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/) | AWS What's New · Aug 17 |
+| Systems | [\[$\] Fedora prepares for the end of AF_ALG](https://lwn.net/Articles/1088489/) | LWN.net · Aug 18 |
+| Architecture | [Cloudflare WriteGuard Brings Fine-Grained Security Controls for MCP Servers](https://www.infoq.com/news/2026/08/cloudflare-writeguard-mcp-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 18 |
+| Edge & cloud | [BGP Role model: tracking the adoption of RFC 9234](https://blog.cloudflare.com/rfc9234-bgp-role-model/) | Cloudflare Blog · Aug 18 |
 <!-- SIGNALS:END -->
 
 <details>
