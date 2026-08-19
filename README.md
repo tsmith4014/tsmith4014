@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index](https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/) | Simon Willison · Aug 17 |
-| AI research | [FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment](https://arxiv.org/abs/2608.14550) | arXiv cs.AI · Aug 18 |
-| Systems | [\[$\] Fedora prepares for the end of AF_ALG](https://lwn.net/Articles/1088489/) | LWN.net · Aug 18 |
+| AI practice | [Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/) | Simon Willison · Aug 18 |
+| AI research | [GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents](https://arxiv.org/abs/2608.16890) | arXiv cs.AI · Aug 19 |
+| Systems | [Firefox 154.0 released](https://lwn.net/Articles/1089386/) | LWN.net · Aug 18 |
 | Architecture | [Cloudflare WriteGuard Brings Fine-Grained Security Controls for MCP Servers](https://www.infoq.com/news/2026/08/cloudflare-writeguard-mcp-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 18 |
-| Edge & cloud | [BGP Role model: tracking the adoption of RFC 9234](https://blog.cloudflare.com/rfc9234-bgp-role-model/) | Cloudflare Blog · Aug 18 |
+| Edge & cloud | [Amazon Bedrock now supports OpenAI models in India](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/) | AWS What's New · Aug 18 |
 <!-- SIGNALS:END -->
 
 <details>
