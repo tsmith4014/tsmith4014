@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [smolmachines / smolvm as a sandbox for untrusted Python & JavaScript](https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/) | Simon Willison · Aug 19 |
 | AI research | [Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market De...](https://arxiv.org/abs/2608.18078) | arXiv cs.AI · Aug 20 |
-| Systems | [\[$\] LWN.net Weekly Edition for August 20, 2026](https://lwn.net/Articles/1088565/) | LWN.net · Aug 20 |
-| Architecture | [The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure](https://www.infoq.com/news/2026/08/deep-seek-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 20 |
-| Edge & cloud | [Launching External Web Access for Web Search on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/) | AWS What's New · Aug 19 |
+| Systems | [KDE Gear 26.08 released](https://lwn.net/Articles/1089721/) | LWN.net · Aug 20 |
+| Architecture | [Presentation: Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine Architecture](https://www.infoq.com/presentations/local-first-sync-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 20 |
+| Edge & cloud | [From all-or-nothing to task-based OAuth consent](https://blog.cloudflare.com/task-based-oauth-consent/) | Cloudflare Blog · Aug 20 |
 <!-- SIGNALS:END -->
 
 <details>
