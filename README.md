@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/) | Simon Willison · Aug 18 |
-| AI research | [GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents](https://arxiv.org/abs/2608.16890) | arXiv cs.AI · Aug 19 |
-| Systems | [Tuba 0.11 released](https://lwn.net/Articles/1089537/) | LWN.net · Aug 19 |
-| Architecture | [Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics](https://www.infoq.com/news/2026/08/whatsapp-scam-alert-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 19 |
-| Edge & cloud | [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/) | Cloudflare Blog · Aug 19 |
+| AI practice | [smolmachines / smolvm as a sandbox for untrusted Python & JavaScript](https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/) | Simon Willison · Aug 19 |
+| AI research | [Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market De...](https://arxiv.org/abs/2608.18078) | arXiv cs.AI · Aug 20 |
+| Systems | [\[$\] LWN.net Weekly Edition for August 20, 2026](https://lwn.net/Articles/1088565/) | LWN.net · Aug 20 |
+| Architecture | [The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure](https://www.infoq.com/news/2026/08/deep-seek-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 20 |
+| Edge & cloud | [Launching External Web Access for Web Search on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/) | AWS What's New · Aug 19 |
 <!-- SIGNALS:END -->
 
 <details>
