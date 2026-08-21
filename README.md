@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [ChatGPT search now uses the site:operator at scale](https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/) | Simon Willison · Aug 20 |
+| AI practice | [Stop Making TUIs](https://simonwillison.net/2026/Aug/21/stop-making-tuis/) | Simon Willison · Aug 21 |
 | AI research | [Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market De...](https://arxiv.org/abs/2608.18078) | arXiv cs.AI · Aug 21 |
-| Systems | [\[$\] A look at the Quickshell desktop-component toolkit](https://lwn.net/Articles/1083090/) | LWN.net · Aug 20 |
-| Architecture | [Presentation: Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine Architecture](https://www.infoq.com/presentations/local-first-sync-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 20 |
+| Systems | [\[$\] Considering the OpenMDW license](https://lwn.net/Articles/1089251/) | LWN.net · Aug 21 |
+| Architecture | [Cloudflare Cuts Astro Github Issues by 85% with AI Agents](https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 21 |
 | Edge & cloud | [AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/) | AWS What's New · Aug 20 |
 <!-- SIGNALS:END -->
 
