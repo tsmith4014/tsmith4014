@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [llm 0.32.1](https://simonwillison.net/2026/Aug/21/llm/) | Simon Willison · Aug 21 |
+| AI practice | [More than just code review](https://simonwillison.net/2026/Aug/22/more-than-just-code-review/) | Simon Willison · Aug 22 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] Considering the OpenMDW license](https://lwn.net/Articles/1089251/) | LWN.net · Aug 21 |
-| Architecture | [Cloudflare Cuts Astro GitHub Issues by 85% with AI Agents](https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 21 |
+| Architecture | [Cloudflare Announces Kitesurf, a Browser Engine for Agents](https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 22 |
 | Edge & cloud | [Say it once: introducing Bot Preference Sync](https://blog.cloudflare.com/bot-preference-sync/) | Cloudflare Blog · Aug 21 |
 <!-- SIGNALS:END -->
 
