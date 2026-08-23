@@ -98,8 +98,8 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting Linus Torvalds](https://simonwillison.net/2026/Aug/22/linus-torvalds/) | Simon Willison · Aug 22 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] Considering the OpenMDW license](https://lwn.net/Articles/1089251/) | LWN.net · Aug 21 |
-| Architecture | [DRAM Controller Register Manipulation Breaks CPU Memory Isolation](https://www.infoq.com/news/2026/08/amd-memory-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 23 |
+| Systems | [Sunday's stable kernel set](https://lwn.net/Articles/1090099/) | LWN.net · Aug 23 |
+| Architecture | [OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure](https://www.infoq.com/news/2026/08/ovhcloud-memory-price-rise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 23 |
 | Edge & cloud | [Say it once: introducing Bot Preference Sync](https://blog.cloudflare.com/bot-preference-sync/) | Cloudflare Blog · Aug 21 |
 <!-- SIGNALS:END -->
 
