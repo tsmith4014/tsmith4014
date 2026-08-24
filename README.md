@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Linus Torvalds](https://simonwillison.net/2026/Aug/22/linus-torvalds/) | Simon Willison · Aug 22 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
+| AI practice | [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/) | Simon Willison · Aug 23 |
+| AI research | [SDAD: Spec-Driven Agentic Development for the AI-Native SDLC](https://arxiv.org/abs/2608.20341) | arXiv cs.AI · Aug 24 |
 | Systems | [Sunday's stable kernel set](https://lwn.net/Articles/1090099/) | LWN.net · Aug 23 |
-| Architecture | [OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure](https://www.infoq.com/news/2026/08/ovhcloud-memory-price-rise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 23 |
+| Architecture | [JDK 27 and JDK 28: What We Know So Far](https://www.infoq.com/news/2026/08/java-27-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 24 |
 | Edge & cloud | [Say it once: introducing Bot Preference Sync](https://blog.cloudflare.com/bot-preference-sync/) | Cloudflare Blog · Aug 21 |
 <!-- SIGNALS:END -->
 
