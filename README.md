@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/) | Simon Willison · Aug 23 |
+| AI practice | [Your executable is a SQLite database](https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/) | Simon Willison · Aug 24 |
 | AI research | [SDAD: Spec-Driven Agentic Development for the AI-Native SDLC](https://arxiv.org/abs/2608.20341) | arXiv cs.AI · Aug 24 |
-| Systems | [Sunday's stable kernel set](https://lwn.net/Articles/1090099/) | LWN.net · Aug 23 |
-| Architecture | [JDK 27 and JDK 28: What We Know So Far](https://www.infoq.com/news/2026/08/java-27-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 24 |
-| Edge & cloud | [Say it once: introducing Bot Preference Sync](https://blog.cloudflare.com/bot-preference-sync/) | Cloudflare Blog · Aug 21 |
+| Systems | [\[$\] How to be safe from quantum computing](https://lwn.net/Articles/1088305/) | LWN.net · Aug 24 |
+| Architecture | [Fragments: August 24](https://martinfowler.com/fragments/2026-08-24.html) | Martin Fowler · Aug 24 |
+| Edge & cloud | [OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/) | AWS What's New · Aug 24 |
 <!-- SIGNALS:END -->
 
 <details>
