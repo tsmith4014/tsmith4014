@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [llm-anthropic 0.27](https://simonwillison.net/2026/Aug/24/llm-anthropic/) | Simon Willison · Aug 24 |
 | AI research | [KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language...](https://arxiv.org/abs/2608.21362) | arXiv cs.AI · Aug 25 |
-| Systems | [\[$\] How to be safe from quantum computing](https://lwn.net/Articles/1088305/) | LWN.net · Aug 24 |
-| Architecture | [Fragments: August 24](https://martinfowler.com/fragments/2026-08-24.html) | Martin Fowler · Aug 24 |
-| Edge & cloud | [Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health) | AWS What's New · Aug 24 |
+| Systems | [\[$\] Old-school calendaring at the command line with Remind](https://lwn.net/Articles/1090376/) | LWN.net · Aug 25 |
+| Architecture | [Java News Roundup: JDK 27-RC1, OpenJDK JEPs, Jakarta EE, BellSoft, Helidon, Micrometer, Tika 4.0](https://www.infoq.com/news/2026/08/java-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 25 |
+| Edge & cloud | [Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is...](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/) | AWS What's New · Aug 25 |
 <!-- SIGNALS:END -->
 
 <details>
