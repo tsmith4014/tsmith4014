@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Your executable is a SQLite database](https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/) | Simon Willison · Aug 24 |
-| AI research | [SDAD: Spec-Driven Agentic Development for the AI-Native SDLC](https://arxiv.org/abs/2608.20341) | arXiv cs.AI · Aug 24 |
+| AI practice | [llm-anthropic 0.27](https://simonwillison.net/2026/Aug/24/llm-anthropic/) | Simon Willison · Aug 24 |
+| AI research | [KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language...](https://arxiv.org/abs/2608.21362) | arXiv cs.AI · Aug 25 |
 | Systems | [\[$\] How to be safe from quantum computing](https://lwn.net/Articles/1088305/) | LWN.net · Aug 24 |
 | Architecture | [Fragments: August 24](https://martinfowler.com/fragments/2026-08-24.html) | Martin Fowler · Aug 24 |
-| Edge & cloud | [OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/) | AWS What's New · Aug 24 |
+| Edge & cloud | [Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health) | AWS What's New · Aug 24 |
 <!-- SIGNALS:END -->
 
 <details>
