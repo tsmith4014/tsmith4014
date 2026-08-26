@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [llm-anthropic 0.27](https://simonwillison.net/2026/Aug/24/llm-anthropic/) | Simon Willison · Aug 24 |
-| AI research | [KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language...](https://arxiv.org/abs/2608.21362) | arXiv cs.AI · Aug 25 |
-| Systems | [\[$\] Old-school calendaring at the command line with Remind](https://lwn.net/Articles/1090376/) | LWN.net · Aug 25 |
+| AI practice | [EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/) | Simon Willison · Aug 25 |
+| AI research | [RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation](https://arxiv.org/abs/2608.23568) | arXiv cs.AI · Aug 26 |
+| Systems | [mklinux-v7.0-mk2 released](https://lwn.net/Articles/1090582/) | LWN.net · Aug 25 |
 | Architecture | [Java News Roundup: JDK 27-RC1, OpenJDK JEPs, Jakarta EE, BellSoft, Helidon, Micrometer, Tika 4.0](https://www.infoq.com/news/2026/08/java-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 25 |
-| Edge & cloud | [Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is...](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/) | AWS What's New · Aug 25 |
+| Edge & cloud | [AWS IoT Core now supports native InfluxDB routing for time-series data](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/) | AWS What's New · Aug 25 |
 <!-- SIGNALS:END -->
 
 <details>
