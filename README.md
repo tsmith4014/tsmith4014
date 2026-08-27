@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Paul Dix](https://simonwillison.net/2026/Aug/26/paul-dix/) | Simon Willison · Aug 26 |
-| AI research | [RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation](https://arxiv.org/abs/2608.23568) | arXiv cs.AI · Aug 26 |
-| Systems | [\[$\] An ongoing 3D-printer AGPL violation](https://lwn.net/Articles/1089390/) | LWN.net · Aug 26 |
-| Architecture | [AWS Introduces Specification Driven Composition for Flexible Data Workflows](https://www.infoq.com/news/2026/08/aws-spec-driven-data-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 26 |
-| Edge & cloud | [Amazon EC2 R8id instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8id/) | AWS What's New · Aug 25 |
+| AI practice | [Qwen3.8-Flash-Next](https://simonwillison.net/2026/Aug/26/qwen38-flash-next/) | Simon Willison · Aug 26 |
+| AI research | [RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation](https://arxiv.org/abs/2608.23568) | arXiv cs.AI · Aug 27 |
+| Systems | [\[$\] Using steal time to moderate CPU demands](https://lwn.net/Articles/1090381/) | LWN.net · Aug 27 |
+| Architecture | [Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch](https://www.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 27 |
+| Edge & cloud | [Amazon Cognito adds admin API operation to reset user TOTP configurations](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset/) | AWS What's New · Aug 26 |
 <!-- SIGNALS:END -->
 
 <details>
