@@ -97,10 +97,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Breaking Claude Code Opus 5 Auto Mode](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/) | Simon Willison · Aug 27 |
-| AI research | [RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation](https://arxiv.org/abs/2608.23568) | arXiv cs.AI · Aug 27 |
-| Systems | [\[$\] Using steal time to moderate CPU demands](https://lwn.net/Articles/1090381/) | LWN.net · Aug 27 |
-| Architecture | [Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch](https://www.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 27 |
-| Edge & cloud | [Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/) | AWS What's New · Aug 27 |
+| AI research | [EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction](https://arxiv.org/abs/2608.26107) | arXiv cs.AI · Aug 28 |
+| Systems | [Eight stable kernels with fix for a single vulnerability](https://lwn.net/Articles/1091118/) | LWN.net · Aug 28 |
+| Architecture | [Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos](https://www.infoq.com/news/2026/08/uber-gitfarm-git-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 28 |
+| Edge & cloud | [Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/) | AWS What's New · Aug 28 |
 <!-- SIGNALS:END -->
 
 <details>
