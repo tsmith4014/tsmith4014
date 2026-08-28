@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Qwen3.8-Flash-Next](https://simonwillison.net/2026/Aug/26/qwen38-flash-next/) | Simon Willison · Aug 26 |
+| AI practice | [Breaking Claude Code Opus 5 Auto Mode](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/) | Simon Willison · Aug 27 |
 | AI research | [RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation](https://arxiv.org/abs/2608.23568) | arXiv cs.AI · Aug 27 |
 | Systems | [\[$\] Using steal time to moderate CPU demands](https://lwn.net/Articles/1090381/) | LWN.net · Aug 27 |
 | Architecture | [Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch](https://www.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 27 |
-| Edge & cloud | [Amazon Cognito adds admin API operation to reset user TOTP configurations](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset/) | AWS What's New · Aug 26 |
+| Edge & cloud | [Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/) | AWS What's New · Aug 27 |
 <!-- SIGNALS:END -->
 
 <details>
