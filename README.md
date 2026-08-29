@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Breaking Claude Code Opus 5 Auto Mode](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/) | Simon Willison · Aug 27 |
+| AI practice | [Just a rumour of a bug is enough to find a security exploit these days](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/) | Simon Willison · Aug 28 |
 | AI research | [EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction](https://arxiv.org/abs/2608.26107) | arXiv cs.AI · Aug 28 |
-| Systems | [Eight stable kernels with fix for a single vulnerability](https://lwn.net/Articles/1091118/) | LWN.net · Aug 28 |
+| Systems | [Car: Dolphin 26.08 and KIO performance improvements](https://lwn.net/Articles/1091177/) | LWN.net · Aug 28 |
 | Architecture | [Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos](https://www.infoq.com/news/2026/08/uber-gitfarm-git-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 28 |
-| Edge & cloud | [Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/) | AWS What's New · Aug 28 |
+| Edge & cloud | [Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/) | AWS What's New · Aug 28 |
 <!-- SIGNALS:END -->
 
 <details>
