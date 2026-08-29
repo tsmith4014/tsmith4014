@@ -97,9 +97,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Just a rumour of a bug is enough to find a security exploit these days](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/) | Simon Willison · Aug 28 |
-| AI research | [EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction](https://arxiv.org/abs/2608.26107) | arXiv cs.AI · Aug 28 |
-| Systems | [Car: Dolphin 26.08 and KIO performance improvements](https://lwn.net/Articles/1091177/) | LWN.net · Aug 28 |
-| Architecture | [Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos](https://www.infoq.com/news/2026/08/uber-gitfarm-git-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 28 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
+| Systems | [Ryabitsev: Creepy crawlies](https://lwn.net/Articles/1091203/) | LWN.net · Aug 29 |
+| Architecture | [Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models](https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 29 |
 | Edge & cloud | [Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/) | AWS What's New · Aug 28 |
 <!-- SIGNALS:END -->
 
