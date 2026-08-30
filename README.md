@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Just a rumour of a bug is enough to find a security exploit these days](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/) | Simon Willison · Aug 28 |
+| AI practice | [Introducing Hy4 Preview](https://simonwillison.net/2026/Aug/29/hy4/) | Simon Willison · Aug 29 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/) | LWN.net · Aug 29 |
-| Architecture | [Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models](https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 29 |
+| Architecture | [AWS Open Sources Kiro Crew for Asynchronous Coding Agents](https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 30 |
 | Edge & cloud | [Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/) | AWS What's New · Aug 28 |
 <!-- SIGNALS:END -->
 
