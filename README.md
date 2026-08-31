@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) | Simon Willison · Aug 30 |
 | AI research | [Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model](https://arxiv.org/abs/2608.27459) | arXiv cs.AI · Aug 31 |
-| Systems | [Kernel prepatch 7.3-rc1](https://lwn.net/Articles/1091421/) | LWN.net · Aug 30 |
-| Architecture | [Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation](https://www.infoq.com/articles/gcp-wif-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 31 |
-| Edge & cloud | [Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/) | AWS What's New · Aug 28 |
+| Systems | [OpenShot 4.0 released](https://lwn.net/Articles/1091606/) | LWN.net · Aug 31 |
+| Architecture | [DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents](https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 31 |
+| Edge & cloud | [Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/) | AWS What's New · Aug 31 |
 <!-- SIGNALS:END -->
 
 <details>
