@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Introducing wrapture](https://simonwillison.net/2026/Aug/31/introducing-wrapture/) | Simon Willison · Aug 31 |
+| AI practice | [Codex bundles LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) | Simon Willison · Sep 1 |
 | AI research | [Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model](https://arxiv.org/abs/2608.27459) | arXiv cs.AI · Sep 1 |
-| Systems | [OpenShot 4.0 released](https://lwn.net/Articles/1091606/) | LWN.net · Aug 31 |
-| Architecture | [DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents](https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Aug 31 |
-| Edge & cloud | [Amazon DocumentDB now supports direct major version upgrades to version 8.0](https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/) | AWS What's New · Aug 31 |
+| Systems | [A note from LWN](https://lwn.net/Articles/1090585/) | LWN.net · Sep 1 |
+| Architecture | [OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents](https://www.infoq.com/news/2026/09/openclaw-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 1 |
+| Edge & cloud | [Amazon Connect Customer dashboards now support compact mode](https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/) | AWS What's New · Sep 1 |
 <!-- SIGNALS:END -->
 
 <details>
