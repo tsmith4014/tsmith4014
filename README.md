@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/) | Simon Willison · Sep 2 |
+| AI practice | [llm-gemini 0.34](https://simonwillison.net/2026/Sep/2/llm-gemini/) | Simon Willison · Sep 2 |
 | AI research | [HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models](https://arxiv.org/abs/2609.00002) | arXiv cs.AI · Sep 2 |
-| Systems | [A note from LWN](https://lwn.net/Articles/1090585/) | LWN.net · Sep 1 |
-| Architecture | [Fragments: September 1](https://martinfowler.com/fragments/2026-09-01.html) | Martin Fowler · Sep 1 |
-| Edge & cloud | [Amazon Quick now lets you build custom apps with natural language -](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/) | AWS What's New · Sep 1 |
+| Systems | [\[$\] Securely suspending LUKS-encrypted disks](https://lwn.net/Articles/1090568/) | LWN.net · Sep 2 |
+| Architecture | [An Accidental Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html) | Martin Fowler · Sep 2 |
+| Edge & cloud | [Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/) | AWS What's New · Sep 2 |
 <!-- SIGNALS:END -->
 
 <details>
