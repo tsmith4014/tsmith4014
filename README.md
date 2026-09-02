@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Codex bundles LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) | Simon Willison · Sep 1 |
-| AI research | [Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model](https://arxiv.org/abs/2608.27459) | arXiv cs.AI · Sep 1 |
+| AI practice | [Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/) | Simon Willison · Sep 2 |
+| AI research | [HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models](https://arxiv.org/abs/2609.00002) | arXiv cs.AI · Sep 2 |
 | Systems | [A note from LWN](https://lwn.net/Articles/1090585/) | LWN.net · Sep 1 |
-| Architecture | [OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents](https://www.infoq.com/news/2026/09/openclaw-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 1 |
-| Edge & cloud | [Amazon Connect Customer dashboards now support compact mode](https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/) | AWS What's New · Sep 1 |
+| Architecture | [Fragments: September 1](https://martinfowler.com/fragments/2026-09-01.html) | Martin Fowler · Sep 1 |
+| Edge & cloud | [Amazon Quick now lets you build custom apps with natural language -](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/) | AWS What's New · Sep 1 |
 <!-- SIGNALS:END -->
 
 <details>
