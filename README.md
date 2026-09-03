@@ -97,9 +97,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [llm-gemini 0.34](https://simonwillison.net/2026/Sep/2/llm-gemini/) | Simon Willison · Sep 2 |
-| AI research | [HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models](https://arxiv.org/abs/2609.00002) | arXiv cs.AI · Sep 2 |
-| Systems | [\[$\] Securely suspending LUKS-encrypted disks](https://lwn.net/Articles/1090568/) | LWN.net · Sep 2 |
-| Architecture | [An Accidental Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html) | Martin Fowler · Sep 2 |
+| AI research | [EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models](https://arxiv.org/abs/2609.01611) | arXiv cs.AI · Sep 3 |
+| Systems | [\[$\] LWN.net Weekly Edition for September 3, 2026](https://lwn.net/Articles/1090824/) | LWN.net · Sep 3 |
+| Architecture | [Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction From Complex Documents](https://www.infoq.com/news/2026/09/cohere-multimodal-parse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 3 |
 | Edge & cloud | [Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/) | AWS What's New · Sep 2 |
 <!-- SIGNALS:END -->
 
