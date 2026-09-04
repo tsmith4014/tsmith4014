@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [llm-gemini 0.34](https://simonwillison.net/2026/Sep/2/llm-gemini/) | Simon Willison · Sep 2 |
-| AI research | [EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models](https://arxiv.org/abs/2609.01611) | arXiv cs.AI · Sep 3 |
+| AI practice | [August newsletter is out](https://simonwillison.net/2026/Sep/4/august-newsletter/) | Simon Willison · Sep 4 |
+| AI research | [Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence](https://arxiv.org/abs/2609.02981) | arXiv cs.AI · Sep 4 |
 | Systems | [\[$\] Recent work in memory tiering](https://lwn.net/Articles/1092001/) | LWN.net · Sep 3 |
-| Architecture | [Rigorous Yet Sustainable Human Reviews in the AI Era](https://www.infoq.com/news/2026/09/human-reviews-AI-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 3 |
-| Edge & cloud | [Amazon CloudFront announces API support for flat-rate pricing plans](https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/) | AWS What's New · Sep 3 |
+| Architecture | [Podcast: Personality Over Skillset: How Adam Wachtel Builds Engineering Teams](https://www.infoq.com/podcasts/personality-over-skillset/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 4 |
+| Edge & cloud | [Amazon ECS Managed Daemons now support non-critical daemons](https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/) | AWS What's New · Sep 3 |
 <!-- SIGNALS:END -->
 
 <details>
