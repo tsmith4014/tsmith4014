@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) | Simon Willison · Sep 4 |
-| AI research | [Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence](https://arxiv.org/abs/2609.02981) | arXiv cs.AI · Sep 4 |
+| AI practice | [The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/) | Simon Willison · Sep 4 |
+| AI research | [Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence](https://arxiv.org/abs/2609.02981) | arXiv cs.AI · Sep 5 |
 | Systems | [\[$\] Deterministic testing for multithreaded Python](https://lwn.net/Articles/1090579/) | LWN.net · Sep 4 |
-| Architecture | [Airbnb Cuts Authentication Code by 60% with Server Driven Architecture](https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 4 |
-| Edge & cloud | [AWS MCP Server adds a serverless capability for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/) | AWS What's New · Sep 4 |
+| Architecture | [Blume: Zero-Config Docs Framework That Turns a Markdown Folder into an AI-Ready Website](https://www.infoq.com/news/2026/09/blume-docs-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 5 |
+| Edge & cloud | [Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluenc...](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/) | AWS What's New · Sep 4 |
 <!-- SIGNALS:END -->
 
 <details>
