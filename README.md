@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Using Blender with coding agents on macOS](https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/) | Simon Willison · Sep 5 |
-| AI research | [Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence](https://arxiv.org/abs/2609.02981) | arXiv cs.AI · Sep 5 |
+| AI practice | [Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/) | Simon Willison · Sep 6 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] Deterministic testing for multithreaded Python](https://lwn.net/Articles/1090579/) | LWN.net · Sep 4 |
-| Architecture | [Presentation: A Few Predicted Talks From QConAI 2030](https://www.infoq.com/presentations/ai-predictions-2030/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 5 |
+| Architecture | [How Figma Uses AI Agents for Security](https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 6 |
 | Edge & cloud | [Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluenc...](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/) | AWS What's New · Sep 4 |
 <!-- SIGNALS:END -->
 
