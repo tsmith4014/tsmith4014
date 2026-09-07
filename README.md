@@ -98,8 +98,8 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Research acceleration: The view inside OpenAI](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) | Simon Willison · Sep 6 |
 | AI research | [EXAONE Forecast for Finance](https://arxiv.org/abs/2609.04239) | arXiv cs.AI · Sep 7 |
-| Systems | [Kernel prepatch 7.3-rc2](https://lwn.net/Articles/1092757/) | LWN.net · Sep 7 |
-| Architecture | [CERN Renounces RHEL in Favor of Debian for Its Accelerator Controls Infrastructure](https://www.infoq.com/news/2026/09/cern-debian-infra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 7 |
+| Systems | [\[$\] CERN's migration path from CentOS Linux to Debian](https://lwn.net/Articles/1092512/) | LWN.net · Sep 7 |
+| Architecture | [Netflix Moves Toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs](https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 7 |
 | Edge & cloud | [Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluenc...](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/) | AWS What's New · Sep 4 |
 <!-- SIGNALS:END -->
 
