@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [llm 0.35](https://simonwillison.net/2026/Sep/7/llm/) | Simon Willison · Sep 7 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] CERN's migration path from CentOS Linux to Debian](https://lwn.net/Articles/1092512/) | LWN.net · Sep 7 |
-| Architecture | [Presentation: A Solopreneur's Journey: From Engineer to Puzzle Master and Storyteller](https://www.infoq.com/presentations/solopreneur-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 8 |
-| Edge & cloud | [Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluenc...](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/) | AWS What's New · Sep 4 |
+| Systems | [\[$\] Stabilizing Rust's never type](https://lwn.net/Articles/1091015/) | LWN.net · Sep 8 |
+| Architecture | [Fragments: September 8](https://martinfowler.com/fragments/2026-09-08.html) | Martin Fowler · Sep 8 |
+| Edge & cloud | [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, an...](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mariadb-community-versions/) | AWS What's New · Sep 8 |
 <!-- SIGNALS:END -->
 
 <details>
