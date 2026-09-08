@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Research acceleration: The view inside OpenAI](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) | Simon Willison · Sep 6 |
-| AI research | [EXAONE Forecast for Finance](https://arxiv.org/abs/2609.04239) | arXiv cs.AI · Sep 7 |
+| AI practice | [llm 0.35](https://simonwillison.net/2026/Sep/7/llm/) | Simon Willison · Sep 7 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] CERN's migration path from CentOS Linux to Debian](https://lwn.net/Articles/1092512/) | LWN.net · Sep 7 |
-| Architecture | [Netflix Moves Toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs](https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 7 |
+| Architecture | [Presentation: A Solopreneur's Journey: From Engineer to Puzzle Master and Storyteller](https://www.infoq.com/presentations/solopreneur-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 8 |
 | Edge & cloud | [Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluenc...](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/) | AWS What's New · Sep 4 |
 <!-- SIGNALS:END -->
 
