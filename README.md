@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/) | Simon Willison · Sep 9 |
 | AI research | [Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models](https://arxiv.org/abs/2609.05437) | arXiv cs.AI · Sep 9 |
-| Systems | [\[$\] Stabilizing Rust's never type](https://lwn.net/Articles/1091015/) | LWN.net · Sep 8 |
-| Architecture | [Azure Virtual Desktop Hybrid Reaches GA with Licensing Details Unpublished](https://www.infoq.com/news/2026/09/avd-hybrid-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 9 |
-| Edge & cloud | [OpenAI GPT-6 Astra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/) | AWS What's New · Sep 8 |
+| Systems | [A decade of Rustls](https://lwn.net/Articles/1093391/) | LWN.net · Sep 9 |
+| Architecture | [Meta's Recipe for Building Agents as "Organizational Second Brains"](https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 9 |
+| Edge & cloud | [AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/) | AWS What's New · Sep 9 |
 <!-- SIGNALS:END -->
 
 <details>
