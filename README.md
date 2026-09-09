@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [llm 0.35](https://simonwillison.net/2026/Sep/7/llm/) | Simon Willison · Sep 7 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
+| AI practice | [Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/) | Simon Willison · Sep 9 |
+| AI research | [Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models](https://arxiv.org/abs/2609.05437) | arXiv cs.AI · Sep 9 |
 | Systems | [\[$\] Stabilizing Rust's never type](https://lwn.net/Articles/1091015/) | LWN.net · Sep 8 |
-| Architecture | [Fragments: September 8](https://martinfowler.com/fragments/2026-09-08.html) | Martin Fowler · Sep 8 |
-| Edge & cloud | [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, an...](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mariadb-community-versions/) | AWS What's New · Sep 8 |
+| Architecture | [Azure Virtual Desktop Hybrid Reaches GA with Licensing Details Unpublished](https://www.infoq.com/news/2026/09/avd-hybrid-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 9 |
+| Edge & cloud | [OpenAI GPT-6 Astra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/) | AWS What's New · Sep 8 |
 <!-- SIGNALS:END -->
 
 <details>
