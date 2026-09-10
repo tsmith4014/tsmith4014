@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting Calif Research](https://simonwillison.net/2026/Sep/10/calif-research/) | Simon Willison · Sep 10 |
 | AI research | [OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows](https://arxiv.org/abs/2609.09203) | arXiv cs.AI · Sep 10 |
-| Systems | [\[$\] LWN.net Weekly Edition for September 10, 2026](https://lwn.net/Articles/1092273/) | LWN.net · Sep 10 |
-| Architecture | [Article: When Spec-Driven Development Pays Off](https://www.infoq.com/articles/when-spec-driven-development-pays-off/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 10 |
-| Edge & cloud | [Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/) | AWS What's New · Sep 9 |
+| Systems | [\[$\] PostgreSQL 19's "scary patch contest"](https://lwn.net/Articles/1092003/) | LWN.net · Sep 10 |
+| Architecture | [OpenAI Releases GPT-6 Astra for Coding and Computer Use](https://www.infoq.com/news/2026/09/openai-gpt6-astra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 10 |
+| Edge & cloud | [Amazon MQ now supports RabbitMQ 4.3](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/) | AWS What's New · Sep 10 |
 <!-- SIGNALS:END -->
 
 <details>
