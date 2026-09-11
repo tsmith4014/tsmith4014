@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Calif Research](https://simonwillison.net/2026/Sep/10/calif-research/) | Simon Willison · Sep 10 |
-| AI research | [OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows](https://arxiv.org/abs/2609.09203) | arXiv cs.AI · Sep 10 |
-| Systems | [\[$\] PostgreSQL 19's "scary patch contest"](https://lwn.net/Articles/1092003/) | LWN.net · Sep 10 |
-| Architecture | [OpenAI Releases GPT-6 Astra for Coding and Computer Use](https://www.infoq.com/news/2026/09/openai-gpt6-astra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 10 |
-| Edge & cloud | [Amazon MQ now supports RabbitMQ 4.3](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/) | AWS What's New · Sep 10 |
+| AI practice | [Datasette 1.0a39 and 0.65.4 security releases](https://simonwillison.net/2026/Sep/11/datasette-security/) | Simon Willison · Sep 11 |
+| AI research | [OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows](https://arxiv.org/abs/2609.09203) | arXiv cs.AI · Sep 11 |
+| Systems | [Forgejo 16.0.4 and 15.0.8 address critical security vulnerability](https://lwn.net/Articles/1093671/) | LWN.net · Sep 10 |
+| Architecture | [Session Traces and Cost Controls Help Diagnose AI Agent Failures](https://www.infoq.com/news/2026/09/observability-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 11 |
+| Edge & cloud | [AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud) | AWS What's New · Sep 10 |
 <!-- SIGNALS:END -->
 
 <details>
