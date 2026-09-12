@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Boris Cherny](https://simonwillison.net/2026/Sep/11/boris-cherny/) | Simon Willison · Sep 11 |
-| AI research | [OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows](https://arxiv.org/abs/2609.09203) | arXiv cs.AI · Sep 11 |
+| AI practice | [OpenAI agents attacked RubyGems back in May](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/) | Simon Willison · Sep 12 |
+| AI research | [Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement](https://arxiv.org/abs/2609.10584) | arXiv cs.AI · Sep 12 |
 | Systems | [EuroPython 2026 videos published](https://lwn.net/Articles/1093825/) | LWN.net · Sep 11 |
-| Architecture | [NVIDIA Personal AI Router Distributes AI Tasks Across Local Compute](https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 11 |
-| Edge & cloud | [Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts](https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/) | AWS What's New · Sep 11 |
+| Architecture | [One Decade of Rustls: Evolution, Benchmarks, and Future Roadmap](https://www.infoq.com/news/2026/09/rustls-one-decade/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 12 |
+| Edge & cloud | [Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/) | AWS What's New · Sep 11 |
 <!-- SIGNALS:END -->
 
 <details>
