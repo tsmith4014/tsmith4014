@@ -99,7 +99,7 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | AI practice | [Generating running routes with GPT-6 Astra and ChatGPT Work](https://simonwillison.net/2026/Sep/12/astra-running-routes/) | Simon Willison · Sep 12 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [EuroPython 2026 videos published](https://lwn.net/Articles/1093825/) | LWN.net · Sep 11 |
-| Architecture | [GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing](https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 13 |
+| Architecture | [Cloudflare Tests Cache Transcoding to Reduce Storage Requirements](https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 13 |
 | Edge & cloud | [AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/) | AWS What's New · Sep 12 |
 <!-- SIGNALS:END -->
 
