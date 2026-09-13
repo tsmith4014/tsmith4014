@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Paul Ford](https://simonwillison.net/2026/Sep/12/paul-ford/) | Simon Willison · Sep 12 |
-| AI research | [Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement](https://arxiv.org/abs/2609.10584) | arXiv cs.AI · Sep 12 |
+| AI practice | [Generating running routes with GPT-6 Astra and ChatGPT Work](https://simonwillison.net/2026/Sep/12/astra-running-routes/) | Simon Willison · Sep 12 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [EuroPython 2026 videos published](https://lwn.net/Articles/1093825/) | LWN.net · Sep 11 |
-| Architecture | [Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon](https://www.infoq.com/news/2026/09/ios-27-virtualization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 12 |
-| Edge & cloud | [Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/) | AWS What's New · Sep 11 |
+| Architecture | [GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing](https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 13 |
+| Edge & cloud | [AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/) | AWS What's New · Sep 12 |
 <!-- SIGNALS:END -->
 
 <details>
