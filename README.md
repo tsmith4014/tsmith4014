@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Generating running routes with GPT-6 Astra and ChatGPT Work](https://simonwillison.net/2026/Sep/12/astra-running-routes/) | Simon Willison · Sep 12 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [EuroPython 2026 videos published](https://lwn.net/Articles/1093825/) | LWN.net · Sep 11 |
-| Architecture | [Cloudflare Tests Cache Transcoding to Reduce Storage Requirements](https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 13 |
+| AI practice | [commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/) | Simon Willison · Sep 14 |
+| AI research | [Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work](https://arxiv.org/abs/2609.11977) | arXiv cs.AI · Sep 14 |
+| Systems | [Reminder: subscription price change coming](https://lwn.net/Articles/1093929/) | LWN.net · Sep 13 |
+| Architecture | [Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved](https://www.infoq.com/news/2026/09/metr-hugging-face-hack-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 14 |
 | Edge & cloud | [AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/) | AWS What's New · Sep 12 |
 <!-- SIGNALS:END -->
 
