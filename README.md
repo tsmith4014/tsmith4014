@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/) | Simon Willison · Sep 14 |
+| AI practice | [What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/) | Simon Willison · Sep 14 |
 | AI research | [Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work](https://arxiv.org/abs/2609.11977) | arXiv cs.AI · Sep 14 |
-| Systems | [Reminder: subscription price change coming](https://lwn.net/Articles/1093929/) | LWN.net · Sep 13 |
-| Architecture | [Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved](https://www.infoq.com/news/2026/09/metr-hugging-face-hack-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 14 |
-| Edge & cloud | [AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/) | AWS What's New · Sep 12 |
+| Systems | [GNU Core Utilities 9.12 released](https://lwn.net/Articles/1094312/) | LWN.net · Sep 14 |
+| Architecture | [Java News Roundup: New OpenJDK JEPs, CDI 5.0, Spring, Open Liberty, RefactorFirst, ADK for Kotlin](https://www.infoq.com/news/2026/09/java-news-roundup-sep07-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 14 |
+| Edge & cloud | [Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/) | AWS What's New · Sep 14 |
 <!-- SIGNALS:END -->
 
 <details>
