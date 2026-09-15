@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) | Simon Willison · Sep 14 |
 | AI research | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://arxiv.org/abs/2609.13356) | arXiv cs.AI · Sep 15 |
-| Systems | [GNU Core Utilities 9.12 released](https://lwn.net/Articles/1094312/) | LWN.net · Sep 14 |
-| Architecture | [Presentation: Lead Without a Ladder: How I Climbed Into Engineering Leadership](https://www.infoq.com/presentations/engineering-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 15 |
-| Edge & cloud | [Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/) | AWS What's New · Sep 14 |
+| Systems | [\[$\] Adding BPF to blk-iocost](https://lwn.net/Articles/1093661/) | LWN.net · Sep 15 |
+| Architecture | [AI-Assisted Discovery Helps Microsoft Patch More Than 1,000 Vulnerabilities in a Month](https://www.infoq.com/news/2026/09/microsoft-ai-security-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 15 |
+| Edge & cloud | [Amazon SageMaker AI now supports instance preference lists for training and processing jobs](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/) | AWS What's New · Sep 15 |
 <!-- SIGNALS:END -->
 
 <details>
