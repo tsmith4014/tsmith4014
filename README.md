@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) | Simon Willison · Sep 14 |
-| AI research | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://arxiv.org/abs/2609.13356) | arXiv cs.AI · Sep 15 |
+| AI practice | [Gemini Live audio](https://simonwillison.net/2026/Sep/15/gemini-live/) | Simon Willison · Sep 15 |
+| AI research | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://arxiv.org/abs/2609.13356) | arXiv cs.AI · Sep 16 |
 | Systems | [\[$\] Adding BPF to blk-iocost](https://lwn.net/Articles/1093661/) | LWN.net · Sep 15 |
-| Architecture | [AI-Assisted Discovery Helps Microsoft Patch More Than 1,000 Vulnerabilities in a Month](https://www.infoq.com/news/2026/09/microsoft-ai-security-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 15 |
-| Edge & cloud | [Amazon SageMaker AI now supports instance preference lists for training and processing jobs](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/) | AWS What's New · Sep 15 |
+| Architecture | [Dropbox Outlines How Focusing on Existing Infrastructure Efficiency Can Create Headroom for AI](https://www.infoq.com/news/2026/09/dropbox-datacenter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 16 |
+| Edge & cloud | [Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies w...](https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards) | AWS What's New · Sep 15 |
 <!-- SIGNALS:END -->
 
 <details>
