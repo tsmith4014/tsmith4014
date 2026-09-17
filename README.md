@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) | Simon Willison · Sep 16 |
-| AI research | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://arxiv.org/abs/2609.13356) | arXiv cs.AI · Sep 16 |
-| Systems | [Fedora 45 beta drags the Linux console into the 21st century (Register)](https://lwn.net/Articles/1094762/) | LWN.net · Sep 16 |
-| Architecture | [Microsoft Open-Sources TauGrid to Simplify AI Workload Management on Kubernetes](https://www.infoq.com/news/2026/09/microsoft-taugrid-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 16 |
-| Edge & cloud | [AWS Client VPN is now supporting MacOS 27 Golden Gate](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/) | AWS What's New · Sep 16 |
+| AI practice | [datasette 1.0a40](https://simonwillison.net/2026/Sep/16/datasette/) | Simon Willison · Sep 16 |
+| AI research | [Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable...](https://arxiv.org/abs/2609.17631) | arXiv cs.AI · Sep 17 |
+| Systems | [\[$\] LWN.net Weekly Edition for September 17, 2026](https://lwn.net/Articles/1093434/) | LWN.net · Sep 17 |
+| Architecture | [Presentation: When Incidents Refuse to End](https://www.infoq.com/presentations/stream-incidents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 17 |
+| Edge & cloud | [Amazon Corretto 27 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/) | AWS What's New · Sep 17 |
 <!-- SIGNALS:END -->
 
 <details>
