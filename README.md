@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [datasette 1.0a40](https://simonwillison.net/2026/Sep/16/datasette/) | Simon Willison · Sep 16 |
 | AI research | [Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable...](https://arxiv.org/abs/2609.17631) | arXiv cs.AI · Sep 17 |
-| Systems | [\[$\] LWN.net Weekly Edition for September 17, 2026](https://lwn.net/Articles/1093434/) | LWN.net · Sep 17 |
-| Architecture | [Presentation: When Incidents Refuse to End](https://www.infoq.com/presentations/stream-incidents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 17 |
-| Edge & cloud | [Amazon Corretto 27 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/) | AWS What's New · Sep 17 |
+| Systems | [\[$\] Thread-identity switcheroo for io_uring](https://lwn.net/Articles/1094303/) | LWN.net · Sep 17 |
+| Architecture | [I don't like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html) | Martin Fowler · Sep 17 |
+| Edge & cloud | [AWS HealthOmics now supports IAM session policies](https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/) | AWS What's New · Sep 17 |
 <!-- SIGNALS:END -->
 
 <details>
