@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [datasette 1.0a40](https://simonwillison.net/2026/Sep/16/datasette/) | Simon Willison · Sep 16 |
-| AI research | [Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable...](https://arxiv.org/abs/2609.17631) | arXiv cs.AI · Sep 17 |
+| AI practice | [Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/) | Simon Willison · Sep 17 |
+| AI research | [Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes](https://arxiv.org/abs/2609.19170) | arXiv cs.AI · Sep 18 |
 | Systems | [\[$\] Thread-identity switcheroo for io_uring](https://lwn.net/Articles/1094303/) | LWN.net · Sep 17 |
-| Architecture | [I don't like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html) | Martin Fowler · Sep 17 |
-| Edge & cloud | [AWS HealthOmics now supports IAM session policies](https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/) | AWS What's New · Sep 17 |
+| Architecture | [Podcast: Signals and Levers: Building Thriving Engineering Organizations](https://www.infoq.com/podcasts/building-thriving-engineering-organizations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 18 |
+| Edge & cloud | [AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)](https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/) | AWS What's New · Sep 17 |
 <!-- SIGNALS:END -->
 
 <details>
