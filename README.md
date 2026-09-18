@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/) | Simon Willison · Sep 17 |
+| AI practice | [Note on 18th September 2026](https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/) | Simon Willison · Sep 18 |
 | AI research | [Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes](https://arxiv.org/abs/2609.19170) | arXiv cs.AI · Sep 18 |
-| Systems | [\[$\] Thread-identity switcheroo for io_uring](https://lwn.net/Articles/1094303/) | LWN.net · Sep 17 |
-| Architecture | [Podcast: Signals and Levers: Building Thriving Engineering Organizations](https://www.infoq.com/podcasts/building-thriving-engineering-organizations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 18 |
-| Edge & cloud | [AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)](https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/) | AWS What's New · Sep 17 |
+| Systems | [\[$\] Looking forward to Git 2.56 — and 3.0](https://lwn.net/Articles/1094575/) | LWN.net · Sep 18 |
+| Architecture | [MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability](https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 18 |
+| Edge & cloud | [Amazon ECS Express Mode now supports AWS Graviton (ARM64) workloads](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/) | AWS What's New · Sep 18 |
 <!-- SIGNALS:END -->
 
 <details>
