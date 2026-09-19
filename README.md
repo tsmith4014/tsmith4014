@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Note on 18th September 2026](https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/) | Simon Willison · Sep 18 |
-| AI research | [Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes](https://arxiv.org/abs/2609.19170) | arXiv cs.AI · Sep 18 |
+| AI practice | [Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/) | Simon Willison · Sep 18 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] Looking forward to Git 2.56 — and 3.0](https://lwn.net/Articles/1094575/) | LWN.net · Sep 18 |
-| Architecture | [MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability](https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 18 |
-| Edge & cloud | [Amazon ECS Express Mode now supports AWS Graviton (ARM64) workloads](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/) | AWS What's New · Sep 18 |
+| Architecture | [SolidStart 2: Replaces Vinxi with a Vite 8 and Enters Maintenance as Its Role Winds Down](https://www.infoq.com/news/2026/09/solid-start-v2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 19 |
+| Edge & cloud | [AWS Continuum now supports credential testing and accessible domain suggestions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/) | AWS What's New · Sep 18 |
 <!-- SIGNALS:END -->
 
 <details>
