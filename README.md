@@ -99,7 +99,7 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | AI practice | [datasette-auth-github 1.0](https://simonwillison.net/2026/Sep/19/datasette-auth-github/) | Simon Willison · Sep 19 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] Looking forward to Git 2.56 — and 3.0](https://lwn.net/Articles/1094575/) | LWN.net · Sep 18 |
-| Architecture | [Cloudflare Measures Origin TLS Preferences, Cutting Handshake Retries from 52% to 3.7%](https://www.infoq.com/news/2026/09/cloudflare-automatic-key-exchang/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 20 |
+| Architecture | [Alibaba Open Sources OpenCodeReview for AI-Assisted Code Review](https://www.infoq.com/news/2026/09/alibaba-opencodereview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 20 |
 | Edge & cloud | [AWS Continuum now supports credential testing and accessible domain suggestions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/) | AWS What's New · Sep 18 |
 <!-- SIGNALS:END -->
 
