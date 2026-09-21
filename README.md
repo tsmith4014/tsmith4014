@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/) | Simon Willison · Sep 20 |
 | AI research | [RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971) | arXiv cs.AI · Sep 21 |
-| Systems | [Kernel prepatch 7.3-rc4](https://lwn.net/Articles/1095491/) | LWN.net · Sep 20 |
-| Architecture | [AWS Cannot Restore Data Held Only in Damaged Middle East Availability Zones](https://www.infoq.com/news/2026/09/aws-middle-east-data-loss/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 21 |
-| Edge & cloud | [Amazon EC2 X8i instances are now available in the South America (São Paulo) Region](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/) | AWS What's New · Sep 18 |
+| Systems | [Igalia celebrates "Twenty-Five Years Upstream"](https://lwn.net/Articles/1095723/) | LWN.net · Sep 21 |
+| Architecture | [Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja](https://www.infoq.com/news/2026/09/java-news-roundup-sep14-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 21 |
+| Edge & cloud | [Python Workers are now generally available](https://blog.cloudflare.com/python-workers-ga/) | Cloudflare Blog · Sep 21 |
 <!-- SIGNALS:END -->
 
 <details>
