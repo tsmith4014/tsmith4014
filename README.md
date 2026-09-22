@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Jev introduces a new shape of LLM - System One, aka Decision Models](https://simonwillison.net/2026/Sep/21/jev/) | Simon Willison · Sep 21 |
+| AI practice | [Quoting @therealcornpop](https://simonwillison.net/2026/Sep/22/therealcornpop/) | Simon Willison · Sep 22 |
 | AI research | [RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971) | arXiv cs.AI · Sep 22 |
-| Systems | [Igalia celebrates "Twenty-Five Years Upstream"](https://lwn.net/Articles/1095723/) | LWN.net · Sep 21 |
-| Architecture | [Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering](https://www.infoq.com/presentations/lessons-startup-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 22 |
-| Edge & cloud | [Amazon ECS now provides real-time deployment observability in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability/) | AWS What's New · Sep 21 |
+| Systems | [\[$\] Compiling the kernel with gccrs](https://lwn.net/Articles/1095553/) | LWN.net · Sep 22 |
+| Architecture | [Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents](https://www.infoq.com/news/2026/09/google-ax-orchestrator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 22 |
+| Edge & cloud | [OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/) | AWS What's New · Sep 22 |
 <!-- SIGNALS:END -->
 
 <details>
