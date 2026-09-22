@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/) | Simon Willison · Sep 20 |
-| AI research | [RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971) | arXiv cs.AI · Sep 21 |
+| AI practice | [Jev introduces a new shape of LLM - System One, aka Decision Models](https://simonwillison.net/2026/Sep/21/jev/) | Simon Willison · Sep 21 |
+| AI research | [RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971) | arXiv cs.AI · Sep 22 |
 | Systems | [Igalia celebrates "Twenty-Five Years Upstream"](https://lwn.net/Articles/1095723/) | LWN.net · Sep 21 |
-| Architecture | [Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja](https://www.infoq.com/news/2026/09/java-news-roundup-sep14-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 21 |
-| Edge & cloud | [Python Workers are now generally available](https://blog.cloudflare.com/python-workers-ga/) | Cloudflare Blog · Sep 21 |
+| Architecture | [Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering](https://www.infoq.com/presentations/lessons-startup-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 22 |
+| Edge & cloud | [Amazon ECS now provides real-time deployment observability in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability/) | AWS What's New · Sep 21 |
 <!-- SIGNALS:END -->
 
 <details>
