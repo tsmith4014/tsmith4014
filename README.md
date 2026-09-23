@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting @therealcornpop](https://simonwillison.net/2026/Sep/22/therealcornpop/) | Simon Willison · Sep 22 |
-| AI research | [RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971) | arXiv cs.AI · Sep 22 |
+| AI practice | [SF October 14th: A Birds of a Feather Session on Agentic Engineering](https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/) | Simon Willison · Sep 23 |
+| AI research | [Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats...](https://arxiv.org/abs/2609.25010) | arXiv cs.AI · Sep 23 |
 | Systems | [\[$\] Compiling the kernel with gccrs](https://lwn.net/Articles/1095553/) | LWN.net · Sep 22 |
-| Architecture | [Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents](https://www.infoq.com/news/2026/09/google-ax-orchestrator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 22 |
-| Edge & cloud | [OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/) | AWS What's New · Sep 22 |
+| Architecture | [Article: Modular Edge Computing at Multi-Tenant SaaS Scale on Cloudflare Workers](https://www.infoq.com/articles/modular-edge-computing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 23 |
+| Edge & cloud | [Amazon CloudWatch Omni: AI-first observability for agents and applications](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/) | AWS What's New · Sep 23 |
 <!-- SIGNALS:END -->
 
 <details>
