@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Shadow roots, explained with live examples](https://simonwillison.net/2026/Sep/23/shadow-roots/) | Simon Willison · Sep 23 |
-| AI research | [Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats...](https://arxiv.org/abs/2609.25010) | arXiv cs.AI · Sep 23 |
-| Systems | [\[$\] Ideas on modernizing the open-source desktop](https://lwn.net/Articles/1095425/) | LWN.net · Sep 23 |
-| Architecture | [Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering](https://www.infoq.com/news/2026/09/graphify-codebase-exploration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 23 |
-| Edge & cloud | [Amazon CloudWatch Omni: AI-first observability for agents and applications](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/) | AWS What's New · Sep 23 |
+| AI practice | [Gemini 3.8 TTS Playground](https://simonwillison.net/2026/Sep/23/gemini-tts-playground/) | Simon Willison · Sep 23 |
+| AI research | [Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats...](https://arxiv.org/abs/2609.25010) | arXiv cs.AI · Sep 24 |
+| Systems | [\[$\] LWN.net Weekly Edition for September 24, 2026](https://lwn.net/Articles/1094840/) | LWN.net · Sep 24 |
+| Architecture | [Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends](https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 24 |
+| Edge & cloud | [Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion](https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys) | AWS What's New · Sep 23 |
 <!-- SIGNALS:END -->
 
 <details>
