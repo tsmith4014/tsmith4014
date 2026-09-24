@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Gemini 3.8 TTS Playground](https://simonwillison.net/2026/Sep/23/gemini-tts-playground/) | Simon Willison · Sep 23 |
 | AI research | [Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats...](https://arxiv.org/abs/2609.25010) | arXiv cs.AI · Sep 24 |
-| Systems | [\[$\] LWN.net Weekly Edition for September 24, 2026](https://lwn.net/Articles/1094840/) | LWN.net · Sep 24 |
-| Architecture | [Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends](https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 24 |
-| Edge & cloud | [Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion](https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys) | AWS What's New · Sep 23 |
+| Systems | [F-Droid 2.0: A new chapter for Android freedom](https://lwn.net/Articles/1096444/) | LWN.net · Sep 24 |
+| Architecture | [What iOS Developers Need to Change in their Apps to prepare for the iPhone Duo](https://www.infoq.com/news/2026/09/apple-iphone-duo-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 24 |
+| Edge & cloud | [AWS Lambda durable functions are now available in AWS European Sovereign Cloud region](https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/) | AWS What's New · Sep 24 |
 <!-- SIGNALS:END -->
 
 <details>
