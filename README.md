@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Gemini 3.8 TTS Playground](https://simonwillison.net/2026/Sep/23/gemini-tts-playground/) | Simon Willison · Sep 23 |
-| AI research | [Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats...](https://arxiv.org/abs/2609.25010) | arXiv cs.AI · Sep 24 |
+| AI practice | [commit-rewriter 0.2](https://simonwillison.net/2026/Sep/24/commit-rewriter/) | Simon Willison · Sep 24 |
+| AI research | [When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing](https://arxiv.org/abs/2609.28475) | arXiv cs.AI · Sep 25 |
 | Systems | [F-Droid 2.0: A new chapter for Android freedom](https://lwn.net/Articles/1096444/) | LWN.net · Sep 24 |
-| Architecture | [What iOS Developers Need to Change in their Apps to prepare for the iPhone Duo](https://www.infoq.com/news/2026/09/apple-iphone-duo-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 24 |
-| Edge & cloud | [AWS Lambda durable functions are now available in AWS European Sovereign Cloud region](https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/) | AWS What's New · Sep 24 |
+| Architecture | [Article: The Agent Harness: What It Is and Two Ways to Build One](https://www.infoq.com/articles/agent-harness-build-one/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 25 |
+| Edge & cloud | [AWS Billing and Cost Management now provides billing context for your account through a new API](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/) | AWS What's New · Sep 25 |
 <!-- SIGNALS:END -->
 
 <details>
