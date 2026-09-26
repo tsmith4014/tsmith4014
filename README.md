@@ -98,8 +98,8 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/) | Simon Willison · Sep 25 |
 | AI research | [Stable and Faithful Explanations for Knowledge Tracing](https://arxiv.org/abs/2609.28502) | arXiv cs.LG · Sep 26 |
-| Systems | [\[$\] How KDE got funding to add enterprise features](https://lwn.net/Articles/1096245/) | LWN.net · Sep 25 |
-| Architecture | [Cloudflare Details Its Migration from WordPress to EmDash](https://www.infoq.com/news/2026/09/cloudflare-emdash-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 26 |
+| Systems | [GDB 18.1 released](https://lwn.net/Articles/1096897/) | LWN.net · Sep 26 |
+| Architecture | [Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud](https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 26 |
 | Edge & cloud | [Amazon Transcribe adds customer-managed KMS keys for custom resources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/) | AWS What's New · Sep 25 |
 <!-- SIGNALS:END -->
 
