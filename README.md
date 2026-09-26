@@ -97,10 +97,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/) | Simon Willison · Sep 25 |
-| AI research | [When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing](https://arxiv.org/abs/2609.28475) | arXiv cs.AI · Sep 25 |
+| AI research | [Stable and Faithful Explanations for Knowledge Tracing](https://arxiv.org/abs/2609.28502) | arXiv cs.LG · Sep 26 |
 | Systems | [\[$\] How KDE got funding to add enterprise features](https://lwn.net/Articles/1096245/) | LWN.net · Sep 25 |
-| Architecture | [Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage](https://www.infoq.com/news/2026/09/cobbledb-perplexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 25 |
-| Edge & cloud | [AWS DataSync launches a monitoring dashboard for tracking task executions across your account](https://aws.amazon.com/about-aws/whats-new/2026/09/datasync-monitoring-dashboard) | AWS What's New · Sep 25 |
+| Architecture | [Cloudflare Details Its Migration from WordPress to EmDash](https://www.infoq.com/news/2026/09/cloudflare-emdash-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 26 |
+| Edge & cloud | [Amazon Transcribe adds customer-managed KMS keys for custom resources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/) | AWS What's New · Sep 25 |
 <!-- SIGNALS:END -->
 
 <details>
