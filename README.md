@@ -99,8 +99,8 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | AI practice | [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/) | Simon Willison · Sep 26 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [GDB 18.1 released](https://lwn.net/Articles/1096897/) | LWN.net · Sep 26 |
-| Architecture | [GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management](https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 27 |
-| Edge & cloud | [Amazon Transcribe adds customer-managed KMS keys for custom resources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/) | AWS What's New · Sep 25 |
+| Architecture | [Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing](https://www.infoq.com/news/2026/09/c-rust-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 27 |
+| Edge & cloud | [Cloudflare’s 2026 Annual Founders’ Letter](https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/) | Cloudflare Blog · Sep 27 |
 <!-- SIGNALS:END -->
 
 <details>
