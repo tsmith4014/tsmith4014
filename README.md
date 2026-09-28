@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/) | Simon Willison · Sep 26 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [GDB 18.1 released](https://lwn.net/Articles/1096897/) | LWN.net · Sep 26 |
-| Architecture | [Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing](https://www.infoq.com/news/2026/09/c-rust-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 27 |
+| AI practice | [Quoting Muse AI Agent](https://simonwillison.net/2026/Sep/28/muse-ai-agent/) | Simon Willison · Sep 28 |
+| AI research | [Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence](https://arxiv.org/abs/2609.30291) | arXiv cs.AI · Sep 28 |
+| Systems | [Kernel prepatch 7.3-rc5](https://lwn.net/Articles/1096959/) | LWN.net · Sep 27 |
+| Architecture | [Article: Five Ways To Use AI Coding Agents to Improve Your Software Architecture](https://www.infoq.com/articles/ai-agents-improve-software-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 28 |
 | Edge & cloud | [Cloudflare’s 2026 Annual Founders’ Letter](https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/) | Cloudflare Blog · Sep 27 |
 <!-- SIGNALS:END -->
 
