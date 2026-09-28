@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Muse AI Agent](https://simonwillison.net/2026/Sep/28/muse-ai-agent/) | Simon Willison · Sep 28 |
+| AI practice | [Claude Sonnet 5.5](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/) | Simon Willison · Sep 28 |
 | AI research | [Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence](https://arxiv.org/abs/2609.30291) | arXiv cs.AI · Sep 28 |
-| Systems | [Kernel prepatch 7.3-rc5](https://lwn.net/Articles/1096959/) | LWN.net · Sep 27 |
-| Architecture | [Article: Five Ways To Use AI Coding Agents to Improve Your Software Architecture](https://www.infoq.com/articles/ai-agents-improve-software-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 28 |
-| Edge & cloud | [Cloudflare’s 2026 Annual Founders’ Letter](https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/) | Cloudflare Blog · Sep 27 |
+| Systems | [Git v2.56.0 released](https://lwn.net/Articles/1097213/) | LWN.net · Sep 28 |
+| Architecture | [Artifactory Vulnerabilities Under Active Exploitation Enable Authentication Bypass and Admin Access](https://www.infoq.com/news/2026/09/artifactory-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 28 |
+| Edge & cloud | [Amazon EC2 Future-dated Capacity Reservations Now Supports Postponing Start Dates](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/) | AWS What's New · Sep 28 |
 <!-- SIGNALS:END -->
 
 <details>
