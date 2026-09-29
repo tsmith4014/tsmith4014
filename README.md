@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Claude Sonnet 5.5](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/) | Simon Willison · Sep 28 |
+| AI practice | [OpenAI DevDay 2026 live blog](https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/) | Simon Willison · Sep 29 |
 | AI research | [SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support](https://arxiv.org/abs/2609.31763) | arXiv cs.AI · Sep 29 |
-| Systems | [Git v2.56.0 released](https://lwn.net/Articles/1097213/) | LWN.net · Sep 28 |
-| Architecture | [Presentation: From Staff Platform Engineer to a 16z Founder: What I Wish I'd Known](https://www.infoq.com/presentations/staff-founder-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 29 |
-| Edge & cloud | [Amazon EC2 Future-dated Capacity Reservations Now Supports Postponing Start Dates](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/) | AWS What's New · Sep 28 |
+| Systems | [\[$\] Native support for Rust on the GPU](https://lwn.net/Articles/1095731/) | LWN.net · Sep 29 |
+| Architecture | [Amazon CloudWatch Omni Extends CloudWatch into the Agent Era](https://www.infoq.com/news/2026/09/aws-cloudwatchomni-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 29 |
+| Edge & cloud | [OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/) | AWS What's New · Sep 29 |
 <!-- SIGNALS:END -->
 
 <details>
