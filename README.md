@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [OpenAI DevDay 2026 live blog](https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/) | Simon Willison · Sep 29 |
-| AI research | [SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support](https://arxiv.org/abs/2609.31763) | arXiv cs.AI · Sep 29 |
-| Systems | [\[$\] Native support for Rust on the GPU](https://lwn.net/Articles/1095731/) | LWN.net · Sep 29 |
-| Architecture | [Amazon CloudWatch Omni Extends CloudWatch into the Agent Era](https://www.infoq.com/news/2026/09/aws-cloudwatchomni-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 29 |
-| Edge & cloud | [OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/) | AWS What's New · Sep 29 |
+| AI practice | [Quoting Anthropic Frontier Red Team](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/) | Simon Willison · Sep 29 |
+| AI research | [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](https://arxiv.org/abs/2609.35799) | arXiv cs.AI · Sep 30 |
+| Systems | [Firefox 157.0 released](https://lwn.net/Articles/1097495/) | LWN.net · Sep 29 |
+| Architecture | [Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What It Proves](https://www.infoq.com/news/2026/09/agentic-refactoring-case-study/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 30 |
+| Edge & cloud | [Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/) | AWS What's New · Sep 29 |
 <!-- SIGNALS:END -->
 
 <details>
