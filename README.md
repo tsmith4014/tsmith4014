@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting Anthropic Frontier Red Team](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/) | Simon Willison · Sep 29 |
 | AI research | [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](https://arxiv.org/abs/2609.35799) | arXiv cs.AI · Sep 30 |
-| Systems | [Firefox 157.0 released](https://lwn.net/Articles/1097495/) | LWN.net · Sep 29 |
-| Architecture | [Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What It Proves](https://www.infoq.com/news/2026/09/agentic-refactoring-case-study/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 30 |
-| Edge & cloud | [Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/) | AWS What's New · Sep 29 |
+| Systems | [\[$\] The year in Plasma and what's ahead](https://lwn.net/Articles/1096518/) | LWN.net · Sep 30 |
+| Architecture | [InfoQ Online Cohorts Address AI Security and Coding Agent Verification](https://www.infoq.com/news/2026/09/onlinecohorts-ai-certifications/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 30 |
+| Edge & cloud | [Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search](https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/) | AWS What's New · Sep 30 |
 <!-- SIGNALS:END -->
 
 <details>
