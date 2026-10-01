@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Anthropic Frontier Red Team](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/) | Simon Willison · Sep 29 |
-| AI research | [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](https://arxiv.org/abs/2609.35799) | arXiv cs.AI · Sep 30 |
-| Systems | [\[$\] The year in Plasma and what's ahead](https://lwn.net/Articles/1096518/) | LWN.net · Sep 30 |
-| Architecture | [InfoQ Online Cohorts Address AI Security and Coding Agent Verification](https://www.infoq.com/news/2026/09/onlinecohorts-ai-certifications/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Sep 30 |
-| Edge & cloud | [Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search](https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/) | AWS What's New · Sep 30 |
+| AI practice | [Quoting Matthew Green](https://simonwillison.net/2026/Oct/1/matthew-green/) | Simon Willison · Oct 1 |
+| AI research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](https://arxiv.org/abs/2609.38282) | arXiv cs.AI · Oct 1 |
+| Systems | [\[$\] LWN.net Weekly Edition for October 1, 2026](https://lwn.net/Articles/1096293/) | LWN.net · Oct 1 |
+| Architecture | [Presentation: Keeping the Mainline Green Across Diverse Language Monorepos](https://www.infoq.com/presentations/mergequeue/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 1 |
+| Edge & cloud | [Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/) | AWS What's New · Sep 30 |
 <!-- SIGNALS:END -->
 
 <details>
