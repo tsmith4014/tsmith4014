@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting Matthew Green](https://simonwillison.net/2026/Oct/1/matthew-green/) | Simon Willison · Oct 1 |
 | AI research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](https://arxiv.org/abs/2609.38282) | arXiv cs.AI · Oct 1 |
-| Systems | [\[$\] LWN.net Weekly Edition for October 1, 2026](https://lwn.net/Articles/1096293/) | LWN.net · Oct 1 |
-| Architecture | [Presentation: Keeping the Mainline Green Across Diverse Language Monorepos](https://www.infoq.com/presentations/mergequeue/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 1 |
-| Edge & cloud | [Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/) | AWS What's New · Sep 30 |
+| Systems | [\[$\] Coping with the onslaught of kernel security bugs](https://lwn.net/Articles/1096908/) | LWN.net · Oct 1 |
+| Architecture | [Qualcomm Unveils Linux Preview on Snapdragon X2 to Accelerate Upstream ARM Laptops](https://www.infoq.com/news/2026/10/snapdragon-x2-linux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 1 |
+| Edge & cloud | [AWS Well-Architected Agent is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/) | AWS What's New · Oct 1 |
 <!-- SIGNALS:END -->
 
 <details>
