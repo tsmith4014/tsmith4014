@@ -98,9 +98,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Quoting Matthew Green](https://simonwillison.net/2026/Oct/1/matthew-green/) | Simon Willison · Oct 1 |
 | AI research | [Heavy-Tailed Memory Traces in Long-Horizon Language Agents](https://arxiv.org/abs/2610.00010) | arXiv cs.AI · Oct 2 |
-| Systems | [\[$\] Coping with the onslaught of kernel security bugs](https://lwn.net/Articles/1096908/) | LWN.net · Oct 1 |
-| Architecture | [OpenAI DevDay 2026 Recap for Developers](https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 2 |
-| Edge & cloud | [GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/) | AWS What's New · Oct 2 |
+| Systems | [\[$\] Beyond the &](https://lwn.net/Articles/1096028/) | LWN.net · Oct 2 |
+| Architecture | [Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%](https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 2 |
+| Edge & cloud | [AWS Health introduces the version catalog for software lifecycle management](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management) | AWS What's New · Oct 2 |
 <!-- SIGNALS:END -->
 
 <details>
