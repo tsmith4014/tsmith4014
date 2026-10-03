@@ -96,10 +96,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Matthew Green](https://simonwillison.net/2026/Oct/1/matthew-green/) | Simon Willison · Oct 1 |
+| AI practice | [Rex's Dino Store](https://simonwillison.net/2026/Oct/2/rex-s-dino-store/) | Simon Willison · Oct 2 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] Beyond the &](https://lwn.net/Articles/1096028/) | LWN.net · Oct 2 |
-| Architecture | [Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud](https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 3 |
+| Systems | [Zig 0.17 released](https://lwn.net/Articles/1098412/) | LWN.net · Oct 3 |
+| Architecture | [GitLab Vulnerability Under Active Exploitation Enables Unauthenticated Data Exfiltration](https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 3 |
 | Edge & cloud | [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments) | AWS What's New · Oct 2 |
 <!-- SIGNALS:END -->
 
