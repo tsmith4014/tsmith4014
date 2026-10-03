@@ -97,10 +97,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Quoting Matthew Green](https://simonwillison.net/2026/Oct/1/matthew-green/) | Simon Willison · Oct 1 |
-| AI research | [Heavy-Tailed Memory Traces in Long-Horizon Language Agents](https://arxiv.org/abs/2610.00010) | arXiv cs.AI · Oct 2 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] Beyond the &](https://lwn.net/Articles/1096028/) | LWN.net · Oct 2 |
-| Architecture | [Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%](https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 2 |
-| Edge & cloud | [AWS Health introduces the version catalog for software lifecycle management](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management) | AWS What's New · Oct 2 |
+| Architecture | [Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud](https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 3 |
+| Edge & cloud | [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments) | AWS What's New · Oct 2 |
 <!-- SIGNALS:END -->
 
 <details>
