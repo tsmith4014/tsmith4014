@@ -17,7 +17,33 @@
   <a href="https://github.com/tsmith4014/cathys-memory-arcade">Source</a>
 </p>
 
-> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is something more personal: a living memorial for my mother, Cathy, made from six original games, three persistent story worlds, a generative jukebox, our real photo-booth portraits, and room for the memories still returning.
+> I build infrastructure that stays boring in production, AI that survives real constraints, and software that removes friction. The arcade above is something more personal: a living memorial for my mother, Cathy, made from six original games, three persistent story worlds, a generative jukebox, a new signal theater, our real photo-booth portraits, and room for the memories still returning.
+
+<h2 align="center">SIGNAL THEATER // NOW TRANSMITTING</h2>
+<p align="center">
+  <a href="https://tsmith4014.github.io/cathys-memory-arcade/#signal-theater">
+    <img src="https://raw.githubusercontent.com/tsmith4014/tsmith4014/main/static/signal-theater-wide-v1.webp" width="100%" alt="Enter the Signal Theater: two tokens face a moonlit mountain portal inside an original after-hours arcade" />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>HOUSE TRANSMISSION // SIGNAL 86</strong><br/><br/>
+      A 24-second original micro-film with AI-assisted art, directed browser motion, and a sample-free 112 BPM score synthesized when you press play.
+    </td>
+    <td width="50%" valign="top">
+      <strong>VISITING TRANSMISSION // 001</strong><br/><br/>
+      An AI Reel I admire, presented through Instagram's official player so the post, soundtrack, and attribution stay with their creators.
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://tsmith4014.github.io/cathys-memory-arcade/#signal-theater"><strong>ENTER THE SIGNAL THEATER</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/reel/Dd_tbbsNrvu/">VIEW THE ORIGINAL REEL</a>
+</p>
 
 <table>
   <tr>
