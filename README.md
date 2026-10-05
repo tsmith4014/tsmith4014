@@ -96,11 +96,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) | Simon Willison · Oct 3 |
+| AI practice | [Qwen3.8 27B addition in words](https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/) | Simon Willison · Oct 4 |
 | AI research | [MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching](https://arxiv.org/abs/2610.02260) | arXiv cs.AI · Oct 5 |
-| Systems | [Kernel prepatch 7.3-rc6](https://lwn.net/Articles/1098476/) | LWN.net · Oct 5 |
-| Architecture | [Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products](https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 5 |
-| Edge & cloud | [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments) | AWS What's New · Oct 2 |
+| Systems | [RustConf recordings](https://lwn.net/Articles/1098610/) | LWN.net · Oct 5 |
+| Architecture | [Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe](https://www.infoq.com/news/2026/10/java-news-roundup-sep28-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 5 |
+| Edge & cloud | [AWS IAM Identity Center now supports network access controls for Identity Store](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-network-controls/) | AWS What's New · Oct 5 |
 <!-- SIGNALS:END -->
 
 <details>
