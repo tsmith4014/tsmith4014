@@ -122,11 +122,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/) | Simon Willison · Oct 5 |
+| AI practice | [EmbeddingGemma 2](https://simonwillison.net/2026/Oct/6/hn-49983751/) | Simon Willison · Oct 6 |
 | AI research | [Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery](https://arxiv.org/abs/2610.03872) | arXiv cs.AI · Oct 6 |
-| Systems | [RustConf recordings](https://lwn.net/Articles/1098610/) | LWN.net · Oct 5 |
-| Architecture | [QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale](https://www.infoq.com/news/2026/10/qconlondon-2027-track/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 6 |
-| Edge & cloud | [Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views](https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views) | AWS What's New · Oct 5 |
+| Systems | [\[$\] Python's two modules for random numbers](https://lwn.net/Articles/1097468/) | LWN.net · Oct 6 |
+| Architecture | [OpenTelemetry Makes Kubernetes Attributes Processor Stable as Observability Schema Matures](https://www.infoq.com/news/2026/10/opentelemetry-kubernetes-observ/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 6 |
+| Edge & cloud | [The keys to the Internet change on October 11. Are you ready?](https://blog.cloudflare.com/root-ksk-2024-rollover/) | Cloudflare Blog · Oct 6 |
 <!-- SIGNALS:END -->
 
 <details>
