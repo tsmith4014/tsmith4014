@@ -122,11 +122,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Qwen3.8 27B addition in words](https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/) | Simon Willison · Oct 4 |
-| AI research | [MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching](https://arxiv.org/abs/2610.02260) | arXiv cs.AI · Oct 5 |
+| AI practice | [Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/) | Simon Willison · Oct 5 |
+| AI research | [Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery](https://arxiv.org/abs/2610.03872) | arXiv cs.AI · Oct 6 |
 | Systems | [RustConf recordings](https://lwn.net/Articles/1098610/) | LWN.net · Oct 5 |
-| Architecture | [Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe](https://www.infoq.com/news/2026/10/java-news-roundup-sep28-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 5 |
-| Edge & cloud | [AWS IAM Identity Center now supports network access controls for Identity Store](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-network-controls/) | AWS What's New · Oct 5 |
+| Architecture | [QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale](https://www.infoq.com/news/2026/10/qconlondon-2027-track/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 6 |
+| Edge & cloud | [Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views](https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views) | AWS What's New · Oct 5 |
 <!-- SIGNALS:END -->
 
 <details>
