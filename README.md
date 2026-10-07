@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [EmbeddingGemma 2](https://simonwillison.net/2026/Oct/6/hn-49983751/) | Simon Willison · Oct 6 |
-| AI research | [Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery](https://arxiv.org/abs/2610.03872) | arXiv cs.AI · Oct 6 |
+| AI practice | [Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/) | Simon Willison · Oct 7 |
+| AI research | [Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery](https://arxiv.org/abs/2610.03872) | arXiv cs.AI · Oct 7 |
 | Systems | [\[$\] Python's two modules for random numbers](https://lwn.net/Articles/1097468/) | LWN.net · Oct 6 |
-| Architecture | [OpenTelemetry Makes Kubernetes Attributes Processor Stable as Observability Schema Matures](https://www.infoq.com/news/2026/10/opentelemetry-kubernetes-observ/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 6 |
+| Architecture | [Presentation: The Reinvention of the Dev Team](https://www.infoq.com/presentations/agentic-dev-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 7 |
 | Edge & cloud | [The keys to the Internet change on October 11. Are you ready?](https://blog.cloudflare.com/root-ksk-2024-rollover/) | Cloudflare Blog · Oct 6 |
 <!-- SIGNALS:END -->
 
