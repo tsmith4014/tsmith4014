@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/) | Simon Willison · Oct 7 |
+| AI practice | [Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/) | Simon Willison · Oct 7 |
 | AI research | [Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery](https://arxiv.org/abs/2610.03872) | arXiv cs.AI · Oct 7 |
-| Systems | [\[$\] Python's two modules for random numbers](https://lwn.net/Articles/1097468/) | LWN.net · Oct 6 |
-| Architecture | [Presentation: The Reinvention of the Dev Team](https://www.infoq.com/presentations/agentic-dev-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 7 |
-| Edge & cloud | [The keys to the Internet change on October 11. Are you ready?](https://blog.cloudflare.com/root-ksk-2024-rollover/) | Cloudflare Blog · Oct 6 |
+| Systems | [\[$\] Analyzing Rust programs with Charon](https://lwn.net/Articles/1097198/) | LWN.net · Oct 7 |
+| Architecture | [Survey Finds AI-Generated Code Increases Debugging and Failure Rates and Creates a Comprehension Gap](https://www.infoq.com/news/2026/10/survey-complex-codebases-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 7 |
+| Edge & cloud | [Building an evidence-grounded agentic security operations harness on Cloudflare](https://blog.cloudflare.com/agentic-security-operations/) | Cloudflare Blog · Oct 7 |
 <!-- SIGNALS:END -->
 
 <details>
