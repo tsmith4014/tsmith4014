@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/) | Simon Willison · Oct 7 |
-| AI research | [Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery](https://arxiv.org/abs/2610.03872) | arXiv cs.AI · Oct 7 |
-| Systems | [\[$\] Analyzing Rust programs with Charon](https://lwn.net/Articles/1097198/) | LWN.net · Oct 7 |
-| Architecture | [Survey Finds AI-Generated Code Increases Debugging and Failure Rates and Creates a Comprehension Gap](https://www.infoq.com/news/2026/10/survey-complex-codebases-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 7 |
+| AI practice | [Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/) | Simon Willison · Oct 7 |
+| AI research | [Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation](https://arxiv.org/abs/2610.08793) | arXiv cs.AI · Oct 8 |
+| Systems | [\[$\] LWN.net Weekly Edition for October 8, 2026](https://lwn.net/Articles/1097859/) | LWN.net · Oct 8 |
+| Architecture | [Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform](https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 8 |
 | Edge & cloud | [Building an evidence-grounded agentic security operations harness on Cloudflare](https://blog.cloudflare.com/agentic-security-operations/) | Cloudflare Blog · Oct 7 |
 <!-- SIGNALS:END -->
 
