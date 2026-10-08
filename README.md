@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/) | Simon Willison · Oct 7 |
+| AI practice | [Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/) | Simon Willison · Oct 8 |
 | AI research | [Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation](https://arxiv.org/abs/2610.08793) | arXiv cs.AI · Oct 8 |
-| Systems | [\[$\] LWN.net Weekly Edition for October 8, 2026](https://lwn.net/Articles/1097859/) | LWN.net · Oct 8 |
+| Systems | [\[$\] An update on Rust's project goals](https://lwn.net/Articles/1098617/) | LWN.net · Oct 8 |
 | Architecture | [Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform](https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 8 |
-| Edge & cloud | [Building an evidence-grounded agentic security operations harness on Cloudflare](https://blog.cloudflare.com/agentic-security-operations/) | Cloudflare Blog · Oct 7 |
+| Edge & cloud | [Bridging technical depth and usability: The story behind Radar’s redesign](https://blog.cloudflare.com/radar-redesign/) | Cloudflare Blog · Oct 8 |
 <!-- SIGNALS:END -->
 
 <details>
