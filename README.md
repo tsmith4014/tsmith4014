@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [ttok 1.0](https://simonwillison.net/2026/Oct/9/ttok/) | Simon Willison · Oct 9 |
+| AI practice | [Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/) | Simon Willison · Oct 9 |
 | AI research | [An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Asse...](https://arxiv.org/abs/2610.10541) | arXiv cs.AI · Oct 9 |
-| Systems | [\[$\] An update on Rust's project goals](https://lwn.net/Articles/1098617/) | LWN.net · Oct 8 |
-| Architecture | [Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale](https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 9 |
-| Edge & cloud | [OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/) | AWS What's New · Oct 8 |
+| Systems | [Python 3.15 released](https://lwn.net/Articles/1099602/) | LWN.net · Oct 9 |
+| Architecture | [Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring](https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 9 |
+| Edge & cloud | [Amazon EC2 R8gd instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8gd-thf/) | AWS What's New · Oct 9 |
 <!-- SIGNALS:END -->
 
 <details>
