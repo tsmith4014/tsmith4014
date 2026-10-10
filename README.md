@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/) | Simon Willison · Oct 9 |
-| AI research | [An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Asse...](https://arxiv.org/abs/2610.10541) | arXiv cs.AI · Oct 9 |
+| AI practice | [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/) | Simon Willison · Oct 10 |
+| AI research | [An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Asse...](https://arxiv.org/abs/2610.10541) | arXiv cs.AI · Oct 10 |
 | Systems | [Python 3.15 released](https://lwn.net/Articles/1099602/) | LWN.net · Oct 9 |
-| Architecture | [Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring](https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 9 |
-| Edge & cloud | [Amazon EC2 R8gd instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8gd-thf/) | AWS What's New · Oct 9 |
+| Architecture | [Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing](https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 10 |
+| Edge & cloud | [AWS Security Hub now exports findings to S3 in CSV or JSON format](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/) | AWS What's New · Oct 9 |
 <!-- SIGNALS:END -->
 
 <details>
