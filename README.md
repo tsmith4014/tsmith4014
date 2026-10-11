@@ -126,8 +126,8 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/) | Simon Willison · Oct 11 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [Python 3.15 released](https://lwn.net/Articles/1099602/) | LWN.net · Oct 9 |
-| Architecture | [Foresight AI Brings Gremlin Agents to Reliability Engineering](https://www.infoq.com/news/2026/10/gremlin-foresight-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 11 |
+| Systems | [Stable kernels 7.2.10 and 6.18.56](https://lwn.net/Articles/1099764/) | LWN.net · Oct 11 |
+| Architecture | [Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs](https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 11 |
 | Edge & cloud | [AWS Security Hub now exports findings to S3 in CSV or JSON format](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/) | AWS What's New · Oct 9 |
 <!-- SIGNALS:END -->
 
