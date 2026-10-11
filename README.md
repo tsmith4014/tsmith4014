@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/) | Simon Willison · Oct 10 |
-| AI research | [An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Asse...](https://arxiv.org/abs/2610.10541) | arXiv cs.AI · Oct 10 |
+| AI practice | [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/) | Simon Willison · Oct 11 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Python 3.15 released](https://lwn.net/Articles/1099602/) | LWN.net · Oct 9 |
-| Architecture | [Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing](https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 10 |
+| Architecture | [Foresight AI Brings Gremlin Agents to Reliability Engineering](https://www.infoq.com/news/2026/10/gremlin-foresight-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 11 |
 | Edge & cloud | [AWS Security Hub now exports findings to S3 in CSV or JSON format](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/) | AWS What's New · Oct 9 |
 <!-- SIGNALS:END -->
 
