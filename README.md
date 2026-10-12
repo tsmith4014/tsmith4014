@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/) | Simon Willison · Oct 11 |
+| AI practice | [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/) | Simon Willison · Oct 12 |
 | AI research | [Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulne...](https://arxiv.org/abs/2610.12493) | arXiv cs.AI · Oct 12 |
-| Systems | [Kernel prepatch 7.3-rc7](https://lwn.net/Articles/1099798/) | LWN.net · Oct 12 |
-| Architecture | [Article: When Should You Use Liquid Clustering? Benchmarking Lakehouse Layout Strategies](https://www.infoq.com/articles/liquid-clustering-lakehouse-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 12 |
-| Edge & cloud | [AWS Security Hub now exports findings to S3 in CSV or JSON format](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/) | AWS What's New · Oct 9 |
+| Systems | [\[$\] The 2026 Maintainers Summit](https://lwn.net/Articles/1099594/) | LWN.net · Oct 12 |
+| Architecture | [Spotify More Than Doubled Monthly Code Changes as AI Accelerated Development](https://www.infoq.com/news/2026/10/spotify-ai-quality-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 12 |
+| Edge & cloud | [Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/) | AWS What's New · Oct 12 |
 <!-- SIGNALS:END -->
 
 <details>
