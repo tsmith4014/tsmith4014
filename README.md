@@ -125,9 +125,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/) | Simon Willison · Oct 11 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [Stable kernels 7.2.10 and 6.18.56](https://lwn.net/Articles/1099764/) | LWN.net · Oct 11 |
-| Architecture | [Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs](https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 11 |
+| AI research | [Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulne...](https://arxiv.org/abs/2610.12493) | arXiv cs.AI · Oct 12 |
+| Systems | [Kernel prepatch 7.3-rc7](https://lwn.net/Articles/1099798/) | LWN.net · Oct 12 |
+| Architecture | [Article: When Should You Use Liquid Clustering? Benchmarking Lakehouse Layout Strategies](https://www.infoq.com/articles/liquid-clustering-lakehouse-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 12 |
 | Edge & cloud | [AWS Security Hub now exports findings to S3 in CSV or JSON format](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/) | AWS What's New · Oct 9 |
 <!-- SIGNALS:END -->
 
