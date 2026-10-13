@@ -125,10 +125,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/) | Simon Willison · Oct 12 |
-| AI research | [Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulne...](https://arxiv.org/abs/2610.12493) | arXiv cs.AI · Oct 12 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] The 2026 Maintainers Summit](https://lwn.net/Articles/1099594/) | LWN.net · Oct 12 |
-| Architecture | [Spotify More Than Doubled Monthly Code Changes as AI Accelerated Development](https://www.infoq.com/news/2026/10/spotify-ai-quality-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 12 |
-| Edge & cloud | [Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/) | AWS What's New · Oct 12 |
+| Architecture | [Production Patterns for Agents, Evals, and LLM Costs: QCon AI New York 2026](https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 13 |
+| Edge & cloud | [Amazon CloudFront now supports AWS Lambda Web Functions as an origin](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/) | AWS What's New · Oct 12 |
 <!-- SIGNALS:END -->
 
 <details>
