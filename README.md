@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/) | Simon Willison · Oct 12 |
+| AI practice | [Quoting Geoffrey Huntley](https://simonwillison.net/2026/Oct/13/geoffrey-huntley/) | Simon Willison · Oct 13 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] The 2026 Maintainers Summit](https://lwn.net/Articles/1099594/) | LWN.net · Oct 12 |
-| Architecture | [Production Patterns for Agents, Evals, and LLM Costs: QCon AI New York 2026](https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 13 |
-| Edge & cloud | [Amazon CloudFront now supports AWS Lambda Web Functions as an origin](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/) | AWS What's New · Oct 12 |
+| Systems | [\[$\] KDE Linux at two](https://lwn.net/Articles/1099486/) | LWN.net · Oct 13 |
+| Architecture | [Backstage 1.55 Adds Scaffolder Task Recovery and Removes Deprecated Catalog APIs](https://www.infoq.com/news/2026/10/backstage-1-55-task-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 13 |
+| Edge & cloud | [Amazon DCV releases version 2026.0 with RHEL 10 support and new clients](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dcv-2026-0/) | AWS What's New · Oct 13 |
 <!-- SIGNALS:END -->
 
 <details>
