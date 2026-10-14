@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Redesigning source control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/) | Simon Willison · Oct 13 |
+| AI practice | [AI is mass decompiling games. That's both awesome and scary.](https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/) | Simon Willison · Oct 14 |
 | AI research | [Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence](https://arxiv.org/abs/2610.14005) | arXiv cs.AI · Oct 14 |
-| Systems | [\[$\] KDE Linux at two](https://lwn.net/Articles/1099486/) | LWN.net · Oct 13 |
-| Architecture | [Article: Composable Commerce: Inside Shipt’s Kit Platform](https://www.infoq.com/articles/shipt-composable-commerce-design-ddd/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 14 |
-| Edge & cloud | [AWS Security Hub now supports resource criticality for prioritization](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/) | AWS What's New · Oct 14 |
+| Systems | [\[$\] Collaborating with out-of-tree tracers](https://lwn.net/Articles/1099300/) | LWN.net · Oct 14 |
+| Architecture | [Build your slide template](https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html) | Martin Fowler · Oct 14 |
+| Edge & cloud | [Yandex outage: Data shows that instead of going dark, malicious bots went on the move](https://blog.cloudflare.com/yandex-outage/) | Cloudflare Blog · Oct 14 |
 <!-- SIGNALS:END -->
 
 <details>
