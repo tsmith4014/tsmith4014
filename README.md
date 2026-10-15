@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Tree Appreciator](https://simonwillison.net/2026/Oct/14/tree-appreciator/) | Simon Willison · Oct 14 |
+| AI practice | [Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/) | Simon Willison · Oct 15 |
 | AI research | [Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence](https://arxiv.org/abs/2610.14005) | arXiv cs.AI · Oct 15 |
-| Systems | [\[$\] LWN.net Weekly Edition for October 15, 2026](https://lwn.net/Articles/1099247/) | LWN.net · Oct 15 |
-| Architecture | [Article: Server-Side DPoP and Token Exchange in Spring Security 7](https://www.infoq.com/articles/spring-security-7-server-side-dpop-token-exchange/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 15 |
-| Edge & cloud | [Amazon CloudWatch announces log routing and chained log parsers](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/) | AWS What's New · Oct 14 |
+| Systems | [\[$\] Vendor hooks in the Android kernel](https://lwn.net/Articles/1098493/) | LWN.net · Oct 15 |
+| Architecture | [Instagram Modernized Its UI with an AI-Native Architecture, Cutting Token Costs by 33%](https://www.infoq.com/news/2026/10/instagram-compose-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 15 |
+| Edge & cloud | [Amazon DynamoDB Streams now supports timestamp-based stream processing](https://aws.amazon.com/amazon-dynamodb-streams-timestamp-processing) | AWS What's New · Oct 15 |
 <!-- SIGNALS:END -->
 
 <details>
