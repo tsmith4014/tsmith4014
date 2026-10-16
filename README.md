@@ -125,10 +125,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/) | Simon Willison · Oct 15 |
-| AI research | [Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence](https://arxiv.org/abs/2610.14005) | arXiv cs.AI · Oct 15 |
+| AI research | [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](https://arxiv.org/abs/2610.20665) | arXiv cs.AI · Oct 16 |
 | Systems | [\[$\] Vendor hooks in the Android kernel](https://lwn.net/Articles/1098493/) | LWN.net · Oct 15 |
-| Architecture | [Instagram Modernized Its UI with an AI-Native Architecture, Cutting Token Costs by 33%](https://www.infoq.com/news/2026/10/instagram-compose-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 15 |
-| Edge & cloud | [Amazon DynamoDB Streams now supports timestamp-based stream processing](https://aws.amazon.com/amazon-dynamodb-streams-timestamp-processing) | AWS What's New · Oct 15 |
+| Architecture | [Article: Cryptographic Foundation of Mobile ID Systems: An ISO/IEC 18013-5 Enterprise Architecture Blueprint](https://www.infoq.com/articles/enterprise-mobile-id-mdl-blueprint/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 16 |
+| Edge & cloud | [Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/) | AWS What's New · Oct 15 |
 <!-- SIGNALS:END -->
 
 <details>
