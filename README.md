@@ -126,9 +126,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/) | Simon Willison · Oct 15 |
 | AI research | [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](https://arxiv.org/abs/2610.20665) | arXiv cs.AI · Oct 16 |
-| Systems | [\[$\] Vendor hooks in the Android kernel](https://lwn.net/Articles/1098493/) | LWN.net · Oct 15 |
-| Architecture | [Article: Cryptographic Foundation of Mobile ID Systems: An ISO/IEC 18013-5 Enterprise Architecture Blueprint](https://www.infoq.com/articles/enterprise-mobile-id-mdl-blueprint/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 16 |
-| Edge & cloud | [Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/) | AWS What's New · Oct 15 |
+| Systems | [Introducing GNOME OS Preview](https://lwn.net/Articles/1101057/) | LWN.net · Oct 16 |
+| Architecture | [Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments](https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 16 |
+| Edge & cloud | [AWS Lambda durable functions are now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/) | AWS What's New · Oct 16 |
 <!-- SIGNALS:END -->
 
 <details>
