@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang](https://simonwillison.net/2026/Oct/16/code-review/) | Simon Willison · Oct 16 |
-| AI research | [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](https://arxiv.org/abs/2610.20665) | arXiv cs.AI · Oct 17 |
+| AI practice | [Inline rendering with document​.currentScript](https://simonwillison.net/2026/Oct/17/document-currentscript/) | Simon Willison · Oct 17 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Introducing GNOME OS Preview](https://lwn.net/Articles/1101057/) | LWN.net · Oct 16 |
-| Architecture | [Reverse Engineer Anything Project Brings AI Agents to Binary Analysis](https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 17 |
+| Architecture | [AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours](https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 18 |
 | Edge & cloud | [Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion) | AWS What's New · Oct 16 |
 <!-- SIGNALS:END -->
 
