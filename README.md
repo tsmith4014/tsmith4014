@@ -126,9 +126,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/) | Simon Willison · Oct 18 |
 | AI research | [When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering...](https://arxiv.org/abs/2610.22379) | arXiv cs.LG · Oct 19 |
-| Systems | [The 7.3 kernel has been released](https://lwn.net/Articles/1101143/) | LWN.net · Oct 18 |
-| Architecture | [EmbeddingGemma 2 Expands Beyond Text to Support Code, Images, Video, and Audio](https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 19 |
-| Edge & cloud | [Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion) | AWS What's New · Oct 16 |
+| Systems | [Linux Plumbers Conference videos now available](https://lwn.net/Articles/1101483/) | LWN.net · Oct 19 |
+| Architecture | [Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs](https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 19 |
+| Edge & cloud | [Cutting our inference bill by 68% by being obsessive about optimization](https://blog.cloudflare.com/obsessive-inference-optimization/) | Cloudflare Blog · Oct 19 |
 <!-- SIGNALS:END -->
 
 <details>
