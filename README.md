@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Inline rendering with document​.currentScript](https://simonwillison.net/2026/Oct/17/document-currentscript/) | Simon Willison · Oct 17 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [Introducing GNOME OS Preview](https://lwn.net/Articles/1101057/) | LWN.net · Oct 16 |
-| Architecture | [Google Adopts Pyrefly for Faster, More Accurate Python Type Checking](https://www.infoq.com/news/2026/10/google-pyrefly-python/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 18 |
+| AI practice | [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/) | Simon Willison · Oct 18 |
+| AI research | [When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering...](https://arxiv.org/abs/2610.22379) | arXiv cs.LG · Oct 19 |
+| Systems | [The 7.3 kernel has been released](https://lwn.net/Articles/1101143/) | LWN.net · Oct 18 |
+| Architecture | [EmbeddingGemma 2 Expands Beyond Text to Support Code, Images, Video, and Audio](https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 19 |
 | Edge & cloud | [Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion) | AWS What's New · Oct 16 |
 <!-- SIGNALS:END -->
 
