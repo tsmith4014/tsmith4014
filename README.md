@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [My obituary for programming](https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/) | Simon Willison · Oct 19 |
+| AI practice | [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/) | Simon Willison · Oct 20 |
 | AI research | [GardenBench: A lightweight, daily evaluation of LLM capabilities](https://arxiv.org/abs/2610.23866) | arXiv cs.AI · Oct 20 |
-| Systems | [Linux Plumbers Conference videos now available](https://lwn.net/Articles/1101483/) | LWN.net · Oct 19 |
-| Architecture | [Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs](https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 19 |
-| Edge & cloud | [Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness...](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview) | AWS What's New · Oct 19 |
+| Systems | [\[$\] SUSE's efforts to disable setuid system-wide](https://lwn.net/Articles/1100257/) | LWN.net · Oct 20 |
+| Architecture | [GitHub Actions Runner Controller 0.15.0 Targets Reliability at Scale](https://www.infoq.com/news/2026/10/github-runner-controller-0-15/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 20 |
+| Edge & cloud | [Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages](https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/) | AWS What's New · Oct 20 |
 <!-- SIGNALS:END -->
 
 <details>
