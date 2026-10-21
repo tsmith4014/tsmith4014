@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/) | Simon Willison · Oct 20 |
-| AI research | [GardenBench: A lightweight, daily evaluation of LLM capabilities](https://arxiv.org/abs/2610.23866) | arXiv cs.AI · Oct 20 |
-| Systems | [\[$\] SUSE's efforts to disable setuid system-wide](https://lwn.net/Articles/1100257/) | LWN.net · Oct 20 |
-| Architecture | [GitHub Actions Runner Controller 0.15.0 Targets Reliability at Scale](https://www.infoq.com/news/2026/10/github-runner-controller-0-15/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 20 |
-| Edge & cloud | [Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages](https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/) | AWS What's New · Oct 20 |
+| AI practice | [eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/) | Simon Willison · Oct 20 |
+| AI research | [Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training](https://arxiv.org/abs/2610.26887) | arXiv cs.AI · Oct 21 |
+| Systems | [Critical PHP security update coming](https://lwn.net/Articles/1101687/) | LWN.net · Oct 20 |
+| Architecture | [Article: Distributed Spring Batch Without a Message Broker](https://www.infoq.com/articles/spring-batch-without-broker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 21 |
+| Edge & cloud | [Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services](https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/) | AWS What's New · Oct 20 |
 <!-- SIGNALS:END -->
 
 <details>
