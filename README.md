@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Today's PHP Security Release, and How We're Strengthening PHP Security](https://simonwillison.net/2026/Oct/21/php-security-release/) | Simon Willison · Oct 21 |
+| AI practice | [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/) | Simon Willison · Oct 22 |
 | AI research | [A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation](https://arxiv.org/abs/2610.28686) | arXiv cs.AI · Oct 22 |
-| Systems | [\[$\] LWN.net Weekly Edition for October 22, 2026](https://lwn.net/Articles/1100612/) | LWN.net · Oct 22 |
-| Architecture | [Vercel Labs Open-Sources fx: A Zig Coding Agent Designed to Be Embedded](https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 22 |
-| Edge & cloud | [AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx](https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/) | AWS What's New · Oct 21 |
+| Systems | [\[$\] The end of __get_user() and __put_user()](https://lwn.net/Articles/1102061/) | LWN.net · Oct 22 |
+| Architecture | [Study Finds AI-generated Code Fails to Boost Productivity Due to Downstream Bottlenecks](https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 22 |
+| Edge & cloud | [AWS CloudFormation now simplifies stack update rollback operations](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/) | AWS What's New · Oct 22 |
 <!-- SIGNALS:END -->
 
 <details>
