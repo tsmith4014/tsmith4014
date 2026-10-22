@@ -125,9 +125,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Today's PHP Security Release, and How We're Strengthening PHP Security](https://simonwillison.net/2026/Oct/21/php-security-release/) | Simon Willison · Oct 21 |
-| AI research | [Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training](https://arxiv.org/abs/2610.26887) | arXiv cs.AI · Oct 21 |
-| Systems | [Today's PHP Security Release, and How We're Strengthening PHP Security (PHP Foundation)](https://lwn.net/Articles/1102060/) | LWN.net · Oct 21 |
-| Architecture | [eMudhra Intermediate CA Compromise](https://www.infoq.com/news/2026/10/emudhra-ca-compromise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 21 |
+| AI research | [A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation](https://arxiv.org/abs/2610.28686) | arXiv cs.AI · Oct 22 |
+| Systems | [\[$\] LWN.net Weekly Edition for October 22, 2026](https://lwn.net/Articles/1100612/) | LWN.net · Oct 22 |
+| Architecture | [Vercel Labs Open-Sources fx: A Zig Coding Agent Designed to Be Embedded](https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 22 |
 | Edge & cloud | [AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx](https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/) | AWS What's New · Oct 21 |
 <!-- SIGNALS:END -->
 
