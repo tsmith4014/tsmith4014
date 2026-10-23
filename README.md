@@ -125,10 +125,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/) | Simon Willison · Oct 22 |
-| AI research | [A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation](https://arxiv.org/abs/2610.28686) | arXiv cs.AI · Oct 22 |
+| AI research | [The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols](https://arxiv.org/abs/2610.30151) | arXiv cs.AI · Oct 23 |
 | Systems | [\[$\] The end of __get_user() and __put_user()](https://lwn.net/Articles/1102061/) | LWN.net · Oct 22 |
-| Architecture | [Study Finds AI-generated Code Fails to Boost Productivity Due to Downstream Bottlenecks](https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 22 |
-| Edge & cloud | [AWS CloudFormation now simplifies stack update rollback operations](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/) | AWS What's New · Oct 22 |
+| Architecture | [Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects](https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 23 |
+| Edge & cloud | [Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp) | AWS What's New · Oct 22 |
 <!-- SIGNALS:END -->
 
 <details>
