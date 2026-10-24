@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/) | Simon Willison · Oct 23 |
+| AI practice | [battledrones v14: Compass Rose, a four player map](https://simonwillison.net/2026/Oct/24/battledrones/) | Simon Willison · Oct 24 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] The first part of the 7.4 merge window](https://lwn.net/Articles/1101211/) | LWN.net · Oct 23 |
-| Architecture | [Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM](https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 24 |
-| Edge & cloud | [Web Search on AWS Bedrock now supports domain filtering and user location controls](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/) | AWS What's New · Oct 23 |
+| Architecture | [Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon](https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 24 |
+| Edge & cloud | [Web Search on Amazon Bedrock now supports domain filtering and user location controls](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/) | AWS What's New · Oct 23 |
 <!-- SIGNALS:END -->
 
 <details>
