@@ -127,7 +127,7 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | AI practice | [battledrones v14: Compass Rose, a four player map](https://simonwillison.net/2026/Oct/24/battledrones/) | Simon Willison · Oct 24 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] The first part of the 7.4 merge window](https://lwn.net/Articles/1101211/) | LWN.net · Oct 23 |
-| Architecture | [PingCAP Breach Exposes Customer Records and Source Code](https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 25 |
+| Architecture | [PHP Patches Two Critical RCE Flaws That Were Already Under Attack](https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 25 |
 | Edge & cloud | [Web Search on Amazon Bedrock now supports domain filtering and user location controls](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/) | AWS What's New · Oct 23 |
 <!-- SIGNALS:END -->
 
