@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Seam Cutter](https://simonwillison.net/2026/Oct/25/seam-cutter/) | Simon Willison · Oct 25 |
+| AI practice | [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/) | Simon Willison · Oct 26 |
 | AI research | [Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Alloca...](https://arxiv.org/abs/2610.31701) | arXiv cs.AI · Oct 26 |
-| Systems | [\[$\] The first part of the 7.4 merge window](https://lwn.net/Articles/1101211/) | LWN.net · Oct 23 |
-| Architecture | [Cloudflare’s Auto Router Rates Each Request for Stakes, from the Most Recent Turns](https://www.infoq.com/news/2026/10/cloudflare-auto-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 26 |
-| Edge & cloud | [Web Search on Amazon Bedrock now supports domain filtering and user location controls](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/) | AWS What's New · Oct 23 |
+| Systems | [\[$\] Python's experimental JIT to be removed](https://lwn.net/Articles/1102102/) | LWN.net · Oct 26 |
+| Architecture | [DigitalOcean Launches Learning and Data Services to Enable Self-Improving AI Agents](https://www.infoq.com/news/2026/10/digitalocean-self-improving-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 26 |
+| Edge & cloud | [OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/) | AWS What's New · Oct 26 |
 <!-- SIGNALS:END -->
 
 <details>
