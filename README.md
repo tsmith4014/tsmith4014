@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/) | Simon Willison · Oct 26 |
-| AI research | [Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Alloca...](https://arxiv.org/abs/2610.31701) | arXiv cs.AI · Oct 26 |
+| AI practice | [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/) | Simon Willison · Oct 26 |
+| AI research | [Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Alloca...](https://arxiv.org/abs/2610.31701) | arXiv cs.AI · Oct 27 |
 | Systems | [\[$\] Python's experimental JIT to be removed](https://lwn.net/Articles/1102102/) | LWN.net · Oct 26 |
-| Architecture | [DigitalOcean Launches Learning and Data Services to Enable Self-Improving AI Agents](https://www.infoq.com/news/2026/10/digitalocean-self-improving-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 26 |
-| Edge & cloud | [OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/) | AWS What's New · Oct 26 |
+| Architecture | [AWS Shows Use of AI Agents to Triage Linux Kernel CVEs](https://www.infoq.com/news/2026/10/aws-ai-agents-linux-kernel-cves/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 27 |
+| Edge & cloud | [Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang](https://blog.cloudflare.com/kv-cache-exposure-remediation/) | Cloudflare Blog · Oct 26 |
 <!-- SIGNALS:END -->
 
 <details>
