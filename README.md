@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/) | Simon Willison · Oct 27 |
-| AI research | [Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Alloca...](https://arxiv.org/abs/2610.31701) | arXiv cs.AI · Oct 27 |
+| AI practice | [Quoting Terk Terkowitz](https://simonwillison.net/2026/Oct/28/terk-terkowitz/) | Simon Willison · Oct 28 |
+| AI research | [Counting the Bandages: On measuring the time that AI saves](https://arxiv.org/abs/2610.35942) | arXiv cs.AI · Oct 28 |
 | Systems | [Robinson: Raspberry Pi 5 on Fedora](https://lwn.net/Articles/1103212/) | LWN.net · Oct 27 |
-| Architecture | [Uber Moves Beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads](https://www.infoq.com/news/2026/10/uber-cpu-stateful-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 27 |
-| Edge & cloud | [Amazon Aurora serverless now supports up to 384 ACUs](https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/) | AWS What's New · Oct 27 |
+| Architecture | [Microsoft's October Security Update Fixes 1,400+ Vulnerabilities, One Exploited in the Wild](https://www.infoq.com/news/2026/10/microsoft-october-2026-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 28 |
+| Edge & cloud | [Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/) | AWS What's New · Oct 27 |
 <!-- SIGNALS:END -->
 
 <details>
