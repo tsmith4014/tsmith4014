@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Terk Terkowitz](https://simonwillison.net/2026/Oct/28/terk-terkowitz/) | Simon Willison · Oct 28 |
+| AI practice | [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/) | Simon Willison · Oct 28 |
 | AI research | [Counting the Bandages: On measuring the time that AI saves](https://arxiv.org/abs/2610.35942) | arXiv cs.AI · Oct 28 |
-| Systems | [Robinson: Raspberry Pi 5 on Fedora](https://lwn.net/Articles/1103212/) | LWN.net · Oct 27 |
-| Architecture | [Microsoft's October Security Update Fixes 1,400+ Vulnerabilities, One Exploited in the Wild](https://www.infoq.com/news/2026/10/microsoft-october-2026-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 28 |
-| Edge & cloud | [Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/) | AWS What's New · Oct 27 |
+| Systems | [\[$\] The campaign to push Northstar into Linux distributions](https://lwn.net/Articles/1102738/) | LWN.net · Oct 28 |
+| Architecture | [Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon](https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 28 |
+| Edge & cloud | [AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/) | AWS What's New · Oct 28 |
 <!-- SIGNALS:END -->
 
 <details>
