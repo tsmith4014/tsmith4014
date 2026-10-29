@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/) | Simon Willison · Oct 28 |
-| AI research | [Counting the Bandages: On measuring the time that AI saves](https://arxiv.org/abs/2610.35942) | arXiv cs.AI · Oct 28 |
-| Systems | [\[$\] The campaign to push Northstar into Linux distributions](https://lwn.net/Articles/1102738/) | LWN.net · Oct 28 |
-| Architecture | [Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon](https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 28 |
-| Edge & cloud | [AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/) | AWS What's New · Oct 28 |
+| AI practice | [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/) | Simon Willison · Oct 28 |
+| AI research | [Counting the Bandages: On measuring the time that AI saves](https://arxiv.org/abs/2610.35942) | arXiv cs.AI · Oct 29 |
+| Systems | [\[$\] LWN.net Weekly Edition for October 29, 2026](https://lwn.net/Articles/1102136/) | LWN.net · Oct 29 |
+| Architecture | [QCon AI New York 2026 Program Committee Picks: Agent Identity, Context Costs, and Open-Source Infere](https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-pc-picks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 29 |
+| Edge & cloud | [Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp) | AWS What's New · Oct 28 |
 <!-- SIGNALS:END -->
 
 <details>
