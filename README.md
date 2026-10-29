@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/) | Simon Willison · Oct 28 |
+| AI practice | [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/) | Simon Willison · Oct 29 |
 | AI research | [Counting the Bandages: On measuring the time that AI saves](https://arxiv.org/abs/2610.35942) | arXiv cs.AI · Oct 29 |
-| Systems | [\[$\] LWN.net Weekly Edition for October 29, 2026](https://lwn.net/Articles/1102136/) | LWN.net · Oct 29 |
-| Architecture | [QCon AI New York 2026 Program Committee Picks: Agent Identity, Context Costs, and Open-Source Infere](https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-pc-picks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 29 |
-| Edge & cloud | [Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp) | AWS What's New · Oct 28 |
+| Systems | [\[$\] Containers as a recognized kernel object](https://lwn.net/Articles/1102593/) | LWN.net · Oct 29 |
+| Architecture | [Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks](https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 29 |
+| Edge & cloud | [Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes) | AWS What's New · Oct 29 |
 <!-- SIGNALS:END -->
 
 <details>
