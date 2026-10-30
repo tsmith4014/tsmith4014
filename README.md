@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/) | Simon Willison · Oct 29 |
-| AI research | [Counting the Bandages: On measuring the time that AI saves](https://arxiv.org/abs/2610.35942) | arXiv cs.AI · Oct 29 |
+| AI practice | [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/) | Simon Willison · Oct 29 |
+| AI research | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](https://arxiv.org/abs/2610.37720) | arXiv cs.AI · Oct 30 |
 | Systems | [\[$\] Containers as a recognized kernel object](https://lwn.net/Articles/1102593/) | LWN.net · Oct 29 |
-| Architecture | [Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks](https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 29 |
-| Edge & cloud | [Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes) | AWS What's New · Oct 29 |
+| Architecture | [Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle](https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 30 |
+| Edge & cloud | [AWS Marketplace now enables partners to list once and sell through multiple subsidiary accounts](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization) | AWS What's New · Oct 29 |
 <!-- SIGNALS:END -->
 
 <details>
