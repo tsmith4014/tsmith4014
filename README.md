@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/) | Simon Willison · Oct 29 |
-| AI research | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](https://arxiv.org/abs/2610.37720) | arXiv cs.AI · Oct 30 |
+| AI practice | [dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) | Simon Willison · Oct 30 |
+| AI research | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](https://arxiv.org/abs/2610.37720) | arXiv cs.AI · Oct 31 |
 | Systems | [\[$\] Removing binder.c](https://lwn.net/Articles/1102982/) | LWN.net · Oct 30 |
-| Architecture | [DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents](https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 30 |
-| Edge & cloud | [Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models in AWS GovClou...](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/) | AWS What's New · Oct 30 |
+| Architecture | [Kubernetes Confidential Containers Get Fortanix Attestation and Key Management](https://www.infoq.com/news/2026/10/k8s-confidential-containers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 31 |
+| Edge & cloud | [Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovClou...](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/) | AWS What's New · Oct 30 |
 <!-- SIGNALS:END -->
 
 <details>
