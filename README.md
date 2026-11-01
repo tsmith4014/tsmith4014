@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) | Simon Willison · Oct 30 |
-| AI research | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](https://arxiv.org/abs/2610.37720) | arXiv cs.AI · Oct 31 |
-| Systems | [How We Could Have Backdoored Bash (Hacktron blog)](https://lwn.net/Articles/1104262/) | LWN.net · Oct 31 |
-| Architecture | [Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption](https://www.infoq.com/news/2026/10/cf-pq-geokey-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Oct 31 |
+| AI practice | [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) | Simon Willison · Oct 31 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
+| Systems | [A massive pile of security updates for Saturday](https://lwn.net/Articles/1104612/) | LWN.net · Oct 31 |
+| Architecture | [AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved](https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 1 |
 | Edge & cloud | [Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovClou...](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/) | AWS What's New · Oct 30 |
 <!-- SIGNALS:END -->
 
