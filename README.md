@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) | Simon Willison · Nov 1 |
+| AI practice | [The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) | Simon Willison · Nov 2 |
 | AI research | [More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum](https://arxiv.org/abs/2610.40758) | arXiv cs.AI · Nov 2 |
-| Systems | [Kernel prepatch 7.4-rc1](https://lwn.net/Articles/1104654/) | LWN.net · Nov 2 |
-| Architecture | [Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures](https://www.infoq.com/articles/agentic-ai-context-memory-knowledge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 2 |
-| Edge & cloud | [Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovClou...](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/) | AWS What's New · Oct 30 |
+| Systems | [\[$\] The second part of the 7.4 merge window](https://lwn.net/Articles/1102739/) | LWN.net · Nov 2 |
+| Architecture | [Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs](https://www.infoq.com/news/2026/11/torchtpu-native-pythorch-tpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 2 |
+| Edge & cloud | [Haiku 5.5 now available on Kiro in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/) | AWS What's New · Nov 2 |
 <!-- SIGNALS:END -->
 
 <details>
