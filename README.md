@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) | Simon Willison · Nov 1 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [Final release for the 7.2 stable series](https://lwn.net/Articles/1104629/) | LWN.net · Nov 1 |
-| Architecture | [AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved](https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 1 |
+| AI practice | [If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) | Simon Willison · Nov 1 |
+| AI research | [More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum](https://arxiv.org/abs/2610.40758) | arXiv cs.AI · Nov 2 |
+| Systems | [Kernel prepatch 7.4-rc1](https://lwn.net/Articles/1104654/) | LWN.net · Nov 2 |
+| Architecture | [Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures](https://www.infoq.com/articles/agentic-ai-context-memory-knowledge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 2 |
 | Edge & cloud | [Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovClou...](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/) | AWS What's New · Oct 30 |
 <!-- SIGNALS:END -->
 
