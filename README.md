@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) | Simon Willison · Nov 2 |
-| AI research | [More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum](https://arxiv.org/abs/2610.40758) | arXiv cs.AI · Nov 2 |
+| AI practice | [I discovered a sound that leaks your exact location (and it's everywhere) - YouTube](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/) | Simon Willison · Nov 3 |
+| AI research | [A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability](https://arxiv.org/abs/2611.00159) | arXiv cs.AI · Nov 3 |
 | Systems | [\[$\] The second part of the 7.4 merge window](https://lwn.net/Articles/1102739/) | LWN.net · Nov 2 |
-| Architecture | [Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs](https://www.infoq.com/news/2026/11/torchtpu-native-pythorch-tpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 2 |
-| Edge & cloud | [Haiku 5.5 now available on Kiro in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/) | AWS What's New · Nov 2 |
+| Architecture | [LinkedIn Uses OpenTelemetry to Trace the Member Journey from Tap to Backend](https://www.infoq.com/news/2026/11/linkedin-opentelemetry-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 3 |
+| Edge & cloud | [Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/) | AWS What's New · Nov 3 |
 <!-- SIGNALS:END -->
 
 <details>
