@@ -125,9 +125,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) | Simon Willison · Nov 3 |
-| AI research | [A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability](https://arxiv.org/abs/2611.00159) | arXiv cs.AI · Nov 3 |
+| AI research | [Alignment Faking Depends on the Value, Not Just the Model](https://arxiv.org/abs/2611.03650) | arXiv cs.AI · Nov 4 |
 | Systems | [OpenSUSE Leap 16.1](https://lwn.net/Articles/1105131/) | LWN.net · Nov 3 |
-| Architecture | [Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device](https://www.infoq.com/news/2026/11/litert-tensor-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 3 |
+| Architecture | [Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)](https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 4 |
 | Edge & cloud | [Amazon Connect Customer lets agents pause and resume emails](https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/) | AWS What's New · Nov 3 |
 <!-- SIGNALS:END -->
 
