@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [datasette-llm 0.1a10](https://simonwillison.net/2026/Nov/4/datasette-llm/) | Simon Willison · Nov 4 |
+| AI practice | [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/) | Simon Willison · Nov 5 |
 | AI research | [Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions](https://arxiv.org/abs/2611.05390) | arXiv cs.AI · Nov 5 |
-| Systems | [Critical security vulnerability affects OpenSSH on Alpine Linux systems](https://lwn.net/Articles/1105464/) | LWN.net · Nov 5 |
-| Architecture | [Building a Culture for a Kubernetes-Based Platform in a Bank](https://www.infoq.com/news/2026/11/culture-kubernetes-bank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 5 |
-| Edge & cloud | [Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed...](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/) | AWS What's New · Nov 4 |
+| Systems | [\[$\] User namespaces + file capabilities = trouble](https://lwn.net/Articles/1103429/) | LWN.net · Nov 5 |
+| Architecture | [Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications](https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 5 |
+| Edge & cloud | [AWS Interconnect - last mile announces new metro in Northern Virginia, USA](https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/) | AWS What's New · Nov 5 |
 <!-- SIGNALS:END -->
 
 <details>
