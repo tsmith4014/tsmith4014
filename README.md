@@ -125,9 +125,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [datasette-llm 0.1a10](https://simonwillison.net/2026/Nov/4/datasette-llm/) | Simon Willison · Nov 4 |
-| AI research | [Alignment Faking Depends on the Value, Not Just the Model](https://arxiv.org/abs/2611.03650) | arXiv cs.AI · Nov 4 |
-| Systems | [\[$\] Plasma X11 session removal surprises some Fedora users](https://lwn.net/Articles/1105130/) | LWN.net · Nov 4 |
-| Architecture | [Inkitt Builds a One-Shot PR Creator with Resumable Agent Orchestration](https://www.infoq.com/news/2026/11/inkitt-one-shot-pr-creator-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 4 |
+| AI research | [Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions](https://arxiv.org/abs/2611.05390) | arXiv cs.AI · Nov 5 |
+| Systems | [Critical security vulnerability affects OpenSSH on Alpine Linux systems](https://lwn.net/Articles/1105464/) | LWN.net · Nov 5 |
+| Architecture | [Building a Culture for a Kubernetes-Based Platform in a Bank](https://www.infoq.com/news/2026/11/culture-kubernetes-bank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 5 |
 | Edge & cloud | [Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed...](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/) | AWS What's New · Nov 4 |
 <!-- SIGNALS:END -->
 
