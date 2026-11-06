@@ -125,10 +125,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/) | Simon Willison · Nov 5 |
-| AI research | [Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions](https://arxiv.org/abs/2611.05390) | arXiv cs.AI · Nov 5 |
+| AI research | [Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation](https://arxiv.org/abs/2611.06962) | arXiv cs.AI · Nov 6 |
 | Systems | [\[$\] User namespaces + file capabilities = trouble](https://lwn.net/Articles/1103429/) | LWN.net · Nov 5 |
-| Architecture | [Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications](https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 5 |
-| Edge & cloud | [AWS Interconnect - last mile announces new metro in Northern Virginia, USA](https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/) | AWS What's New · Nov 5 |
+| Architecture | [GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform](https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 6 |
+| Edge & cloud | [AWS Security Hub now provides an SBOM inventory for your compute resources](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/) | AWS What's New · Nov 6 |
 <!-- SIGNALS:END -->
 
 <details>
