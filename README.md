@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/) | Simon Willison · Nov 5 |
+| AI practice | [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/) | Simon Willison · Nov 6 |
 | AI research | [Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation](https://arxiv.org/abs/2611.06962) | arXiv cs.AI · Nov 6 |
-| Systems | [\[$\] User namespaces + file capabilities = trouble](https://lwn.net/Articles/1103429/) | LWN.net · Nov 5 |
-| Architecture | [GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform](https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 6 |
-| Edge & cloud | [AWS Security Hub now provides an SBOM inventory for your compute resources](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/) | AWS What's New · Nov 6 |
+| Systems | [Videos from XDC 2026 are available](https://lwn.net/Articles/1105913/) | LWN.net · Nov 6 |
+| Architecture | [Yelp Combines Native and Server-Driven UI for Its AI Assistant](https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 6 |
+| Edge & cloud | [Agent Registry is now generally available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/) | AWS What's New · Nov 6 |
 <!-- SIGNALS:END -->
 
 <details>
