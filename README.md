@@ -125,10 +125,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/) | Simon Willison · Nov 6 |
-| AI research | [Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation](https://arxiv.org/abs/2611.06962) | arXiv cs.AI · Nov 6 |
-| Systems | [Videos from XDC 2026 are available](https://lwn.net/Articles/1105913/) | LWN.net · Nov 6 |
-| Architecture | [Yelp Combines Native and Server-Driven UI for Its AI Assistant](https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 6 |
-| Edge & cloud | [Agent Registry is now generally available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/) | AWS What's New · Nov 6 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
+| Systems | [Asahi Linux 7.3 progress report](https://lwn.net/Articles/1105936/) | LWN.net · Nov 7 |
+| Architecture | [How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes](https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 7 |
+| Edge & cloud | [Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock) | AWS What's New · Nov 6 |
 <!-- SIGNALS:END -->
 
 <details>
