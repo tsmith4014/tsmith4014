@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091/) | Simon Willison · Nov 9 |
+| AI practice | [llm-anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic/) | Simon Willison · Nov 9 |
 | AI research | [Enhancing Academic Advisement with Case-Based Reasoning](https://arxiv.org/abs/2611.08572) | arXiv cs.AI · Nov 9 |
-| Systems | [Asahi Linux 7.3 progress report](https://lwn.net/Articles/1105936/) | LWN.net · Nov 7 |
-| Architecture | [AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications](https://www.infoq.com/news/2026/11/aws-torchneuron-trainium-pytorch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 9 |
-| Edge & cloud | [Launching the Vite Ecosystem Fund](https://blog.cloudflare.com/launching-vite-ecosystem-fund/) | Cloudflare Blog · Nov 9 |
+| Systems | [\[$\] Git considers voting to determine its LLM policy](https://lwn.net/Articles/1104195/) | LWN.net · Nov 9 |
+| Architecture | [Java News Roundup: TornadoVM, A2A Java, Open Liberty, Open J Proxy, Gradle, EclipseStore](https://www.infoq.com/news/2026/11/java-news-roundup-nov02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 9 |
+| Edge & cloud | [Amazon Bedrock AgentCore now offers a Web Search API](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/) | AWS What's New · Nov 10 |
 <!-- SIGNALS:END -->
 
 <details>
