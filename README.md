@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember/) | Simon Willison · Nov 10 |
+| AI practice | [llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/) | Simon Willison · Nov 10 |
 | AI research | [Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training](https://arxiv.org/abs/2611.10045) | arXiv cs.AI · Nov 10 |
-| Systems | [\[$\] Git considers voting to determine its LLM policy](https://lwn.net/Articles/1104195/) | LWN.net · Nov 9 |
-| Architecture | [Pinterest and Intel Take Open-Source Profiling to Internet Scale](https://www.infoq.com/news/2026/11/pinterest-intel-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 10 |
-| Edge & cloud | [Amazon Bedrock AgentCore now offers a Web Search API](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/) | AWS What's New · Nov 10 |
+| Systems | [Three new stable kernels for Tuesday](https://lwn.net/Articles/1106569/) | LWN.net · Nov 10 |
+| Architecture | [Cloudflare Makes Basin Serverless Analytics Generally Available](https://www.infoq.com/news/2026/11/cloudflare-basin-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 10 |
+| Edge & cloud | [Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820...](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/) | AWS What's New · Nov 10 |
 <!-- SIGNALS:END -->
 
 <details>
