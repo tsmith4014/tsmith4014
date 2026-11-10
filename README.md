@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [llm-anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic/) | Simon Willison · Nov 9 |
-| AI research | [Enhancing Academic Advisement with Case-Based Reasoning](https://arxiv.org/abs/2611.08572) | arXiv cs.AI · Nov 9 |
+| AI practice | [Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember/) | Simon Willison · Nov 10 |
+| AI research | [Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training](https://arxiv.org/abs/2611.10045) | arXiv cs.AI · Nov 10 |
 | Systems | [\[$\] Git considers voting to determine its LLM policy](https://lwn.net/Articles/1104195/) | LWN.net · Nov 9 |
-| Architecture | [Java News Roundup: TornadoVM, A2A Java, Open Liberty, Open J Proxy, Gradle, EclipseStore](https://www.infoq.com/news/2026/11/java-news-roundup-nov02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 9 |
+| Architecture | [Pinterest and Intel Take Open-Source Profiling to Internet Scale](https://www.infoq.com/news/2026/11/pinterest-intel-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 10 |
 | Edge & cloud | [Amazon Bedrock AgentCore now offers a Web Search API](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/) | AWS What's New · Nov 10 |
 <!-- SIGNALS:END -->
 
