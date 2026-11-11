@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/) | Simon Willison · Nov 10 |
+| AI practice | [Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api/) | Simon Willison · Nov 11 |
 | AI research | [Auditable Human-Agent Teams for Autonomous X-ray Experimentation](https://arxiv.org/abs/2611.12933) | arXiv cs.AI · Nov 11 |
-| Systems | [Three new stable kernels for Tuesday](https://lwn.net/Articles/1106569/) | LWN.net · Nov 10 |
-| Architecture | [How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026](https://www.infoq.com/news/2026/11/qcon-ai-newyork-2026-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 11 |
-| Edge & cloud | [AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source...](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views) | AWS What's New · Nov 10 |
+| Systems | [Zellij 0.46 released](https://lwn.net/Articles/1106903/) | LWN.net · Nov 11 |
+| Architecture | [GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls](https://www.infoq.com/news/2026/11/github-agentic-workflows-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 11 |
+| Edge & cloud | [AWS Cloud WAN now supports Flow Logs](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cloud-wan-flow-logs/) | AWS What's New · Nov 11 |
 <!-- SIGNALS:END -->
 
 <details>
