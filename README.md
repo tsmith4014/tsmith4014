@@ -125,10 +125,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/) | Simon Willison · Nov 10 |
-| AI research | [Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training](https://arxiv.org/abs/2611.10045) | arXiv cs.AI · Nov 10 |
+| AI research | [Auditable Human-Agent Teams for Autonomous X-ray Experimentation](https://arxiv.org/abs/2611.12933) | arXiv cs.AI · Nov 11 |
 | Systems | [Three new stable kernels for Tuesday](https://lwn.net/Articles/1106569/) | LWN.net · Nov 10 |
-| Architecture | [Cloudflare Makes Basin Serverless Analytics Generally Available](https://www.infoq.com/news/2026/11/cloudflare-basin-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 10 |
-| Edge & cloud | [Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820...](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/) | AWS What's New · Nov 10 |
+| Architecture | [How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026](https://www.infoq.com/news/2026/11/qcon-ai-newyork-2026-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 11 |
+| Edge & cloud | [AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source...](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views) | AWS What's New · Nov 10 |
 <!-- SIGNALS:END -->
 
 <details>
