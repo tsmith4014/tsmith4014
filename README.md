@@ -126,9 +126,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api/) | Simon Willison · Nov 11 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] LWN.net Weekly Edition for November 12, 2026](https://lwn.net/Articles/1105460/) | LWN.net · Nov 12 |
-| Architecture | [Technical Debt is Social; it is the Price of Learning by Doing](https://www.infoq.com/news/2026/11/tech-debt-learning-doing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 12 |
-| Edge & cloud | [Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/) | AWS What's New · Nov 11 |
+| Systems | [Rust 1.100.0 released](https://lwn.net/Articles/1107187/) | LWN.net · Nov 12 |
+| Architecture | [Bliki: Generated Glossary](https://martinfowler.com/bliki/GeneratedGlossary.html) | Martin Fowler · Nov 12 |
+| Edge & cloud | [Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments](https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/) | AWS What's New · Nov 12 |
 <!-- SIGNALS:END -->
 
 <details>
