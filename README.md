@@ -126,9 +126,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 |---|---|---|
 | AI practice | [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/) | Simon Willison · Nov 12 |
 | AI research | [Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets](https://arxiv.org/abs/2611.14544) | arXiv cs.AI · Nov 13 |
-| Systems | [Rust 1.100.0 released](https://lwn.net/Articles/1107187/) | LWN.net · Nov 12 |
-| Architecture | [Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability](https://www.infoq.com/news/2026/11/netflix-ai-driven-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 13 |
-| Edge & cloud | [Amazon Cognito now supports OAuth 2.0 token exchange](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/) | AWS What's New · Nov 12 |
+| Systems | [\[$\] 25 years of Buildroot](https://lwn.net/Articles/1103395/) | LWN.net · Nov 13 |
+| Architecture | [Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri](https://www.infoq.com/news/2026/11/apple-siri-ai-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 13 |
+| Edge & cloud | [Kitesurf is now open source](https://blog.cloudflare.com/kitesurf-open-source/) | Cloudflare Blog · Nov 13 |
 <!-- SIGNALS:END -->
 
 <details>
