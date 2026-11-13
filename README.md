@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api/) | Simon Willison · Nov 11 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
+| AI practice | [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/) | Simon Willison · Nov 12 |
+| AI research | [Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets](https://arxiv.org/abs/2611.14544) | arXiv cs.AI · Nov 13 |
 | Systems | [Rust 1.100.0 released](https://lwn.net/Articles/1107187/) | LWN.net · Nov 12 |
-| Architecture | [Bliki: Generated Glossary](https://martinfowler.com/bliki/GeneratedGlossary.html) | Martin Fowler · Nov 12 |
-| Edge & cloud | [Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments](https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/) | AWS What's New · Nov 12 |
+| Architecture | [Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability](https://www.infoq.com/news/2026/11/netflix-ai-driven-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 13 |
+| Edge & cloud | [Amazon Cognito now supports OAuth 2.0 token exchange](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/) | AWS What's New · Nov 12 |
 <!-- SIGNALS:END -->
 
 <details>
