@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/) | Simon Willison · Nov 12 |
-| AI research | [Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets](https://arxiv.org/abs/2611.14544) | arXiv cs.AI · Nov 13 |
+| AI practice | [datasette-cluster-map 0.19](https://simonwillison.net/2026/Nov/13/datasette-cluster-map/) | Simon Willison · Nov 13 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] 25 years of Buildroot](https://lwn.net/Articles/1103395/) | LWN.net · Nov 13 |
-| Architecture | [Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri](https://www.infoq.com/news/2026/11/apple-siri-ai-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 13 |
+| Architecture | [Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules](https://www.infoq.com/news/2026/11/nodejs-debounce-throttle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 14 |
 | Edge & cloud | [Kitesurf is now open source](https://blog.cloudflare.com/kitesurf-open-source/) | Cloudflare Blog · Nov 13 |
 <!-- SIGNALS:END -->
 
