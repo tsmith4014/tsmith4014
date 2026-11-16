@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [datasette-llm 0.1a11](https://simonwillison.net/2026/Nov/14/datasette-llm/) | Simon Willison · Nov 14 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] 25 years of Buildroot](https://lwn.net/Articles/1103395/) | LWN.net · Nov 13 |
-| Architecture | [Uber's Secure AI Framework Governs Autonomous AI Agents Across Their Lifecycle](https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 15 |
+| AI practice | [datasette-maplibre 0.1a0](https://simonwillison.net/2026/Nov/15/datasette-maplibre/) | Simon Willison · Nov 15 |
+| AI research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](https://arxiv.org/abs/2611.17338) | arXiv cs.AI · Nov 16 |
+| Systems | [Kernel prepatch 7.4-rc3](https://lwn.net/Articles/1107606/) | LWN.net · Nov 16 |
+| Architecture | [Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data](https://www.infoq.com/news/2026/11/airbnb-castle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 16 |
 | Edge & cloud | [Kitesurf is now open source](https://blog.cloudflare.com/kitesurf-open-source/) | Cloudflare Blog · Nov 13 |
 <!-- SIGNALS:END -->
 
