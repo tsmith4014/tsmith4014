@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [llm 0.37.3](https://simonwillison.net/2026/Nov/16/llm/) | Simon Willison · Nov 16 |
-| AI research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](https://arxiv.org/abs/2611.17338) | arXiv cs.AI · Nov 16 |
+| AI practice | [Quoting Go Proverbs](https://simonwillison.net/2026/Nov/17/go-proverbs/) | Simon Willison · Nov 17 |
+| AI research | [Agents Cannot Hand Over What They Have Not Yet Understood](https://arxiv.org/abs/2611.18642) | arXiv cs.AI · Nov 17 |
 | Systems | [\[$\] A new generation of futexes](https://lwn.net/Articles/1102988/) | LWN.net · Nov 16 |
-| Architecture | [Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J](https://www.infoq.com/news/2026/11/java-news-roundup-nov09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 16 |
+| Architecture | [Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming](https://www.infoq.com/news/2026/11/quik-2-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 17 |
 | Edge & cloud | [Amazon ECR now replicates image deletions across regions and accounts](https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr) | AWS What's New · Nov 16 |
 <!-- SIGNALS:END -->
 
