@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [datasette-maplibre 0.1a0](https://simonwillison.net/2026/Nov/15/datasette-maplibre/) | Simon Willison · Nov 15 |
+| AI practice | [llm 0.37.3](https://simonwillison.net/2026/Nov/16/llm/) | Simon Willison · Nov 16 |
 | AI research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](https://arxiv.org/abs/2611.17338) | arXiv cs.AI · Nov 16 |
-| Systems | [Kernel prepatch 7.4-rc3](https://lwn.net/Articles/1107606/) | LWN.net · Nov 16 |
-| Architecture | [Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data](https://www.infoq.com/news/2026/11/airbnb-castle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 16 |
-| Edge & cloud | [Kitesurf is now open source](https://blog.cloudflare.com/kitesurf-open-source/) | Cloudflare Blog · Nov 13 |
+| Systems | [\[$\] A new generation of futexes](https://lwn.net/Articles/1102988/) | LWN.net · Nov 16 |
+| Architecture | [Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J](https://www.infoq.com/news/2026/11/java-news-roundup-nov09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 16 |
+| Edge & cloud | [Amazon ECR now replicates image deletions across regions and accounts](https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr) | AWS What's New · Nov 16 |
 <!-- SIGNALS:END -->
 
 <details>
