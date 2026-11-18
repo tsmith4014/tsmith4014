@@ -125,10 +125,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [External sandboxes for coding agents](https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/) | Simon Willison · Nov 17 |
-| AI research | [Agents Cannot Hand Over What They Have Not Yet Understood](https://arxiv.org/abs/2611.18642) | arXiv cs.AI · Nov 17 |
+| AI research | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](https://arxiv.org/abs/2611.21682) | arXiv cs.AI · Nov 18 |
 | Systems | [Redict deprecated in favor of Valkey](https://lwn.net/Articles/1108155/) | LWN.net · Nov 17 |
-| Architecture | [How Shopify Orchestrates AI-Powered Mobile App Development Without Overloading Developers' Machines](https://www.infoq.com/news/2026/11/shopify-remote-ai-dev/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 17 |
-| Edge & cloud | [Amazon EMR 8.2 is now available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/) | AWS What's New · Nov 17 |
+| Architecture | [Presentation: Behind Booking.com's AI Evolution: The Unpolished Story](https://www.infoq.com/presentations/bookingcom-ml-data-platform-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 18 |
+| Edge & cloud | [Amazon WorkSpaces Applications adds support for smart card redirection](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/) | AWS What's New · Nov 17 |
 <!-- SIGNALS:END -->
 
 <details>
