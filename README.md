@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Daniel Stenberg](https://simonwillison.net/2026/Nov/18/daniel-stenberg/) | Simon Willison · Nov 18 |
-| AI research | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](https://arxiv.org/abs/2611.21682) | arXiv cs.AI · Nov 18 |
-| Systems | [NGINX2Root: Remote Code Execution vulnerabilities in nginx](https://lwn.net/Articles/1108362/) | LWN.net · Nov 18 |
-| Architecture | [LinkedIn Cuts Daily Spark Shuffle Fetch Failures from 750 to 20 with Apache Celeborn](https://www.infoq.com/news/2026/11/linkedin-celeborn-remote-shuffle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 18 |
-| Edge & cloud | [An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team](https://blog.cloudflare.com/open-clairic/) | Cloudflare Blog · Nov 18 |
+| AI practice | [llm-gemini 0.38](https://simonwillison.net/2026/Nov/18/llm-gemini/) | Simon Willison · Nov 18 |
+| AI research | [Human-AI Mutualism Is Unstable under Capability Asymmetry](https://arxiv.org/abs/2611.23322) | arXiv cs.AI · Nov 19 |
+| Systems | [\[$\] LWN.net Weekly Edition for November 19, 2026](https://lwn.net/Articles/1107147/) | LWN.net · Nov 19 |
+| Architecture | [QCon San Francisco 2026: Use AI to Multiply Your Team as a Staff Engineer](https://www.infoq.com/news/2026/11/ai-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 19 |
+| Edge & cloud | [AWS Transform supports optimized storage for server migration](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/) | AWS What's New · Nov 19 |
 <!-- SIGNALS:END -->
 
 <details>
