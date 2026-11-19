@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [llm-gemini 0.38](https://simonwillison.net/2026/Nov/18/llm-gemini/) | Simon Willison · Nov 18 |
+| AI practice | [PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19/) | Simon Willison · Nov 19 |
 | AI research | [Human-AI Mutualism Is Unstable under Capability Asymmetry](https://arxiv.org/abs/2611.23322) | arXiv cs.AI · Nov 19 |
-| Systems | [\[$\] LWN.net Weekly Edition for November 19, 2026](https://lwn.net/Articles/1107147/) | LWN.net · Nov 19 |
-| Architecture | [QCon San Francisco 2026: Use AI to Multiply Your Team as a Staff Engineer](https://www.infoq.com/news/2026/11/ai-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 19 |
-| Edge & cloud | [AWS Transform supports optimized storage for server migration](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/) | AWS What's New · Nov 19 |
+| Systems | [\[$\] Added indirection allows for larger BPF programs](https://lwn.net/Articles/1106537/) | LWN.net · Nov 19 |
+| Architecture | [Presentation: AI-Assisted Software Delivery: From Code to Production](https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 19 |
+| Edge & cloud | [AWS Marketplace now supports agentic payments with AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/) | AWS What's New · Nov 19 |
 <!-- SIGNALS:END -->
 
 <details>
