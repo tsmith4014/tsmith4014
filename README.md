@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19/) | Simon Willison · Nov 19 |
-| AI research | [Human-AI Mutualism Is Unstable under Capability Asymmetry](https://arxiv.org/abs/2611.23322) | arXiv cs.AI · Nov 19 |
+| AI practice | [Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/) | Simon Willison · Nov 20 |
+| AI research | [Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories](https://arxiv.org/abs/2611.25043) | arXiv cs.AI · Nov 20 |
 | Systems | [\[$\] Added indirection allows for larger BPF programs](https://lwn.net/Articles/1106537/) | LWN.net · Nov 19 |
-| Architecture | [Presentation: AI-Assisted Software Delivery: From Code to Production](https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 19 |
-| Edge & cloud | [AWS Marketplace now supports agentic payments with AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/) | AWS What's New · Nov 19 |
+| Architecture | [Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale](https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 20 |
+| Edge & cloud | [Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/) | AWS What's New · Nov 20 |
 <!-- SIGNALS:END -->
 
 <details>
