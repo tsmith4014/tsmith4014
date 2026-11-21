@@ -125,10 +125,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/) | Simon Willison · Nov 20 |
-| AI research | [Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories](https://arxiv.org/abs/2611.25043) | arXiv cs.AI · Nov 20 |
+| AI research | [PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction](https://arxiv.org/abs/2611.24999) | arXiv cs.LG · Nov 21 |
 | Systems | [\[$\] Bringing the Agama installer to openSUSE Tumbleweed](https://lwn.net/Articles/1107830/) | LWN.net · Nov 20 |
-| Architecture | [Fragments: November 20](https://martinfowler.com/fragments/2026-11-20.html) | Martin Fowler · Nov 20 |
-| Edge & cloud | [Amazon CloudWatch extends the PromQL query window to 30 days](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/) | AWS What's New · Nov 20 |
+| Architecture | [How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug](https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 21 |
+| Edge & cloud | [Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure) | AWS What's New · Nov 21 |
 <!-- SIGNALS:END -->
 
 <details>
