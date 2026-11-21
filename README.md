@@ -127,8 +127,8 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | AI practice | [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/) | Simon Willison · Nov 20 |
 | AI research | [PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction](https://arxiv.org/abs/2611.24999) | arXiv cs.LG · Nov 21 |
 | Systems | [\[$\] Bringing the Agama installer to openSUSE Tumbleweed](https://lwn.net/Articles/1107830/) | LWN.net · Nov 20 |
-| Architecture | [How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug](https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 21 |
-| Edge & cloud | [Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure) | AWS What's New · Nov 21 |
+| Architecture | [Grafana 13.3 Adds Shared Dashboard Variables and Notebooks](https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 21 |
+| Edge & cloud | [AWS Quick now supports plugins to bundle agents, skills, connectors and flows](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/) | AWS What's New · Nov 21 |
 <!-- SIGNALS:END -->
 
 <details>
