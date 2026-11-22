@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/) | Simon Willison · Nov 20 |
-| AI research | [PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction](https://arxiv.org/abs/2611.24999) | arXiv cs.LG · Nov 21 |
+| AI practice | [Muru](https://simonwillison.net/2026/Nov/21/muru/) | Simon Willison · Nov 21 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] Bringing the Agama installer to openSUSE Tumbleweed](https://lwn.net/Articles/1107830/) | LWN.net · Nov 20 |
-| Architecture | [Grafana 13.3 Adds Shared Dashboard Variables and Notebooks](https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 21 |
+| Architecture | [Claude Code Has Been Leaking Secrets Through Its "Don't Ask Again" Feature](https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 22 |
 | Edge & cloud | [AWS Quick now supports plugins to bundle agents, skills, connectors and flows](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/) | AWS What's New · Nov 21 |
 <!-- SIGNALS:END -->
 
