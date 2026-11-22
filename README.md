@@ -127,7 +127,7 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | AI practice | [Muru](https://simonwillison.net/2026/Nov/21/muru/) | Simon Willison · Nov 21 |
 | AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [\[$\] Bringing the Agama installer to openSUSE Tumbleweed](https://lwn.net/Articles/1107830/) | LWN.net · Nov 20 |
-| Architecture | [Claude Code Has Been Leaking Secrets Through Its "Don't Ask Again" Feature](https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 22 |
+| Architecture | [PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls](https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 22 |
 | Edge & cloud | [AWS Quick now supports plugins to bundle agents, skills, connectors and flows](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/) | AWS What's New · Nov 21 |
 <!-- SIGNALS:END -->
 
