@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Muru](https://simonwillison.net/2026/Nov/21/muru/) | Simon Willison · Nov 21 |
-| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
-| Systems | [\[$\] Bringing the Agama installer to openSUSE Tumbleweed](https://lwn.net/Articles/1107830/) | LWN.net · Nov 20 |
-| Architecture | [PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls](https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 22 |
-| Edge & cloud | [AWS Quick now supports plugins to bundle agents, skills, connectors and flows](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/) | AWS What's New · Nov 21 |
+| AI practice | [Select Styling Specimens](https://simonwillison.net/2026/Nov/22/select-styling/) | Simon Willison · Nov 22 |
+| AI research | [Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainsto...](https://arxiv.org/abs/2611.26663) | arXiv cs.AI · Nov 23 |
+| Systems | [CachyOS November 2026 release](https://lwn.net/Articles/1109269/) | LWN.net · Nov 23 |
+| Architecture | [Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents](https://www.infoq.com/news/2026/11/netflix-sdlc-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 23 |
+| Edge & cloud | [Probing DNS at Cloudflare](https://blog.cloudflare.com/probing-dns-at-cloudflare/) | Cloudflare Blog · Nov 23 |
 <!-- SIGNALS:END -->
 
 <details>
