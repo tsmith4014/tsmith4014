@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/) | Simon Willison · Nov 23 |
-| AI research | [Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainsto...](https://arxiv.org/abs/2611.26663) | arXiv cs.AI · Nov 23 |
-| Systems | [CachyOS November 2026 release](https://lwn.net/Articles/1109269/) | LWN.net · Nov 23 |
-| Architecture | [QCon San Francisco 2026: Securing AI Agents in Production](https://www.infoq.com/news/2026/11/qcon-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 23 |
+| AI practice | [datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/) | Simon Willison · Nov 24 |
+| AI research | [SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets](https://arxiv.org/abs/2611.28185) | arXiv cs.AI · Nov 24 |
+| Systems | [Security updates for Tuesday](https://lwn.net/Articles/1109472/) | LWN.net · Nov 24 |
+| Architecture | [CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve](https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 24 |
 | Edge & cloud | [Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/) | AWS What's New · Nov 23 |
 <!-- SIGNALS:END -->
 
