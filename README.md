@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Select Styling Specimens](https://simonwillison.net/2026/Nov/22/select-styling/) | Simon Willison · Nov 22 |
+| AI practice | [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/) | Simon Willison · Nov 23 |
 | AI research | [Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainsto...](https://arxiv.org/abs/2611.26663) | arXiv cs.AI · Nov 23 |
 | Systems | [CachyOS November 2026 release](https://lwn.net/Articles/1109269/) | LWN.net · Nov 23 |
-| Architecture | [Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents](https://www.infoq.com/news/2026/11/netflix-sdlc-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 23 |
-| Edge & cloud | [Probing DNS at Cloudflare](https://blog.cloudflare.com/probing-dns-at-cloudflare/) | Cloudflare Blog · Nov 23 |
+| Architecture | [QCon San Francisco 2026: Securing AI Agents in Production](https://www.infoq.com/news/2026/11/qcon-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 23 |
+| Edge & cloud | [Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/) | AWS What's New · Nov 23 |
 <!-- SIGNALS:END -->
 
 <details>
