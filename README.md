@@ -125,10 +125,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) | Simon Willison · Nov 24 |
-| AI research | [SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets](https://arxiv.org/abs/2611.28185) | arXiv cs.AI · Nov 24 |
-| Systems | [Firefox 161.0 released](https://lwn.net/Articles/1109478/) | LWN.net · Nov 24 |
-| Architecture | [CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve](https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 24 |
-| Edge & cloud | [Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/) | AWS What's New · Nov 24 |
+| AI research | [Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Mul...](https://arxiv.org/abs/2611.31284) | arXiv cs.AI · Nov 25 |
+| Systems | [\[$\] Tainting (or not) on manual driver binding](https://lwn.net/Articles/1103714/) | LWN.net · Nov 25 |
+| Architecture | [DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability](https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 25 |
+| Edge & cloud | [Introducing Search for Agents](https://blog.cloudflare.com/search-for-agents/) | Cloudflare Blog · Nov 25 |
 <!-- SIGNALS:END -->
 
 <details>
