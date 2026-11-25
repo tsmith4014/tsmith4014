@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/) | Simon Willison · Nov 24 |
+| AI practice | [Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) | Simon Willison · Nov 24 |
 | AI research | [SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets](https://arxiv.org/abs/2611.28185) | arXiv cs.AI · Nov 24 |
-| Systems | [Security updates for Tuesday](https://lwn.net/Articles/1109472/) | LWN.net · Nov 24 |
+| Systems | [Firefox 161.0 released](https://lwn.net/Articles/1109478/) | LWN.net · Nov 24 |
 | Architecture | [CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve](https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 24 |
-| Edge & cloud | [Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/) | AWS What's New · Nov 23 |
+| Edge & cloud | [Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/) | AWS What's New · Nov 24 |
 <!-- SIGNALS:END -->
 
 <details>
