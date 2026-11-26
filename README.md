@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) | Simon Willison · Nov 24 |
+| AI practice | [Quoting Scott Aaronson](https://simonwillison.net/2026/Nov/25/scott-aaronson/) | Simon Willison · Nov 25 |
 | AI research | [Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Mul...](https://arxiv.org/abs/2611.31284) | arXiv cs.AI · Nov 25 |
-| Systems | [\[$\] Tainting (or not) on manual driver binding](https://lwn.net/Articles/1103714/) | LWN.net · Nov 25 |
-| Architecture | [DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability](https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 25 |
-| Edge & cloud | [Introducing Search for Agents](https://blog.cloudflare.com/search-for-agents/) | Cloudflare Blog · Nov 25 |
+| Systems | [Dave Täht given the Jonathan B. Postel Service Award](https://lwn.net/Articles/1109691/) | LWN.net · Nov 25 |
+| Architecture | [DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners](https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 25 |
+| Edge & cloud | [AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions](https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/) | AWS What's New · Nov 25 |
 <!-- SIGNALS:END -->
 
 <details>
