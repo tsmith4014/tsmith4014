@@ -124,10 +124,10 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Scott Aaronson](https://simonwillison.net/2026/Nov/25/scott-aaronson/) | Simon Willison · Nov 25 |
-| AI research | [Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Mul...](https://arxiv.org/abs/2611.31284) | arXiv cs.AI · Nov 25 |
-| Systems | [Dave Täht given the Jonathan B. Postel Service Award](https://lwn.net/Articles/1109691/) | LWN.net · Nov 25 |
-| Architecture | [DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners](https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 25 |
+| AI practice | [sqlite3_rsync: Database Remote-Copy Tool For SQLite](https://simonwillison.net/2026/Nov/26/sqlite3-rsync/) | Simon Willison · Nov 26 |
+| AI research | [Context Scaling: A New Frontier of AI Scaling](https://arxiv.org/abs/2611.33160) | arXiv cs.AI · Nov 26 |
+| Systems | [Security updates for Thursday](https://lwn.net/Articles/1109990/) | LWN.net · Nov 26 |
+| Architecture | [Building a Production-Ready Culture and Skills Through SRE-based Training](https://www.infoq.com/news/2026/11/SRE-based-training/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 26 |
 | Edge & cloud | [AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions](https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/) | AWS What's New · Nov 25 |
 <!-- SIGNALS:END -->
 
