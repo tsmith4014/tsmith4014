@@ -125,9 +125,9 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 | Track | Fresh signal | Source |
 |---|---|---|
 | AI practice | [datasette-charts 0.4a0](https://simonwillison.net/2026/Nov/27/datasette-charts/) | Simon Willison · Nov 27 |
-| AI research | [Context Scaling: A New Frontier of AI Scaling](https://arxiv.org/abs/2611.33160) | arXiv cs.AI · Nov 27 |
+| AI research | [Visit arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) | arXiv cs.AI |
 | Systems | [Security updates for Friday](https://lwn.net/Articles/1110189/) | LWN.net · Nov 27 |
-| Architecture | [Meta Brings Code Review Auto-Approval More Mainstream with PyTorch GreenLight](https://www.infoq.com/news/2026/11/uber-agent-spend-steady/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 27 |
+| Architecture | [Anthropic Introduces Claude Ship to Review, Fix, and Approve Pull Requests by Policy](https://www.infoq.com/news/2026/11/anthropic-claude-ship/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 28 |
 | Edge & cloud | [Amazon Timestream for InfluxDB 3 now supports heterogeneous clusters](https://aws.amazon.com/about-aws/whats-new/2026/11/influxdb-heterogeneous-cluster/) | AWS What's New · Nov 27 |
 <!-- SIGNALS:END -->
 
