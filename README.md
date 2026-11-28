@@ -124,11 +124,11 @@ This reel refreshes twice daily through [GitHub Actions](https://github.com/tsmi
 <!-- SIGNALS:START -->
 | Track | Fresh signal | Source |
 |---|---|---|
-| AI practice | [Quoting Jack Despain Zhou](https://simonwillison.net/2026/Nov/26/jack-despain-zhou/) | Simon Willison · Nov 26 |
+| AI practice | [datasette-charts 0.4a0](https://simonwillison.net/2026/Nov/27/datasette-charts/) | Simon Willison · Nov 27 |
 | AI research | [Context Scaling: A New Frontier of AI Scaling](https://arxiv.org/abs/2611.33160) | arXiv cs.AI · Nov 27 |
 | Systems | [Security updates for Friday](https://lwn.net/Articles/1110189/) | LWN.net · Nov 27 |
-| Architecture | [Grafana Begins Its Biggest UI Refresh Since Version 7](https://www.infoq.com/news/2026/11/grfana-ui-refresh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 27 |
-| Edge & cloud | [Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/) | AWS What's New · Nov 26 |
+| Architecture | [Meta Brings Code Review Auto-Approval More Mainstream with PyTorch GreenLight](https://www.infoq.com/news/2026/11/uber-agent-spend-steady/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) | InfoQ · Nov 27 |
+| Edge & cloud | [Amazon Timestream for InfluxDB 3 now supports heterogeneous clusters](https://aws.amazon.com/about-aws/whats-new/2026/11/influxdb-heterogeneous-cluster/) | AWS What's New · Nov 27 |
 <!-- SIGNALS:END -->
 
 <details>
